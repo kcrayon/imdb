@@ -48,7 +48,7 @@ module Imdb
 
     # Returns an array of starring actors as strings
     def starring_actors
-      apex_document.search('//span[@itemprop="actors"]//span[@itemprop="name"]/text()').map(&:content) rescue []
+      apex_document.search("//div[h4[text()='Stars:']]/a[starts-with(@href, '/name/')]").map(&:content) rescue []
     end
 
     # Returns the name of the director
