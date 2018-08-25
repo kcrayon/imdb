@@ -49,7 +49,7 @@ module Imdb
 
     # Returns an array of starring actors as strings
     def starring_actors
-      get_nodes('//span[@itemprop="actors"]//span[@itemprop="name"]/text()', apex_document)
+      get_nodes("//div[h4[text()='Stars:']]/a[starts-with(@href, '/name/')]", apex_document)
     end
 
     # Returns the name of the directors.
