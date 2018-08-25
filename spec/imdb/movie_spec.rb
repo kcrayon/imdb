@@ -4,7 +4,7 @@ require 'spec_helper'
 
 # This test uses "Die hard (1988)" as a testing sample:
 #
-#     http://akas.imdb.com/title/tt0095016/combined
+#     http://www.imdb.com/title/tt0095016/reference
 #
 
 describe 'Imdb::Movie' do
@@ -42,6 +42,7 @@ describe 'Imdb::Movie' do
       char = subject.cast_characters
       cast_char = subject.cast_members_characters
 
+      expect(cast_char[0]).to eq("Bruce Willis => John McClane")
       expect(cast_char[0]).to eq("#{cast[0]} => #{char[0]}")
       expect(cast_char[10]).to eq("#{cast[10]} => #{char[10]}")
       expect(cast_char[-1]).to eq("#{cast[-1]} => #{char[-1]}")
@@ -62,10 +63,25 @@ describe 'Imdb::Movie' do
       reviews = subject.user_reviews
 
       expect(reviews).to be_an(Enumerator)
-      expect(reviews.first.first[:title]).not_to be_blank
-      expect(reviews.first.first[:rating]).to be_an(Integer)
-      expect(reviews.first.first[:rating]).to be_between(0, 10)
-      expect(reviews.first.first[:review]).not_to be_blank
+      first_reviews = reviews.first(40) # Needs to load 2 pages since each page contains 24 reviews
+      expect(first_reviews).to be_an(Array)
+
+      first_reviews.each do |review|
+        expect(review[:title]).not_to be_blank
+        expect(review[:review]).not_to be_blank
+      end
+
+      reviews_with_ratings = first_reviews.select { |r| r[:rating] }
+      expect(reviews_with_ratings.size).to eq(34)
+      reviews_with_ratings.each do |review|
+        expect(review[:rating]).to be_an(Integer)
+        expect(review[:rating]).to be_between(0, 10)
+      end
+
+      ivo_cobra8_review = first_reviews.find { |r| r[:title].include?('hands down my personal favorite') }
+      expect(ivo_cobra8_review).to_not be_nil
+      expect(ivo_cobra8_review[:review]).to include('This film has heart and soul.')
+      expect(ivo_cobra8_review[:rating]).to eq(10)
     end
 
     describe 'fetching a list of imdb actor ids for the cast members' do
@@ -84,7 +100,7 @@ describe 'Imdb::Movie' do
 
     it 'returns the url to the movie trailer' do
       expect(subject.trailer_url).to be_a(String)
-      expect(subject.trailer_url).to eq('http://www.imdb.com/videoplayer/vi782369049')
+      expect(subject.trailer_url).to eq('https://www.imdb.com/videoplayer/vi581042457')
     end
 
     it 'finds the director' do
@@ -133,11 +149,11 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds the poster thumbnail' do
-      expect(subject.poster_thumbnail).to eq('https://images-na.ssl-images-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SY150_CR0,0,101,150_.jpg')
+      expect(subject.poster_thumbnail).to eq('https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SY150_CR0,0,101,150_.jpg')
     end
 
     it 'finds the poster' do
-      expect(subject.poster).to eq('https://images-na.ssl-images-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@.jpg')
+      expect(subject.poster).to eq('https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@.jpg')
     end
 
     it 'finds the rating' do
@@ -195,8 +211,11 @@ describe 'Imdb::Movie' do
 
     it "finds multiple 'also known as' versions" do
       also_known_as = subject.also_known_as
+      aka_hash = Hash[*also_known_as.map { |h| h.values_at(:version, :title) }.flatten]
       expect(also_known_as).to be_a(Array)
       expect(also_known_as.size).to eql(52)
+      expect(aka_hash['France']).to eql('Piège de cristal')
+      expect(aka_hash['Germany']).to eql('Stirb langsam')
     end
 
     it "finds a specific 'also known as' version" do
@@ -239,7 +258,7 @@ describe 'Imdb::Movie' do
   describe 'mpaa rating' do
     context 'movie 0111161' do
       subject { Imdb::Movie.new('0111161') }
-      it 'finds the mpaa rating with explination when present' do
+      it 'finds the mpaa rating with explanation when present' do
         expect(subject.mpaa_rating).to eq('Rated R for language and prison violence')
       end
     end
@@ -269,6 +288,10 @@ describe 'Imdb::Movie' do
         expect(subject.poster).to be_nil
       end
 
+      it 'returns nil as trailer url' do
+        expect(subject.trailer_url).to be_nil
+      end
+
       context 'movie 0111161' do
         subject { Imdb::Movie.new('0111161') }
         it 'returns the release date for movies' do
@@ -283,17 +306,125 @@ describe 'Imdb::Movie' do
       # Pulp Fiction (1994)
       subject { Imdb::Movie.new('0110912') }
       it 'has a poster' do
-        expect(subject.poster).to eq('https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@.jpg')
+        expect(subject.poster).to eq('https://ia.media-imdb.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@.jpg')
       end
     end
   end
 
   describe 'with title that has utf-8 characters' do
+    context 'WALL-E' do
+      # WALL-E
+      subject { Imdb::Movie.search('Wall-E').first }
+
+      it 'returns the proper title' do
+        expect(subject.title).to eq('WALL·E (2008)')
+        expect(subject.title(true)).to eq('WALL·E')
+      end
+
+      it 'returns the proper movie' do
+        expect(subject.year).to eq(2008)
+      end
+    end
+
     context '8 1/2' do
       subject { Imdb::Movie.new('0056801') }
 
       it 'returns the proper title' do
-        expect(subject.title).to eq("Federico Fellini's 8½")
+        expect(subject.title).to include('8½')
+      end
+    end
+  end
+
+  describe 'with many writers and directors' do
+    context "Paris, je t'aime" do
+      # Paris, je t'aime (2006)
+      subject { Imdb::Movie.new('0401711') }
+      it 'has many writers' do
+        expect(subject.writers.size).to eq(30)
+      end
+
+      it "shouldn't have a 'see more' writer" do
+        expect(subject.writers).not_to include('See more »')
+      end
+
+      it 'has many directors' do
+        expect(subject.directors.size).to eq(22)
+      end
+
+      it "shouldn't have a 'see more' director" do
+        expect(subject.directors).not_to include('See more »')
+      end
+    end
+  end
+
+  describe 'with not much information' do
+    context "Avatar 5 (2025)" do
+      subject { Imdb::Movie.new('5637536') }
+      it 'has one director' do
+        expect(subject.director).to eq(['James Cameron'])
+      end
+
+      it 'returns nil as trailer url' do
+        expect(subject.trailer_url).to be_nil
+      end
+
+      it 'returns nil as length' do
+        expect(subject.length).to be_nil
+      end
+
+      it 'returns "unkown" as plot' do
+        expect(subject.plot).to include('unknown')
+      end
+
+      it 'returns "missing" as plot synopsys' do
+        expect(subject.plot_synopsis).to match(/we don't have a synopsis/i)
+      end
+
+      it 'returns nil as plot summary' do
+        expect(subject.plot_summary).to be_nil
+      end
+
+      it 'returns nil as rating' do
+        expect(subject.rating).to be_nil
+      end
+
+      it 'returns nil as metascore' do
+        expect(subject.metascore).to be_nil
+      end
+
+      it 'returns nil as vote' do
+        expect(subject.votes).to be_nil
+      end
+
+      it 'returns nil as tagline' do
+        expect(subject.tagline).to be_nil
+      end
+
+      it 'returns an empty enumerable as reviews' do
+        expect(subject.user_reviews.to_a).to be_empty
+      end
+    end
+
+    context "Untitled Star Wars Trilogy: Episode I" do
+      subject { Imdb::Movie.new('7617048') }
+      it 'has one director' do
+        expect(subject.director).to eq(['Rian Johnson'])
+      end
+
+      it 'returns nil as trailer url' do
+        expect(subject.trailer_url).to be_nil
+      end
+
+      it 'returns nil as length' do
+        expect(subject.length).to be_nil
+      end
+
+      it 'returns nil as year' do
+        expect(subject.year).to be_nil
+      end
+
+      it 'returns nil as release date' do
+        expect(subject.release_date).to be_nil
       end
     end
   end

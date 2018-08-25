@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: Server
-Date: Sun, 22 Apr 2018 20:49:58 GMT
+Date: Sun, 22 Apr 2018 20:53:33 GMT
 Content-Type: text/html;charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 X-Frame-Options: SAMEORIGIN
 Content-Security-Policy: frame-ancestors 'self' imdb.com *.imdb.com *.media-imdb.com withoutabox.com *.withoutabox.com amazon.com *.amazon.com amazon.co.uk *.amazon.co.uk amazon.de *.amazon.de translate.google.com images.google.com www.google.com www.google.co.uk search.aol.com bing.com www.bing.com
 Content-Language: en
-Set-Cookie: uu=BCYrWqttNg_uCoqXfgmvQSgGigy2NOZtBktFzTvj85f60vowpoTyXJC8A01lduIqwXGBLqmoHjd9%0D%0Am5b6bH3r0R5ACPQIxgmtDrAT8yT7cswc5Ov-vrXu8Lp6lGvkhJM76ehTu9y3irnqdLU9ZSQhcJUP%0D%0ApgtHMPatHKw4LT2FDKtB4YbVxlR_LfY_GbAPLg2ivI8uxLlAXe05R9ndpxpT4lWI3Xq_OxPPnnhp%0D%0AYhV3CbX3gb1Cj-fy_kNkkOmilx71mBQkO0Xg_gbkjDg44V6qQ7plow%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:04:05 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:04:05 GMT; Path=/
-Set-Cookie: session-id-time=2155150197; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:04:05 GMT; Path=/
+Set-Cookie: uu=BCYqbEY3Mmm5-JQrCglTz7iwMWgxaNCxxiREKtGexP7xcJTRi-EDFCew2W1MRx_B99gt9LcqwF8v%0D%0AHdGPkjHaHM5xrVbyP4NVmEdXVfWcv3bRP8m8uSkLQWMX69pK-vuvt2hyCqExdBIdEJsVoheCCESq%0D%0AWqOcgxlL1L9HHJ488G_Hka_Hb5VVL4Tos6lN8oEs1rMqCb7yS6kR_KVaSsHYFlMhtQn2AEpv1_ft%0D%0AlxAq7inq5l8jb5Av44fkwculUvgTuOuWBQxxkwh5BFja_zZEYt5S3A%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:40 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:40 GMT; Path=/
+Set-Cookie: session-id-time=2155150413; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:40 GMT; Path=/
 Vary: Accept-Encoding,User-Agent
 
 
@@ -30,7 +30,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt1401252?src=mdot">
+    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt5637536?src=mdot">
 
 
 
@@ -42,7 +42,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
-        <title>Up Is Down (1969) - Reference View - IMDb</title>
+        <title>Avatar 5 (2025) - Reference View - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
     if (typeof uet == 'function') {
@@ -55,8 +55,8 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
 
-        <link rel="canonical" href="https://www.imdb.com/title/tt1401252/reference" />
-        <meta property="og:url" content="http://www.imdb.com/title/tt1401252/reference" />
+        <link rel="canonical" href="https://www.imdb.com/title/tt5637536/reference" />
+        <meta property="og:url" content="http://www.imdb.com/title/tt5637536/reference" />
 
 <script>
     if (typeof uet == 'function') {
@@ -85,24 +85,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
         
-        <meta property="pageId" content="tt1401252" />
+        <meta property="pageId" content="tt5637536" />
         <meta property="pageType" content="title" />
         <meta property="subpageType" content="reference" />
 
 
-        <link rel='image_src' href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB499606982_.png">
-        <meta property='og:image' content="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB499606982_.png" />
+        <link rel='image_src' href="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_UY1200_CR285,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_UY1200_CR285,0,630,1200_AL_.jpg" />
 
         <meta property='og:type' content="video.movie" />
     <meta property='fb:app_id' content='115109575169727' />
 
-    <meta property='og:title' content="Up Is Down (1969)" />
+    <meta property='og:title' content="Avatar 5 (2025)" />
     <meta property='og:site_name' content='IMDb' />
-    <meta name="title" content="Up Is Down (1969) - IMDb" />
-        <meta name="description" content="Up Is Down (1969) Reference View" />
-        <meta property="og:description" content="Up Is Down (1969) Reference View" />
+    <meta name="title" content="Avatar 5 (2025) - IMDb" />
+        <meta name="description" content="Avatar 5 (2025) Reference View" />
+        <meta property="og:description" content="Avatar 5 (2025) Reference View" />
         <meta name="keywords" content="Title, Reference" />
-        <meta name="request_id" content="FEJXH604415HQADF570B" />
+        <meta name="request_id" content="NR7RJRY8R6ZVER5CF5WK" />
 
 <script>
     if (typeof uet == 'function') {
@@ -110,7 +110,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-c42xl-3-1e-654a59e4.us-east-1 -->
+<!-- h=ics-c42xl-3-1e-fbbe4993.us-east-1 -->
 
             <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/title-flat-1709933768._CB497336322_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/ie-3579153447._CB498724035_.css" /><![endif]-->
@@ -540,13 +540,13 @@ https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/navbar/imdbpro_m
         </li>
         <li class="social">
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYgCpRHk7Ds8XC5-Dor4q6BN9mBlZAj0D_q8ksR-Tgw5ewEUV_ez3lfKObao0VOzQzAEHXmIJVR%0D%0AKT8ZMvJ-CTamYXB20Fa8Com5BrmXarWhly8MHaEXmTw_Nsvp-pJpH2qk7GJ_Q0JigoiRlISiog0L%0D%0A3u1TVu3uJP5TopA1AqcnurPsPl_zPGM9KkYInp1nvQ-bi2gd3mEB27IMSPUmpyPMGA%0D%0A&ref_=tr_nv_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYtbxjxYlMvrtqzetMog2FU0YRGFUmciGBnfyyt_FK6xkzdSmDY7BJ8LW0fPcu8x3WVioZ3vYZH%0D%0AJMy4-Gt63rkkAILS8G-qV0nMKXHkB4qdB5vAPaB5g9UbKfYP8nV8X7B50bs4A9dRH6QWLAGYAmVb%0D%0AP124LkcBh0VIJIJGBmhjirOeCv6Ukx3RR_l-o3umgb8VuHttpyF1StewmZImAt2h-Q%0D%0A&ref_=tr_nv_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYh2W0pNWHT6IpaLbtEDYl7nSz1pMxc1KtyyMLXM3XolRAofnynrQbCdRRx6yosAEFNWH9XipCE%0D%0AaOUxSY1XlPMWEK_gzmwfEQtuWdwgegYCMb1y2qqMNqpt7PmG9Cv8ox7OzUO-YQfLIKTaSA5_mMgg%0D%0AYHvzS6XC48F45fB2yBQOe5FXKg6Vdy_Yu1DgSL6HtgsmWcEni_1YrXobLEGlpItv0Q%0D%0A&ref_=tr_nv_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYlHwDwQ7oDdVx8qqoMR1nJQkMxYIUyS7MPmIiwkyfWJSA0ef0E-rnFZ6yWrwCLmXXNja_Ya1XX%0D%0A-js2VGMn2Cj4HN89wn6DL1yy3qzRvEMGopMF7O-qKTZRQO-mrHD4ibZWkv0zBvzDt21GqfXLVoKg%0D%0AO5GbmYFhaP2MuYvX5v7ogZE-CLrUwsq9QEynip1yAPCtO51HqY3IYMpX2FCZN8pK5A%0D%0A&ref_=tr_nv_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYngCgvuhWN2cwgQTN_bpOXTp1SZT7lnMdkzSv_KNA1ve8d1zoVrzLEddRCWwRnexXsWnPEWJ2F%0D%0AnfzAP0zSHSx9DuIW_0dnxSMWKMQFdxkqEDo8HJn08ofKWa2BIKbFZgLOiD6lMr-lnPJFcKRcEoFu%0D%0AAu_TI-wD5NyTL2dB7rzNgvfQ0REzQtyVOj44JMUz6CsCiLM1XLy2-SFQkHP8oK4sLg%0D%0A&ref_=tr_nv_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYty11EHd6H68dPQs8lnVYZy88U78FKx4I_pvYoiAiWvsw6Gv71SRrS5e3_tNMNpGONhL59wMIr%0D%0ANWBL3S7nBdVGzbyGXAdmiXbPHkOVVIw_3K0ndl1YW4_6a-s17nMs-5t6tXMao0AKAI0D5aLFsIjn%0D%0APlQleW1E51MFEl32_Z63-rE_iVv1-SR8POyiGvOc6qOb0A4ICErVdu9KY365siqDrg%0D%0A&ref_=tr_nv_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
         </li>
@@ -559,7 +559,7 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
                 <a id="facebook-signin-link" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyI0OWU2YyI6ImRhMjkiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bnZfZmJfbGdpbiIsIm1hbnVhbExpbmsiOiJmYWxzZSJ9&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F" class="signin-button">
                 <span class="facebook-logo"></span>
                 <span class="signin-facebook-text">Sign in with Facebook</span></a>
-                <a href="https://www.imdb.com/registration/signin?u=/title/tt1401252/reference&ref_=nv_usr_lgin_1"
+                <a href="https://www.imdb.com/registration/signin?u=/title/tt5637536/reference&ref_=nv_usr_lgin_1"
 rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in options</a>
                 </p>
         </li>
@@ -590,11 +590,14 @@ rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in option
     <section class="article listo content-advisories-index">
     <div class="titlereference-header">
 <div>
-    <div class="ribbonize titlereference-watch-ribbon" data-tconst="tt1401252" data-caller-name="title"></div>
+<a href="/title/tt5637536/mediaviewer/rm1197290240?ref_=tt_rv"
+> <img itemprop="image" height="150" width="101" alt="Poster" class="titlereference-primary-image"
+src="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_SY150_CR24,0,101,150_.jpg" />
+</a>    <div class="ribbonize titlereference-watch-ribbon" data-tconst="tt5637536" data-caller-name="title"></div>
     <h3 itemprop="name">
-Up Is Down             <span class="titlereference-title-year">
-                    (<a href="/search/title?year=1969&ref_=tt_rv"
-itemprop='url'>1969</a>)
+Avatar 5             <span class="titlereference-title-year">
+                    (<a href="/search/title?year=2025&ref_=tt_rv"
+itemprop='url'>2025</a>)
              </span>
     </h3>
     <hr>
@@ -611,339 +614,58 @@ itemprop='url'>1969</a>)
     <hr>
     <ul class="ipl-inline-list">
             <li class="ipl-inline-list__item">
-                5min
+<a href="/genre/action">Action</a>, 
+<a href="/genre/adventure">Adventure</a>
             </li>
             <li class="ipl-inline-list__item">
-<a href="/genre/animation">Animation</a>, 
-<a href="/genre/short">Short</a>
-            </li>
-            <li class="ipl-inline-list__item">
-        <a href="/title/tt1401252/releaseinfo">1969 (USA)</a>
+        <a href="/title/tt5637536/releaseinfo">19 Dec 2025 (USA)</a>
             </li>
         <li class="ipl-inline-list__item">
-            Short
+            Movie
         </li>
     </ul>
     <hr>
     <ul class="ipl-inline-list">
-                <li class="ipl-inline-list__item">
-    <div class="ipl-rating-widget">
-    <div class="ipl-rating-star ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">7.1</span>
-            <span class="ipl-rating-star__total-votes">(19)</span>
-    </div>
-    <div class="ipl-rating-interactive  ipl-rating-interactive--no-rating">
-        <input type="checkbox" class="ipl-rating-interactive__state" id="checkbox-tt1401252" data-tconst="tt1401252" data-reftag="tt_ref">
-        <label class="ipl-rating-interactive__star-container" for="checkbox-tt1401252">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">0</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-        </label>
-    <div class="ipl-rating-selector" id="ipl-rating-selector-tt1401252" data-value="0">
-        <div class="ipl-rating-selector__selector ipl-rating-selector__wrapper">
-            <div class="ipl-rating-selector__reset">
-                <a href="#void">            <svg class="ipl-cancel-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-</a>
-            </div>
-            <span class="ipl-rating-selector__divider"></span>
-            <form class="ipl-rating-selector__star-list" method="post" action="/ratings/_ajax/title">
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="1">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">1</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="2">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">2</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="3">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">3</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="4">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">4</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="5">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">5</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="6">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">6</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="7">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">7</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="8">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">8</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="9">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">9</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                    <a href="#void" class="ipl-rating-selector__star-link " data-value="10">
-    <div class="ipl-rating-star ipl-rating-interactive__star">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">10</span>
-    </div>
-    <div class="ipl-rating-star ipl-rating-interactive__star--empty ">
-        <span class="ipl-rating-star__star">
-            <svg class="ipl-star-border-icon" xmlns="http://www.w3.org/2000/svg" fill="#000000" height="24" viewBox="0 0 24 24" width="24">
-                <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
-                <path d="M0 0h24v24H0z" fill="none"/>
-            </svg>
-        </span>
-        <span class="ipl-rating-star__rating">Rate</span>
-    </div>
-                    </a>
-                <fieldset class="ipl-rating-selector__fieldset">
-                    <input type="hidden" name="tconst" value="tt1401252"/>
-                    <input type="text" name="rating" value="0"/>
-                    <input type="hidden" name="auth" value=""/>
-                    <input type="hidden" name="tracking_tag" value="tt_ref"/>
-                </fieldset>
-                <noscript>
-                    <input type="submit" class="ipl-rating-selector__rating-submit" value="Vote"/>
-                </noscript>
-            </form>
-            <span class="ipl-rating-selector__rating-value">0</span>
-        </div>
-        <div class="ipl-rating-selector__error ipl-rating-selector__wrapper">
-            <span>Error: please try again.</span>
-        </div>
-    </div>
-        <div class="ipl-rating-interactive__loader">
-            <img src="https://i.media-imdb.com/images/spinning-progress.gif" alt="loading" />
-        </div>
-    </div>
-    </div>
-                </li>
     </ul>
-        <hr>
 </div>
     </div>
     <section class="titlereference-section-overview">
     <div>
         
-            A boy who walks on his hands enjoys a different view of the world.
+            Sequel of Avatar 4 (2024) and last movie of the "Avatar" saga. The plot is unknown.
     </div>
         <hr>
     <div class="titlereference-overview-section">
         Director: 
         <ul class="ipl-inline-list">
             <li class="ipl-inline-list__item">
-<a href="/name/nm3378380">Millie Goldsholl</a>
+<a href="/name/nm0000116">James Cameron</a>
             </li>
         </ul>
     </div>
     <div class="titlereference-overview-section">
-        Writer: 
+        Writers: 
         <ul class="ipl-inline-list">
             <li class="ipl-inline-list__item">
-<a href="/name/nm3378380">Millie Goldsholl</a>
+<a href="/name/nm0000116">James Cameron</a>, 
+<a href="/name/nm0000116">James Cameron</a>, 
+<a href="/name/nm0004307">Shane Salerno</a>
             </li>
         </ul>
     </div>
     <div class="titlereference-overview-section">
-        Star: 
+        Stars: 
         <ul class="ipl-inline-list">
             <li class="ipl-inline-list__item">
-<a href="/name/nm0175788">Hans Conried</a>
+<a href="/name/nm0757855">Zoe Saldana</a>, 
+<a href="/name/nm0000610">Giovanni Ribisi</a>, 
+<a href="/name/nm0941777">Sam Worthington</a>
             </li>
+                <li class="ipl-inline-list__item">
+    <a href="/title/tt5637536/fullcredits" class=>See more &raquo;</a>
+                </li>
         </ul>
     </div>
-        <div>
-Review: <ul class="ipl-inline-list titlereference-overview-review-list"><li class="ipl-inline-list__item">        <a href="/title/tt1401252/reviews">1 User</a>
-                    </li>
-            </ul>
-        </div>
     </section>
     <section class="titlereference-section-media">
         <header class="ipl-header">
@@ -958,7 +680,7 @@ Review: <ul class="ipl-inline-list titlereference-overview-review-list"><li clas
             </div>
             <div id="combined-photos">
                 <div class="mediastrip">
-<a href="/registration/signin?u=https%3A//www.imdb.com/title/tt1401252/reference"
+<a href="/registration/signin?u=https%3A//www.imdb.com/title/tt5637536/reference"
 onclick="imdb.contribution.clickHandler(event)" class="add-image" > <span class="add-image-container" style="width:87px;height:87px">
 <span class="add-image-icon" />
 <span class="add-image-text">Add Image</span>
@@ -966,25 +688,49 @@ onclick="imdb.contribution.clickHandler(event)" class="add-image" > <span class=
 </a>                </div>
             </div>
             
+                <div class="combined-see-more see-more">
+                    <a href="mediaindex"><span class="titlePageSprite showAllVidsAndPics"></span></a>
+                    
+                        <a href="mediaindex">1 photo</a>
+                 
+
+                </div>
         </div>
     </section>
+            <section>
+                <h4 class="ipl-header__content ipl-list-title">Production Notes from IMDbPro</h4>
+                <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Status: </td>
+            <td>
+                    pre production
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Status Updated: </td>
+            <td>
+                    24 Mar 2018
+            </td>
+        </tr>
+                </table>
+            </section>
         <section class="titlereference-section-credits">
     <header class="ipl-header">
         <div class="ipl-header__content">        <h4 name="cast" id="cast" class="ipl-header__content ipl-list-title">Cast</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:cast">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:cast">Edit</a>
     </header>
     <table class="cast_list">
             <tr><td colspan="4" class="castlist_label">
-                
+                Other cast:
             </td></tr>
                 <tr class="odd">
                     <td class="primary_photo">
-<a href="/name/nm0175788/?ref_=tt_rv_i0"
-><img height="35" width="26" alt="Hans Conried" title="Hans Conried" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTgyODMwOTkzNV5BMl5BanBnXkFtZTcwMzY1MDgwOA@@._V1_SY35_CR0,0,26,35_.jpg" /></a>                    </td>
+<a href="/name/nm0757855/?ref_=tt_rv_i0"
+><img height="35" width="26" alt="Zoe Saldana" title="Zoe Saldana" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjA4NDk1NTA1OV5BMl5BanBnXkFtZTcwMTIzMjQ4Ng@@._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
                     <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
-<a href="/name/nm0175788/?ref_=tt_rv_t0"
-itemprop='url'> <span class="itemprop" itemprop="name">Hans Conried</span>
+<a href="/name/nm0757855/?ref_=tt_rv_t0"
+itemprop='url'> <span class="itemprop" itemprop="name">Zoe Saldana</span>
 </a>                    </td>
                     <td class="ellipsis">
                          
@@ -992,9 +738,160 @@ itemprop='url'> <span class="itemprop" itemprop="name">Hans Conried</span>
                     </td>
                     <td class="character">
                         <div>
-Narrator                                (voice)
-                                
-                        </div>
+Neytiri                        </div>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td class="primary_photo">
+<a href="/name/nm0000610/?ref_=tt_rv_i1"
+><img height="35" width="26" alt="Giovanni Ribisi" title="Giovanni Ribisi" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTk2MDAwMTQ5OV5BMl5BanBnXkFtZTcwNjY0MzY1Mw@@._V1_SY35_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0000610/?ref_=tt_rv_t1"
+itemprop='url'> <span class="itemprop" itemprop="name">Giovanni Ribisi</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Parker Selfridge                        </div>
+                    </td>
+                </tr>
+                <tr class="odd">
+                    <td class="primary_photo">
+<a href="/name/nm0941777/?ref_=tt_rv_i2"
+><img height="35" width="26" alt="Sam Worthington" title="Sam Worthington" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTc5NTMyMjIwMV5BMl5BanBnXkFtZTcwNTMyNjYwMw@@._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0941777/?ref_=tt_rv_t2"
+itemprop='url'> <span class="itemprop" itemprop="name">Sam Worthington</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Jake Sully                        </div>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td class="primary_photo">
+<a href="/name/nm0000244/?ref_=tt_rv_i3"
+><img height="35" width="26" alt="Sigourney Weaver" title="Sigourney Weaver" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_SY35_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0000244/?ref_=tt_rv_t3"
+itemprop='url'> <span class="itemprop" itemprop="name">Sigourney Weaver</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Grace Augustine                        </div>
+                    </td>
+                </tr>
+                <tr class="odd">
+                    <td class="primary_photo">
+<a href="/name/nm0002332/?ref_=tt_rv_i4"
+><img height="35" width="26" alt="Stephen Lang" title="Stephen Lang" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjE4NzYwNTc5Nl5BMl5BanBnXkFtZTcwMzQzOTUyNw@@._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0002332/?ref_=tt_rv_t4"
+itemprop='url'> <span class="itemprop" itemprop="name">Stephen Lang</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Miles Quaritch                        </div>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td class="primary_photo">
+<a href="/name/nm2772105/?ref_=tt_rv_i5"
+><img height="35" width="26" alt="Oona Chaplin" title="Oona Chaplin" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjkwMjAyNjY4MF5BMl5BanBnXkFtZTcwMjA2MDg0Nw@@._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm2772105/?ref_=tt_rv_t5"
+itemprop='url'> <span class="itemprop" itemprop="name">Oona Chaplin</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Varang                        </div>
+                    </td>
+                </tr>
+                <tr class="odd">
+                    <td class="primary_photo">
+<a href="/name/nm0193295/?ref_=tt_rv_i6"
+><img height="35" width="26" alt="Cliff Curtis" title="Cliff Curtis" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BOTk4ODc3NjQxOF5BMl5BanBnXkFtZTgwOTkyMjQ1ODE@._V1_SY35_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0193295/?ref_=tt_rv_t6"
+itemprop='url'> <span class="itemprop" itemprop="name">Cliff Curtis</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Tonowari                        </div>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td class="primary_photo">
+<a href="/name/nm0001634/?ref_=tt_rv_i7"
+><img height="35" width="26" alt="CCH Pounder" title="CCH Pounder" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTM4MTI0NzkzN15BMl5BanBnXkFtZTYwNzExNzgz._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0001634/?ref_=tt_rv_t7"
+itemprop='url'> <span class="itemprop" itemprop="name">CCH Pounder</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Moat                        </div>
+                    </td>
+                </tr>
+                <tr class="odd">
+                    <td class="primary_photo">
+<a href="/name/nm0601376/?ref_=tt_rv_i8"
+><img height="35" width="26" alt="Joel David Moore" title="Joel David Moore" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BZjRiZjA1NjMtZDMyZC00MDE4LTg1MDctYzdiNDU5N2RjZjE3XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_SX26_CR0,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0601376/?ref_=tt_rv_t8"
+itemprop='url'> <span class="itemprop" itemprop="name">Joel David Moore</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Norm Spellman                        </div>
+                    </td>
+                </tr>
+                <tr class="even">
+                    <td class="primary_photo">
+<a href="/name/nm0313902/?ref_=tt_rv_i9"
+><img height="35" width="26" alt="Matt Gerald" title="Matt Gerald" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB499603809_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BZmI4ZjAyNWUtYjYwYy00YzkwLWFjOWQtOGM1MjlhZGYyY2RlXkEyXkFqcGdeQXVyMDcyNDk1OQ@@._V1_SY35_CR18,0,26,35_.jpg" /></a>                    </td>
+                    <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0313902/?ref_=tt_rv_t9"
+itemprop='url'> <span class="itemprop" itemprop="name">Matt Gerald</span>
+</a>                    </td>
+                    <td class="ellipsis">
+                         
+                        ...
+                    </td>
+                    <td class="character">
+                        <div>
+Corporal Lyle Wainfleet                        </div>
                     </td>
                 </tr>
     </table>
@@ -1003,15 +900,15 @@ Narrator                                (voice)
             Directed by
         </h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:directors">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:directors">Edit</a>
     </header>
 
     <table class="simpleTable spFirst crew_list">
         <tbody>
                     <tr>
                         <td class="name">
-                            <a href="/name/nm3378380/?ref_=tt_rv"
->Millie Goldsholl</a>
+                            <a href="/name/nm0000116/?ref_=tt_rv"
+>James Cameron</a>
                         </td>
                             <td colspan=2></td>
                     </tr>
@@ -1022,18 +919,42 @@ Narrator                                (voice)
             Written by
         </h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:writers">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:writers">Edit</a>
     </header>
     <table class="simpleTable spFirst writers_list">
         <tbody>
                         <tr>
                             <td class="name">
-                                <a href="/name/nm3378380/?ref_=tt_rv"
->Millie Goldsholl</a>
+                                <a href="/name/nm0000116/?ref_=tt_rv"
+>James Cameron</a>
                             </td>
                             <td>...</td>
                             <td>
-                                (written by)
+                                (characters)
+                                
+                            </td>
+                        </tr>
+                <tr><td colspan="3">&nbsp;</td></tr>
+                        <tr>
+                            <td class="name">
+                                <a href="/name/nm0000116/?ref_=tt_rv"
+>James Cameron</a>
+                            </td>
+                            <td>...</td>
+                            <td>
+                                ()
+                                
+                            </td>
+                        </tr>
+                <tr><td colspan="3">&nbsp;</td></tr>
+                        <tr>
+                            <td class="name">
+                                <a href="/name/nm0004307/?ref_=tt_rv"
+>Shane Salerno</a>
+                            </td>
+                            <td>...</td>
+                            <td>
+                                (screenplay)
                                 
                             </td>
                         </tr>
@@ -1045,15 +966,15 @@ Narrator                                (voice)
             Produced by
         </h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:producers">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:producers">Edit</a>
     </header>
 
     <table class="simpleTable spFirst crew_list">
         <tbody>
                     <tr>
                         <td class="name">
-                            <a href="/name/nm3378521/?ref_=tt_rv"
->Morton Goldsholl</a>
+                            <a href="/name/nm0000116/?ref_=tt_rv"
+>James Cameron</a>
                         </td>
                             <td>...</td>
                             <td>producer</td>
@@ -1061,96 +982,46 @@ Narrator                                (voice)
         </tbody>
     </table>
     <header class="ipl-header">
-        <div class="ipl-header__content">        <h4 name="composers" id="composers" class="ipl-header__content ipl-list-title">
-            Music by
+        <div class="ipl-header__content">        <h4 name="special_effects" id="special_effects" class="ipl-header__content ipl-list-title">
+            Special Effects by
         </h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:composers">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:special_effects_department">Edit</a>
     </header>
 
     <table class="simpleTable spFirst crew_list">
         <tbody>
                     <tr>
                         <td class="name">
-                            <a href="/name/nm3376713/?ref_=tt_rv"
->Dick Boyell</a>
-                        </td>
-                            <td colspan=2></td>
-                    </tr>
-        </tbody>
-    </table>
-    <header class="ipl-header">
-        <div class="ipl-header__content">        <h4 name="production_designers" id="production_designers" class="ipl-header__content ipl-list-title">
-            Production Design by
-        </h4>
-</div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:production_designers">Edit</a>
-    </header>
-
-    <table class="simpleTable spFirst crew_list">
-        <tbody>
-                    <tr>
-                        <td class="name">
-                            <a href="/name/nm3378380/?ref_=tt_rv"
->Millie Goldsholl</a>
-                        </td>
-                            <td colspan=2></td>
-                    </tr>
-        </tbody>
-    </table>
-    <header class="ipl-header">
-        <div class="ipl-header__content">        <h4 name="animation_department" id="animation_department" class="ipl-header__content ipl-list-title">
-            Animation Department
-        </h4>
-</div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:animation_department">Edit</a>
-    </header>
-
-    <table class="simpleTable spFirst crew_list">
-        <tbody>
-                    <tr>
-                        <td class="name">
-                            <a href="/name/nm0078828/?ref_=tt_rv"
->Dan Bessie</a>
+                            <a href="/name/nm0007433/?ref_=tt_rv"
+>H. Barclay Aaris</a>
                         </td>
                             <td>...</td>
-                            <td>animator</td>
+                            <td>special effects buyer</td>
                     </tr>
                     <tr>
                         <td class="name">
-                            <a href="/name/nm3378380/?ref_=tt_rv"
->Millie Goldsholl</a>
+                            <a href="/name/nm8614447/?ref_=tt_rv"
+>Nick Rand</a>
                         </td>
                             <td>...</td>
-                            <td>animator (uncredited)</td>
-                    </tr>
-        </tbody>
-    </table>
-    <header class="ipl-header">
-        <div class="ipl-header__content">        <h4 name="thanks" id="thanks" class="ipl-header__content ipl-list-title">
-            Thanks
-        </h4>
-</div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:thanks">Edit</a>
-    </header>
-
-    <table class="simpleTable spFirst crew_list">
-        <tbody>
-                    <tr>
-                        <td class="name">
-                            <a href="/name/nm3378722/?ref_=tt_rv"
->June Brindel</a>
-                        </td>
-                            <td>...</td>
-                            <td>thanks</td>
+                            <td>special effects cad designer</td>
                     </tr>
                     <tr>
                         <td class="name">
-                            <a href="/name/nm0455052/?ref_=tt_rv"
->Martin Luther King</a>
+                            <a href="/name/nm0777069/?ref_=tt_rv"
+>J.D. Schwalm</a>
                         </td>
                             <td>...</td>
-                            <td>dedicatee (as Martin Luther King Jr.)</td>
+                            <td>special effects supervisor</td>
+                    </tr>
+                    <tr>
+                        <td class="name">
+                            <a href="/name/nm0819941/?ref_=tt_rv"
+>Robert Spurlock</a>
+                        </td>
+                            <td>...</td>
+                            <td>special effects cad designer</td>
                     </tr>
         </tbody>
     </table>
@@ -1160,31 +1031,41 @@ Narrator                                (voice)
     <header class="ipl-header">
         <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Production Companies</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:production_companies">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:production_companies">Edit</a>
     </header>
         <ul class="simpleList">
                 <li>
-                        <a href="/company/co0267063/">Goldsholl & Associates</a>
+                        <a href="/company/co0174373/">Dune Entertainment</a>
+                </li>
+                <li>
+                        <a href="/company/co0136728/">Ingenious Film Partners</a>
+                </li>
+                <li>
+                        <a href="/company/co0038663/">Lightstorm Entertainment</a>
                 </li>
         </ul>
     <header class="ipl-header">
         <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Distributors</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:distributors">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:distributors">Edit</a>
     </header>
         <ul class="simpleList">
+                <li>
+                        <a href="/company/co0000756/">Twentieth Century Fox</a>
+                         (2025) (United States) (theatrical)
+                </li>
         </ul>
     <header class="ipl-header">
         <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Special Effects</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:special_effects_companies">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:special_effects_companies">Edit</a>
     </header>
         <ul class="simpleList">
         </ul>
     <header class="ipl-header">
         <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Other Companies</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:miscellaneous_companies">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:miscellaneous_companies">Edit</a>
     </header>
         <ul class="simpleList">
         </ul>
@@ -1193,7 +1074,7 @@ Narrator                                (voice)
     <header class="ipl-header">
         <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Storyline</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:plot/keywords/taglines/certificates/genres">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:plot/keywords/taglines/certificates/genres">Edit</a>
     </header>
             <table class="titlereference-list ipl-zebra-list">
         <tr class="ipl-zebra-list__item">
@@ -1201,22 +1082,22 @@ Narrator                                (voice)
             <td>
                 <ul class="ipl-inline-list">
                         <li class="ipl-inline-list__item">
-                            <a href="/keyword/walking-on-hands">walking-on-hands</a>
+                            <a href="/keyword/sequel">sequel</a>
                         </li>
                         <li class="ipl-inline-list__item">
-                            <a href="/keyword/tolerance">tolerance</a>
+                            <a href="/keyword/fifth-part">fifth-part</a>
                         </li>
                         <li class="ipl-inline-list__item">
-                            <a href="/keyword/television">television</a>
+                            <a href="/keyword/3-d">3-d</a>
                         </li>
                         <li class="ipl-inline-list__item">
-                            <a href="/keyword/teacher">teacher</a>
+                            <a href="/keyword/3-dimensional">3-dimensional</a>
                         </li>
                         <li class="ipl-inline-list__item">
-                            <a href="/keyword/spiraling-eyes">spiraling-eyes</a>
+                            <a href="/keyword/3d">3d</a>
                         </li>
                     <li class="ipl-inline-list__item">
-                        <a href="/title/tt1401252/keywords">See All (14) &raquo;</a>
+                        <a href="/title/tt5637536/keywords">See All (7) &raquo;</a>
                     </li>
                 </ul>
             </td>
@@ -1226,10 +1107,16 @@ Narrator                                (voice)
             <td>
                 <ul class="ipl-inline-list">
                         <li class="ipl-inline-list__item">
-                            <a href="/genre/Animation">Animation</a>
+                            <a href="/genre/Action">Action</a>
                         </li>
                         <li class="ipl-inline-list__item">
-                            <a href="/genre/Short">Short</a>
+                            <a href="/genre/Adventure">Adventure</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/genre/Fantasy">Fantasy</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/genre/Sci-Fi">Sci-Fi</a>
                         </li>
                 </ul>
             </td>
@@ -1237,7 +1124,7 @@ Narrator                                (voice)
         <tr class="ipl-zebra-list__item">
             <td class="ipl-zebra-list__label">Parents Guide</td>
             <td>
-                <a href="/title/tt1401252/parentalguide">Add content advisory for parents &raquo;</a>
+                <a href="/title/tt5637536/parentalguide">Add content advisory for parents &raquo;</a>
             </td>
         </tr>
             </table>
@@ -1246,7 +1133,7 @@ Narrator                                (voice)
     <header class="ipl-header">
         <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Additional Details</h4>
 </div>
-        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt1401252:akas/running_times/countries/language/color_info/technical_rat/sound_mix/locations">Edit</a>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:akas/running_times/countries/language/color_info/technical_rat/sound_mix/locations">Edit</a>
     </header>
             <table class="titlereference-list ipl-zebra-list">
         <tr class="ipl-zebra-list__item">
@@ -1254,18 +1141,8 @@ Narrator                                (voice)
             <td>
                 <ul class="ipl-inline-list">
                         <li class="ipl-inline-list__item">
-                            Up Is Down
+                            Avatar 5
                             (United States)
-                        </li>
-                </ul>
-            </td>
-        </tr>
-        <tr class="ipl-zebra-list__item">
-            <td class="ipl-zebra-list__label">Runtime</td>
-            <td>
-                <ul class="ipl-inline-list">
-                        <li class="ipl-inline-list__item">
-                            5 min
                         </li>
                 </ul>
             </td>
@@ -1302,6 +1179,23 @@ Narrator                                (voice)
         </tr>
             </table>
         </section>
+        <section class="titlereference-section-did-you-know">
+    <header class="ipl-header">
+        <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Did You Know?</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt5637536:trivia/goofs/soundtracks/crazy_credits/quotes/movie_links">Edit</a>
+    </header>
+            <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Movie Connections</td>
+            <td>
+                Follows
+<a href="/title/tt0499549/">Avatar</a>&nbsp;(2009).                
+                    <a href="/title/tt5637536/movieconnections">See more &raquo;</a>
+            </td>
+        </tr>
+            </table>
+        </section>
     </section>
 
 
@@ -1322,7 +1216,7 @@ Narrator                                (voice)
                 <div class="button-box">
                     <form method="get" action="https://contribute.imdb.com/updates">
                         <input type="hidden" name="ref_" value="tt_cn_edt" />
-                        <input type="hidden" name="edit" value="legacy/title/tt1401252/" />
+                        <input type="hidden" name="edit" value="legacy/title/tt5637536/" />
                             <button class="btn primary large" rel="login" type="submit">Edit page</button>
                     </form>
                 </div>
@@ -1360,27 +1254,27 @@ Narrator                                (voice)
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/fullcredits?ref_=tt_ql_dt_1"
+<a href="/title/tt5637536/fullcredits?ref_=tt_ql_dt_1"
 class="link" >Full Cast and Crew</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/releaseinfo?ref_=tt_ql_dt_2"
+<a href="/title/tt5637536/releaseinfo?ref_=tt_ql_dt_2"
 class="link" >Release Dates</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/officialsites?ref_=tt_ql_dt_3"
+<a href="/title/tt5637536/officialsites?ref_=tt_ql_dt_3"
 class="link ghost" >Official Sites</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/companycredits?ref_=tt_ql_dt_4"
+<a href="/title/tt5637536/companycredits?ref_=tt_ql_dt_4"
 class="link" >Company Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/locations?ref_=tt_ql_dt_5"
+<a href="/title/tt5637536/locations?ref_=tt_ql_dt_5"
 class="link ghost" >Filming & Production</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/technical?ref_=tt_ql_dt_6"
+<a href="/title/tt5637536/technical?ref_=tt_ql_dt_6"
 class="link" >Technical Specs</a>
                 </li>
     </ul>
@@ -1391,24 +1285,20 @@ class="link" >Technical Specs</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/taglines?ref_=tt_ql_stry_1"
+<a href="/title/tt5637536/taglines?ref_=tt_ql_stry_1"
 class="link ghost" >Taglines</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/plotsummary?ref_=tt_ql_stry_2"
+<a href="/title/tt5637536/plotsummary?ref_=tt_ql_stry_2"
 class="link" >Plot Summary</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/synopsis?ref_=tt_ql_stry_3"
+<a href="/title/tt5637536/synopsis?ref_=tt_ql_stry_3"
 class="link ghost" >Synopsis</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/keywords?ref_=tt_ql_stry_4"
+<a href="/title/tt5637536/keywords?ref_=tt_ql_stry_4"
 class="link" >Plot Keywords</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt1401252/parentalguide?ref_=tt_ql_stry_5"
-class="link ghost" >Parents Guide</a>
                 </li>
     </ul>
 
@@ -1418,31 +1308,31 @@ class="link ghost" >Parents Guide</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/trivia?ref_=tt_ql_trv_1"
+<a href="/title/tt5637536/trivia?ref_=tt_ql_trv_1"
 class="link ghost" >Trivia</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/goofs?ref_=tt_ql_trv_2"
+<a href="/title/tt5637536/goofs?ref_=tt_ql_trv_2"
 class="link ghost" >Goofs</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/crazycredits?ref_=tt_ql_trv_3"
+<a href="/title/tt5637536/crazycredits?ref_=tt_ql_trv_3"
 class="link ghost" >Crazy Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/quotes?ref_=tt_ql_trv_4"
+<a href="/title/tt5637536/quotes?ref_=tt_ql_trv_4"
 class="link ghost" >Quotes</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/alternateversions?ref_=tt_ql_trv_5"
+<a href="/title/tt5637536/alternateversions?ref_=tt_ql_trv_5"
 class="link ghost" >Alternate Versions</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/movieconnections?ref_=tt_ql_trv_6"
-class="link ghost" >Connections</a>
+<a href="/title/tt5637536/movieconnections?ref_=tt_ql_trv_6"
+class="link" >Connections</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/soundtrack?ref_=tt_ql_trv_7"
+<a href="/title/tt5637536/soundtrack?ref_=tt_ql_trv_7"
 class="link ghost" >Soundtracks</a>
                 </li>
     </ul>
@@ -1453,12 +1343,12 @@ class="link ghost" >Soundtracks</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/mediaindex?ref_=tt_ql_pv_1"
-class="link ghost" >Photo Gallery</a>
+<a href="/title/tt5637536/mediaindex?ref_=tt_ql_pv_1"
+class="link" >Photo Gallery</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/videogallery?ref_=tt_ql_pv_2"
-class="link ghost" >Trailers and Videos</a>
+<a href="/title/tt5637536/videogallery?ref_=tt_ql_pv_2"
+class="link" >Trailers and Videos</a>
                 </li>
     </ul>
 
@@ -1468,27 +1358,27 @@ class="link ghost" >Trailers and Videos</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/awards?ref_=tt_ql_op_1"
+<a href="/title/tt5637536/awards?ref_=tt_ql_op_1"
 class="link ghost" >Awards</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/faq?ref_=tt_ql_op_2"
+<a href="/title/tt5637536/faq?ref_=tt_ql_op_2"
 class="link ghost" >FAQ</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/reviews?ref_=tt_ql_op_3"
-class="link" >User Reviews</a>
+<a href="/title/tt5637536/reviews?ref_=tt_ql_op_3"
+class="link ghost" >User Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/ratings?ref_=tt_ql_op_4"
-class="link" >User Ratings</a>
+<a href="/title/tt5637536/ratings?ref_=tt_ql_op_4"
+class="link ghost" >User Ratings</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/externalreviews?ref_=tt_ql_op_5"
+<a href="/title/tt5637536/externalreviews?ref_=tt_ql_op_5"
 class="link ghost" >External Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/criticreviews?ref_=tt_ql_op_6"
+<a href="/title/tt5637536/criticreviews?ref_=tt_ql_op_6"
 class="link ghost" >Metacritic Reviews</a>
                 </li>
     </ul>
@@ -1499,7 +1389,7 @@ class="link ghost" >Metacritic Reviews</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/tvschedule?ref_=tt_ql_tv_1"
+<a href="/title/tt5637536/tvschedule?ref_=tt_ql_tv_1"
 class="link ghost" >TV Schedule</a>
                 </li>
     </ul>
@@ -1510,16 +1400,12 @@ class="link ghost" >TV Schedule</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt1401252/news?ref_=tt_ql_rel_1"
-class="link ghost" >News</a>
+<a href="/title/tt5637536/news?ref_=tt_ql_rel_1"
+class="link" >News</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/showtimes/title/tt1401252?ref_=tt_ql_rel_2"
-class="link ghost" >Showtimes</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt1401252/externalsites?ref_=tt_ql_rel_3"
-class="link ghost" >External Sites</a>
+<a href="/title/tt5637536/externalsites?ref_=tt_ql_rel_2"
+class="link" >External Sites</a>
                 </li>
     </ul>
     <hr/>
@@ -1533,11 +1419,11 @@ class="link ghost" >External Sites</a>
     <div class="social">
       <div class="social_networking">
        <span><strong>Share</strong> this page:</span>
-  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Up%20Is%20Down%20(1969)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Up%20Is%20Down%20(1969)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
-  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt1401252/"></a>
+  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Avatar%205%20(2025)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Avatar%205%20(2025)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt5637536/"></a>
       </div>
-      <input type="text" name="share-link" value="https://www.imdb.com/title/tt1401252/" readonly>
+      <input type="text" name="share-link" value="https://www.imdb.com/title/tt5637536/" readonly>
     </div>
     <div class="social_networking_like">
         <script type="text/javascript">
@@ -1553,7 +1439,7 @@ class="link ghost" >External Sites</a>
             seamless
             frameborder="0"
             allowTransparency="allowTransparency"
-            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F"
+            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F"
         ></iframe>
     </div>
   </div>
@@ -1620,13 +1506,13 @@ class="link ghost" >External Sites</a>
                 <div class="col outside">
     <h3>IMDb Everywhere</h3>
     <div class="app-links">
-    <a href="/offsite/?page-action=ft_app_apple&token=BCYivdmLE3IWnOtS7PuIynh5KZKCkdlNfsiuRaf3cfO49MIc3Pn4enxFWw0sAHAI8s--EBa55JvF%0D%0AFirn4WdDb88tSAzc_7rVK4mM4M5ifne4BMlOnowBDhKuUdNTo3BdXzFA7RsLx2UPa6C0cxYHPn__%0D%0AT3laHYgxbw_gedygsFJupADCyOrSW4UZAhrrzxVxevsqMq2yttNOI4YYJUVaURCCgQcuHctsLrNo%0D%0AwxL2bP9xpQ8%0D%0A&ref_=ft_app_apple"
+    <a href="/offsite/?page-action=ft_app_apple&token=BCYvNWAOVxtMHd0IVIE9ePHIE9OKwmdA8OKeCXyYef77o0fqsXwluHvUrNC8LjnkKRxo83scnmDG%0D%0AwJjoE_NzpTXxumEObpy1SsJ92UpY5l9fqpv69cq4OZmoCLK2i-TAQCdDVCFcJFJHmKho55xKycOC%0D%0AwnECkPhg-UI0Z8xEvpaWX_m1iSVFS9oCq0Ps9w_6MRTe9ohXNOkd7UTPX9xNPJVQq5AiuFvz3UGm%0D%0ANMZXdPU1m4o%0D%0A&ref_=ft_app_apple"
 title="Get the IMDb App on the Apple App Store" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-apple" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_google&token=BCYlv3PhFgq8BhdCoPRWJBabof0r2lne9pR9Xoimbk-0ppbMxdJFLpHTAXDwjsKtlTVBvadGjEf5%0D%0A7cJS5jNzu8nkCBTm43YjA_BBGoiNPIWnqWqHnEwUCx0RO0jhUYKSwlTpYDStsUrsuytlsQ3Wj9dp%0D%0As65ftBzaywhXQQxKWKXeeIKSdymnjoM7zvTu0ixobbAs7dGOubr0hbtUseFW8h7M3jrgxfBCJ1Qx%0D%0An4adSQvmh3E%0D%0A&ref_=ft_app_google"
+    <a href="/offsite/?page-action=ft_app_google&token=BCYnwm5juXKe527EvPf4t3hqs89fY3rwdcNzqHe6TSxXByGwo6zyN5MJIOWHYIL5Gvj0c_mhtaME%0D%0Alv3TzAd3NQpUpk5HUUzc76UogKwdMj3OTkBtIIxdK48a7S7KYdjbyMHcg5lF0AoBQNHxuqh-Ttm6%0D%0AaUdlPmYe7WCeDS-zRGlAFydiQjhINBRfpjJVC2rVRYftLJspjZiQTU7pXvkURHeeGg-zviP68scJ%0D%0AL-V8Yro5d2E%0D%0A&ref_=ft_app_google"
 title="Get the IMDb app on Google Play" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-google" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_amazon&token=BCYn1pmUU3mU4PsSIguAu5fhm3JyAsDM4vWBJGb695nsoN4IEdd32vc_OPk_o8kkD4Bb3k7ItanE%0D%0AK9XipDKdqMFpGGqUX3gDm_st9vm0Us9imDTxUqpzyvyNyoACGfmG8jf0okc0X0VUOTia6wJbyRGV%0D%0A3IHhqVhXdAqSO7EMy27uvJ3rAEjcsLskqvxu06FV05meNCiAlYt9qbjSoSCAEnMiFjkzjFhnOYkg%0D%0A0jb1YG0SO5Dob5qJPkQ__hih0ZGMMDyKwZGRXPVG3Ljm_x7w6RPo8voxymuMnMjCJp7P7lxDpj7F%0D%0AWQpmTV5UrJ5rPoAaB9U53p9OWMQzgLEezSga9PJtA9mM9XV-dOHRZ40uz4WwNxaU_F6Y5JbvxYWB%0D%0AiRXh8O4N15F-QHlvmXOP9Ic0JWoaGc47HexVw2CJUb-s4xT-aAs%0D%0A&ref_=ft_app_amazon"
+    <a href="/offsite/?page-action=ft_app_amazon&token=BCYrdm9No-WScw-MAc2_M-pCPrh4Bt6Obsl2CqtZaCgbI-0nJooBkB_d0DYAP2ohW6kOY2XMgf9D%0D%0A1-bHLQecZ6_ycaFUP6iMtSftLRY5LBAXYu1JqoABO1axonvv_Fowth3G612ymMUuSMULma7oNNSj%0D%0AWdBVt3XjzqlsjUypoHRFI0BYokn1sYAJAPLC4Z2s13Mwc86rnVxSFChofk0usC86XWqVuF_EbOPH%0D%0Aurdy_pHqJPD7PBdXTpSONbCGnURKC0C8jyMMCfo-y1xrFtmBl13wqM7s4PnSZ-cCSHah3bFbNXAA%0D%0AiSDMIIXT5X9EvZG3h6dXTSZA_KwbcfNlRTV9b8Gt8eE5rnVlUK-ZBnwbDkUTS4h9ikoEzWOr_iLz%0D%0A1phuNWwpcRei2GTB1ea5K6caUrBzdRWAJSnMd8bc-7n7uuN_qVc%0D%0A&ref_=ft_app_amazon"
 title="Get the IMDb app on Amazon Appstore for Android" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-amazon" ></span>
 </a>
     </div>
@@ -1642,13 +1528,13 @@ class="touchlink" >IMDb Mobile site</a>
       Follow IMDb on
       <div>
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYr8UD1v0NzyZuGpxF7xEqRHdvCNKvVp_EkgKVVwMEImYOnf5ID4-cnEZgFNo4a0NI_BR38Qii3%0D%0Aca1F4TrvuU5vVTYKtJWhhs14UzJBd3LZJTEQkYPRG72YcBhZZpeldrOqba6S89QZW4mmOs86qwm2%0D%0AfPUvIidQX1p0lBaQhG-XRfNrSBonfrNJHsAzXzQR-oy7Rx1frOEUrWUz093Yd30U4A%0D%0A&ref_=tr_ft_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYsvucvEsNJ_BWFhseKQIULmHt_1mx-pulg5qYWwj0vuL3ri_kE_dWS-6dqsXW_cKT9p-ao7Qh8%0D%0ALaqk-8zi3J9KDwXoZeP3nbKzS64a679mYxH8xMr5muzVwgZcs6TfKsJlBWRWay5s3HI8CEjgFabq%0D%0A1skJY-P3hD_YZyR28RAFU95ggKPtG_dI1lggOxOwXo3uKR319x-D7xVJeXEFXkdMjw%0D%0A&ref_=tr_ft_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYmAsjrU946ujYEend1U8GhDBb2mL1zOXLX4CqJ3S0G1XnGjjRmHGqtt-sP-2wVpJqbwTx0IgOP%0D%0AShG4hdrRn_xvaGGOTbP-CxAycu1ZuSnbuQi4-SrvNbXvFNd2i8OETAmyoFF42Zw62djVluPK1e5S%0D%0Ah4l_FWhzJzO9Lw2NywmV22XpPR4w9VxWtjxOGxpxQyuI7TJeKY50pn18mCYx6c5JSw%0D%0A&ref_=tr_ft_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYqMbM-Xxe4w4FMnDAKSRxaoavHslQu5egYT0BBNQHC0n8uR270Z9GqjDlX3VgwFx4LI0tZs7NB%0D%0AghgIyk3QCMJ9-FakuN-AQw0bbOR0WIVsiHinmNVHSVWWXyuKBpdrc0x55PUIokuCboMMP47CuApu%0D%0AVvNDNuGlv9ktFdEVywapafYdMdYBryEcgAMrIjM8z_FRq-7VmC6N5LxeTG2Sv9GFmg%0D%0A&ref_=tr_ft_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYjwrFqia5hO-6AUEQWSqXpHkm-_JcqU-PsesxSKWGXIoj6tVj-D2VZLrBnYfmqEvmPeX4K0rc4%0D%0ANSzD2Bbt2-rFyawHxbOz0oeoraBquRwrHea5hz41ZUGcbND-M-LEZ89CW47lIlcJ7FNaj5kzuzzn%0D%0ATNlQ5BTdIpuON7xtw4WjdcFJIhIp8218Z6uK75hsi74aIlURw0o1ggXO2cVrEnpVEg%0D%0A&ref_=tr_ft_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYk3-4l7Phjv8xl601iZUrV8BDIZ-f_F0lpszYH6XL8ObXfqmD2W0OGayegCN-WJ0hQyKAhk1q7%0D%0ASUkxkOiVEj4TFkkNbtM1BQ4z0mldoe0mkQzZg9M-0vBYx35jDJEX80f-MkBzS9ywBfExpiHTRQ-j%0D%0AfX3wl0GQMAVMv6kq9ukQ18JLLXpfg0NjAt1WbWIj9Jydlg_JU9y9WvjksS4gvyuM-g%0D%0A&ref_=tr_ft_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
       </div>
@@ -1699,10 +1585,10 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
             <ul class="unstyled">
                 <li><a href="https://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
 >IMDbPro</a></li>
-                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYgyFoUwMDM7v0-vTMBvPfImktSl55AfB_FUwjpQb2LDj3KlvkdLtWQWuLoVZRMzmx50Ue_lEPu%0D%0A2dEKAuMvOri56IPOihs7lDWdqeaYDI63_iONzyMrK_nas2BedAQF64qEuXPIrnghK8wI8GYApgVE%0D%0ANTV1C8jM4udYcuvQn7_NznBXmFUjl-Jn5B7yFlSepk6pJKZzgiERyQa-UmiegGlMpQ%0D%0A&ref_=ft_bom"
+                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYgVcxgjP6GDdmpAjuhZGuCUdDER8pX6Ig1cNQd77_JkZwKjwwr1AnyVgcaLreFvesSyfbsuPEy%0D%0Ab62irBW3SQ4WlB119I9igrOu-0Lp7PnXqWzdxBA5JPbo89fJo1O8OU_HHg_-i2FWw1mqZW-5XPWc%0D%0AxsutY-uJynrBxrXF0Jbuz5IQELa5G5l3sBYBN95aWZFBG60LxAP5qPK8vYHWPpZiEw%0D%0A&ref_=ft_bom"
 itemprop='url'>Box Office Mojo</a>
 </li>
-                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYhsygpskg8o-qek6SgdBqVR3O5ncgPwCYXo4ETNaMS1-qJlgplCPn_7k52aI7OBNGEdHSS3uzQ%0D%0Az0DqXGolXjctzv4rr53gj3d5mjKxLq7uCEhh1u7arFpcem8AkmCMeSCCyKez5BQiT57xxaJcwxZ-%0D%0APXmsl36N73Y_Io9WJhWMN_GRl-H5pogaLPT8dJiqLGNou-eRgAkie1bU7hyEWW0DkA%0D%0A&ref_=ft_wab"
+                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYg92h55qaHAsfFL7_xUgt4LQaKsTVM3jmrgHSnxquwQ26M9A6X6Srvt_TXUf2gExfmV4xqELGP%0D%0ARo_Kr1JM7RW8qRMhxZcM9gy49ZX218hnu3usznteoPY3aKJ4ebN4iSZw46Cs_ffTfkuc4VoFZxuL%0D%0A0lbiejJknnF0xLRXkVbK-YEClVz-R1DYEVbGTqKAZyJbcLgvB3HtXYryugn3o69MiQ%0D%0A&ref_=ft_wab"
 itemprop='url'>Withoutabox</a>
 </li>
                 <li class="spacer"></li>
@@ -1710,7 +1596,7 @@ itemprop='url'>Withoutabox</a>
 >Conditions of Use</a></li>
                 <li><a href="/privacy?ref_=ft_pvc"
 >Privacy Policy</a></li>
-                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYpMkcthp634FJBHecv8MDJ-FpMiHN44F6q8x6J9FfPT1dMDuH4O9b9pCuxfqBE-XQq5mwFG9af%0D%0Ah2IRk7-IsJ5vrJiOzRqLHv9gO4ed3G72IXn4lGW9BLwi0es-tilUOZ4nAj4R9VlQS3ceBJF-rCKV%0D%0Af5rdUDpw_B5NU1CrgMwuPMLrpVWUFlmd7Qnm08xaA9IUKxFq_ZlO0HigVknEZcyTKh7GgUCe9Ajc%0D%0AHmDn3TuqtmPMerlySmeATwVM77UYdf8v%0D%0A&ref_=ft_iba"
+                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYoV8e0mnaSdO5KG5JVHoopj2BxIdM1njKTgvkQ2cQfmat6udg-d0bd7BHupbUzQMRfzQpILXue%0D%0A6EpbM7lpTW0N-JR_j81Te6m_EgygPfO2dehYMU9jnQPWAB5nRW7nN8eKXvXUdcI1S3__NMspLtMN%0D%0Ar1z7-OAfu4weJOB4itK89NHbnO3dvsXhUrGShhXat6qCt8yUoqfhq396RPR-Ilc1CHFG8mSWdYec%0D%0AvMGd7nNTSZc81XEuR8u0gtD24RwUANTi%0D%0A&ref_=ft_iba"
 itemprop='url'>Interest-Based Ads</a>
 </li>
                 <li class="spacer"></li>
@@ -1745,7 +1631,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-aiv&token=BCYmydiSbIdojF03OXEDDRFrH2e0yslUCs1w8na7WLaDoCP_SV6c7uYeG-hNv0HFgPs-wQ1_zyCd%0D%0AeeZWtxA7wnNde4Bw837aEIXlKWbO3YH1LjzDbimV2a6nLKfI6wCwgDOL5eKA4N4vVLcocIzMbX5s%0D%0A2rmw00VyMFF4_FtGq5tnaD2hQAlrxAQJWbOx1Ma70EvTxiJkDLhtLu7tb_MuaodgwAaljnLP4Vkt%0D%0AbwaQMS1gqyw%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-aiv&token=BCYsWmG2e49YtZyJGzyRFYCNJBQ_RTc6eaxTQCAKMDJvLZlfbHv7DAgPrw9CSisUlHc9B1bVALCA%0D%0ASH-jwfIDBGfDAt69Dt_meoLTpSxWniE5mzUOGVE6JlvZEGg7v5EKHWJ0q55Zseci1X5WWhNZCe3G%0D%0Ald432lhI0xZ0eEY3_4RTM9ad_UiUt_1i489DrH6BXTN7Z9UsM9XTVIoSxBCtUrFusqPZxpLhtEAf%0D%0A2SuoRtCn0Fg%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Video</span><br>
                 <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
             </a>
@@ -1754,7 +1640,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-piv&token=BCYmIjo9xXc9UGIEnxirWqibE52g4ozQX602oTVhU8GwlD25KDfa5GrwDLAKFqY9NFjiTOpg_yId%0D%0A-WO1EPO3IRIHmQtfjl1WJuULKq0q2tAxyjG31Nqe6IMm_YC-hCbEpbQmgV3_z1BfAwKNmySvG5IC%0D%0Ayj7ks_7vTmjNvvXsk0K01ii68Szat4E2KDS4aHxewYotrpUn1kIXtKHG7iF19rYXYqutaXjxqiX5%0D%0AlhIHtbsoPak%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-piv&token=BCYk07GXXMItfh36at-O0GoWD7nBjSiLIf7oDSB6eHgs4LuX1bQ85B9v5Bo1836q1pyMNJ4tycs0%0D%0Atho2bzuNYrSLgmsiJBCN9gs8k11nywIkkyMXPNbi9B88HhzU8tALbZG9jPQ6KQ1dPJOlzNfBDtQN%0D%0ADb-qWQv9rqMdodUBf2LQjj_gMBxeck2szmRNaIAIXWaukSIrhetMvNgC9Ga_1wD_UQbWtmeiJUu_%0D%0AUWFE8o55iYo%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Prime Video</span><br>
                 <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
             </a>
@@ -1763,7 +1649,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-de&token=BCYg3q-Xd2WxlyYf7IB4bKePGvGHERw-ZqC51dZmymNeUs8MVYI8sXFZ7y5eQpzV7uvf6-oOzIJK%0D%0Ari8E1mZU_Y7EJp7OmCml2z7eX435LtaM05Fq3OcqB8YdsiXX4Nt9Ok0vqahK_Jdbq4Es3JrMnwF9%0D%0A1LCaK9JUO0A82MN0n25fJkI6YjpJ2sNoDzN1p8gTWG2cfwzDS1sNz2nWue_8OjOxr7DusTvmDJUk%0D%0A4K6Igdf0r6Q%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-de&token=BCYvn4kGbWZzK8J0tJ-wjd3qy6u_TtvWEdO-iJCOfG78PpO3gAjMgC5MAiWP1AJkE_w_wmN3RYSw%0D%0AvSWZc80DLQF9nMa2jptupHtDUba8PSv9eZljGtiF0jMtebq0_xOSjgx_zo4ujp6FGOToHjjwdm6I%0D%0AsjwLr2kQeVMoGFruQMm2pO_gVNqe9EyqMO0fHK96GHItcyVYadD4s43sewUIcjt3kU1NsX7ah7C2%0D%0AiYM5PR1T5R8%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1772,7 +1658,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-it&token=BCYpew179piG1Sv-8iXNo170J1uZ0-5vT3_FCldrgKrw7_w4QQ96AodlPfQXKH3UdAp8xxje1Kgr%0D%0AQwQ7xanpASHwQfrK52B0Vrg9pxczskeiNj-8TqgyuSxXOXylgkARJO4NNqA9QgJbxyKwqVQm7gph%0D%0AlWtVzp4ltTmBNts1NlOFQCYG1wJ55B4p_U4-DQDP93U6Pn-BYceIVxtsOyxRpTDXqqnF5MSJmkm-%0D%0AtW5a2WLEu4Q%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-it&token=BCYjrYgi0-Qevu9uf2dHKxRXgyp7fKgWCcwP4LpUC9lgSqLo3gF7LFnP1o2MCYByOBV-34eV8zpE%0D%0A9qBIvJPrLxTAWxZNANkiGobsDzMtbFImmL5H-pFkkGx_4wLYkcczrBgZLyT0MZU1vGZezMr4uHZg%0D%0AACA5sNmP0dCavvG2T1olN6ONRNGgzWN8ZNwvK3m6D5QBB6FW0Xwb5Ar5aVWArdZVdXrWxYBemn-a%0D%0ATj61WIljwCc%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1781,7 +1667,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYuMyZpd1ae5SfjKr6sSBdEcQndaKjtj0rkpuMGPNZGmBPOojoA4lBkTHsr7zBVFBNNAkr7sJaM%0D%0ANXh9a-FBy62up5NMcrIOaePfseFMYbiQXaYOsmA6wdrkF1BKX4SJmOgCsjDiiVv4WytnCErbuGvF%0D%0A2yY2jy78tkxCqL2Y9TS6sORV2ljrGVr0vhWwRW-6Rx1CR43vpCwkn1Ckw35tqi5spMrtbvYQJ246%0D%0AR9_WC-rgym0%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYnBGqZIRlTMSa8ZRJ1LRlHg7qthNXVBuKdQLMLaQ3mjOBRLznm0ct4qtSjJqHyEcLEiwpnW5Bd%0D%0A6e32IH82ThoXPH175E20JDec_2SJVK9gx_uGXWZejfKz8lYaPVbFV0K8NNd9RoDMAm-jb5OhuNxu%0D%0Avyl5Ts3zFaMuiHfelaTUpBN-kiNkUk9Td02OjBvEZpAJq3yw7UhxzWFjok1J4lDxd4eczaBZlVvy%0D%0AZdzRFfl6bq8%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon France</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1790,7 +1676,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-in&token=BCYjNZuV9joF7rcoYdBcPDrxSmnbJRSWpfz_Eacu-esT9NvAr1McohOG16xrfwAo7b1h6lG8c6e4%0D%0AbW3PQqAWKulWDz-vhaPGcVQDNuZnGZYPem_M2Jh1JBZaRVsRoWTozgClky8ResajK_9qm_5Kal0x%0D%0AH4mIUlnlR9oeOziG0V79jNLeIT2b7mfq-5JMlzYlpl2Yc8gSD3H-7wM3uLjqsPaTh-AyHL4o5ZKU%0D%0AEedOPn19NRj67sXRQwyzTijY_hb_R1JE%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-in&token=BCYiWmIZwFYLx77F_iRLKA3Ql88aV2T36dXk1BnZcZMwvJAMUEJwh5yUI_CeqNJPyHrkdi0YH8oO%0D%0AgFYuI8ryRdo_AoyrqDJuMQVVKr0nifIUex4zd6oCjQvwejlXB0juWaxtCrz0x9yACqsIZRhU4oYQ%0D%0AuLH7JPu30lnJA7OIhYIuTIeyMbUx8ey8tGBhPMSifsde8CWggUSVMvbkQu36Nk0Kk5RDRY680sEQ%0D%0As4hfvd3g-A9SK5c7jHTG8rk0BaYp8C_H%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon India</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
             </a>
@@ -1799,7 +1685,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYl79Jp7bkee-t1qsehCwtdGKmtnIbnWEEdcwO_5HDHvDazmudlsutvPEHaBlam4r5chFfh_DeU%0D%0A7rQIPg5pAZyZaa7E0ukkvU-rCZj6JjsZzerecaa-U_v9kOvCWVbwzDR9KsmSAhdSGvqORPgB_QIA%0D%0Ae5iNiuWRDuPHLDRWOSYIdnU%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYnIUdvTxR99QGHvq7WrqUNk7gxaEdXfyyw9M0QfG3h7N2uGgCpdU93xuAzxvwpvu-coyT8Nmkj%0D%0AR_T2VJ4nTcSIglMwunyGE1EpM5YrZB1-X9R1lqjQHUf0Wu-bVd_QGXZ51JKxDFUFe2NNFfFFJ0b6%0D%0AHMeocZtywsiA5I0Yommu8HE%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">DPReview</span><br>
                 <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
             </a>
@@ -1808,7 +1694,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYnfhzd42jvtvK5WJgCgHY1PhngiFRvGKlixAGBOl1STQI0x4Uos2DgL-GwRcXde13LtZoYXGqG%0D%0Az5lTz8t0EYxhJZ3cEOwGCktY5gkCeqcj9tdNvpMd8lS8QGnxYRJnJ9jQXofVh2yQlWYXqwNjiFKE%0D%0Al5FGap1E8GWFREk-YkmkTV8%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYkKiXwnXAIkrHDcG7Y0zm0BJ_txDuW8EOZ0esv545m4JTJjUeiD94rTmtmyKT2YqL9eFC6wPmW%0D%0A_NaVK0lkBV22btxi1kf4hVhWU_9ToUbWvwb3j-P7xzAJEiF6Qd77E5axfrQ8viaKOyOoevFDhGEJ%0D%0A85ygeWesR9ZTdLy8rJUhPsY%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Audible</span><br>
                 <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
             </a>
@@ -1843,7 +1729,7 @@ itemprop='url'>Interest-Based Ads</a>
                 jQuery(
                              function() {
            var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
-               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1401252%2F&colorscheme=light",
+               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&colorscheme=light",
                like = document.getElementById('iframe_like');
 
            if (!isAdvertisingThemed && like) {
@@ -1865,7 +1751,7 @@ itemprop='url'>Interest-Based Ads</a>
         </script>
 
 
-<div id="servertime" time="618"/>
+<div id="servertime" time="348"/>
 
 
 

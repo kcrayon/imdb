@@ -2,17 +2,21 @@ module Imdb
   # Represents a TV series on IMDB.com
   class Serie < Base
     def season(number)
-      seasons.fetch(number - 1, nil)
+      seasons[number - 1]
     end
 
     def seasons
       season_urls.map { |url| Imdb::Season.new(url) }
     end
 
+    def creators
+      document.search("div[text()*='Creator']//a").map { |a| a.content.strip }
+    end
+
     private
 
     def newest_season
-      document.at("//div[contains(text(), 'Seasons:')]/a").content.strip.to_i rescue 0
+      document.at("section div[text()*='Season'] a[@href*='episodes?season']").content.strip.to_i rescue 0
     end
 
     def season_urls

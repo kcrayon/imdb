@@ -1,18 +1,16 @@
 HTTP/1.1 200 OK
 Server: Server
-Date: Sun, 22 Apr 2018 20:48:58 GMT
+Date: Sun, 22 Apr 2018 20:53:39 GMT
 Content-Type: text/html;charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 X-Frame-Options: SAMEORIGIN
 Content-Security-Policy: frame-ancestors 'self' imdb.com *.imdb.com *.media-imdb.com withoutabox.com *.withoutabox.com amazon.com *.amazon.com amazon.co.uk *.amazon.co.uk amazon.de *.amazon.de translate.google.com images.google.com www.google.com www.google.co.uk search.aol.com bing.com www.bing.com
 Content-Language: en
-Set-Cookie: uu=BCYqwUDuOoXhG6JywGG9xNa6Eolhy8Uy1w4EMbCEN-tdsFIq8-DIaoUXijRyDYcrsWFutcahhg38%0D%0AMYqZHXr_km5YZf5jt-gmKr_wjnxSazfWQL0-po2xTh69UnOotHDOQdr70G7yGNBdMBKuJXc44gAv%0D%0AdD1He_sLtLZagl4_-sV9Ey2OcQ-18cNqH5AgGkU9AzlLS8zdFWncGK9JDVYuHm-sYPnU88l7uJiZ%0D%0Aoppq_xiiXhMZ7J6QPZdNwGt5GLJBgQwaFzQKH_6YqFkBZhXpzmVSCA%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:03:04 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:03:04 GMT; Path=/
-Set-Cookie: session-id-time=2155150137; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:03:04 GMT; Path=/
+Set-Cookie: uu=BCYs1kGAW4av8aKYcWQ0VkUTIUF1y2JlnAjC9QfDvzIRSqpBkAR4PzYhzaE8d-HS8yNbPn6yIW8R%0D%0A8Ht9L0I6TODIWqb4W9y2oFXnKfcF7DcNLBs2jlBiwrERKbgJ7i5Ckeasyr0UE5ghLv9obu7XCbZo%0D%0AVAWki5os_TyliNijYf4qTzC68_k7fkJMjmM1UWMK7Id5nQsigpuw4Au1etbb834YsSW9Od8AhoWM%0D%0AHtQqjT9BHiB_IWwva7x7UsYGoEm8lUxKu855PTEUIblUdCm-SLYp8A%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:46 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:46 GMT; Path=/
+Set-Cookie: session-id-time=2155150419; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:07:46 GMT; Path=/
 Vary: Accept-Encoding,User-Agent
-
-
 
 
 
@@ -33,7 +31,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt0095016?src=mdot">
+    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt5637536?src=mdot">
 
 
 
@@ -45,7 +43,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
-        <title>Die Hard (1988) - Release Info - IMDb</title>
+        <title>Avatar 5 (2025) - Plot Summary - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
     if (typeof uet == 'function') {
@@ -58,8 +56,8 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
 
-        <link rel="canonical" href="https://www.imdb.com/title/tt0095016/releaseinfo" />
-        <meta property="og:url" content="http://www.imdb.com/title/tt0095016/releaseinfo" />
+        <link rel="canonical" href="https://www.imdb.com/title/tt5637536/plotsummary" />
+        <meta property="og:url" content="http://www.imdb.com/title/tt5637536/plotsummary" />
 
 <script>
     if (typeof uet == 'function') {
@@ -88,24 +86,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
         
-        <meta property="pageId" content="tt0095016" />
+        <meta property="pageId" content="tt5637536" />
         <meta property="pageType" content="title" />
-        <meta property="subpageType" content="releaseinfo" />
+        <meta property="subpageType" content="plotsummary" />
 
 
-        <link rel='image_src' href="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg">
-        <meta property='og:image' content="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" />
+        <link rel='image_src' href="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_UY1200_CR285,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_UY1200_CR285,0,630,1200_AL_.jpg" />
 
         <meta property='og:type' content="video.movie" />
     <meta property='fb:app_id' content='115109575169727' />
 
-    <meta property='og:title' content="Die Hard (1988)" />
+    <meta property='og:title' content="Avatar 5 (2025)" />
     <meta property='og:site_name' content='IMDb' />
-    <meta name="title" content="Die Hard (1988) - IMDb" />
-        <meta name="description" content="Die Hard (1988) on IMDb: Movies, TV, Celebs, and more..." />
-        <meta property="og:description" content="Die Hard (1988) on IMDb: Movies, TV, Celebs, and more..." />
-        <meta name="keywords" content="Reviews, Showtimes, DVDs, PHotos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-        <meta name="request_id" content="F99KQ38WF1SGCKKH3KH7" />
+    <meta name="title" content="Avatar 5 (2025) - Plot Summary - IMDb" />
+        <meta name="description" content="Avatar 5 (2025) on IMDb: Plot summary, synopsis, and more..." />
+        <meta property="og:description" content="Avatar 5 (2025) on IMDb: Plot summary, synopsis, and more..." />
+        <meta name="keywords" content="Movie Plot, Plot Summary, Plot Synopsis" />
+        <meta name="request_id" content="8CE1TWA06N63ANFHGNR7" />
 
 <script>
     if (typeof uet == 'function') {
@@ -113,7 +111,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-c42xl-1-1a-b0c9a948.us-east-1 -->
+<!-- h=ics-c42xl-1-1f-cb50f940.us-east-1 -->
 
             <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/title-flat-1709933768._CB497336322_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/ie-3579153447._CB498724035_.css" /><![endif]-->
@@ -543,13 +541,13 @@ https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/navbar/imdbpro_m
         </li>
         <li class="social">
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYuqr3wG3nUMPcextdjpwyCFS7C67EEdLdHzXrbyhBcQiWxPw8zaMZJ6KCqA17NDbrDrgS_4Ry6%0D%0AdKzskFeHBrlSNdLL0SQuryih8ZVjj7YCeJXl5LJg_-LcJfnWqnFjkEiDZnHbCYrVkT5qBuxIpmXv%0D%0AGtbF3j3wHWnXCtWGAM4MIhkQQki9JWNNCGf-CKwrdOuex28ddunNMIE8r9tQTW06nw%0D%0A&ref_=nv_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYnTZxJWcXnM8rel0QWG5KDeuVhvlTqNmPcqtcxvtKs5LfbVVJkv8omtXULcy5BhkcxWVW93YAj%0D%0AElPqWdJ0Y7SFdTVM1E6cVIBjauopc7ik_GLRKxyRwwneOkTlIWChNcn9RZG-CGSQjo4TF3gEdLc0%0D%0AWsW_DZqR8i_fLAtg2QTYrfj5X9ArHU1v7ZpdXTdZBrwcToChbqB_CgMZNdFCyZ94-A%0D%0A&ref_=nv_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYuOMgRMlbpkVVILsyEwbCb9FCHyPMKkygeEH8KIwz7OfiJkCgK-9Zc8VBBB0DZUG_Whco_j7L1%0D%0Alzk3cg3uxFrF8m98N4tdVWwurBBEKklnXaxEeH25hioyWbhuAZlRBba0VpjZWK9p1QLL477j5RHe%0D%0AGuCBvh3FveAfoIKuZnTm-s9BE16u_M7phvS6VRgghjzX%0D%0A&ref_=nv_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYtn-qm1R_nMGnPOpk3QcGYsMmhxAelXbt3oD-ncTYqcylO3RY4rRckBh81MyUN4BwChzBWr6ZG%0D%0AVAQ319kSI4GpyyFhqU3CfNQ7fXsnchdzuLDNPKW-Q9y5g4nxtVK9-b0Tqog766gvwiNXd3y_rIx2%0D%0A7ekq4ZK4pkqppW6GefRtK0UZUhK3BqQ2zNdRyb4D0P2YIINvY8MYH3EuNyeZSQNh7A%0D%0A&ref_=nv_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYqMiHBW7rNO6cadSfqtpMnJn_62WGAR2k7IDF46ruQBbsZIpAZJGiiluPOsEafDZvVOZ6I-pqX%0D%0AhRtKWQUKX_lPJAwNt7AW5rvHFVsLam08-znzgBcqIGt01Q0UvEOVNeP-taalOg32AQqJ2uABLRXb%0D%0ARlzzXuEQ0FUwBjkCG2zgp9a1-okwoP91ci333XChGKAB%0D%0A&ref_=nv_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYmaQFZsB7MtRPu_ILKq_71kok4hTHc6knM3fK0h5VoCisgTyPB5JUwy8VPt31dXVtxpx5Qyeft%0D%0Aw72vKkX3hNr3jJ2qcmHiFfNL9pbT3M0MpH2TTGxFADjfTy0Zbh9OGwy8OYqDDyuvqSxCcA2SMzxU%0D%0AY9RlKCC4mCVQfgmgvUJPl_JazJNjf9mYpbuse5Q4ftdIuTyOs3TSncGN3kFUQ7pThg%0D%0A&ref_=nv_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
         </li>
@@ -562,7 +560,7 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
                 <a id="facebook-signin-link" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyI0OWU2YyI6ImRhMjkiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bnZfZmJfbGdpbiIsIm1hbnVhbExpbmsiOiJmYWxzZSJ9&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F" class="signin-button">
                 <span class="facebook-logo"></span>
                 <span class="signin-facebook-text">Sign in with Facebook</span></a>
-                <a href="https://www.imdb.com/registration/signin?u=/title/tt0095016/releaseinfo&ref_=nv_usr_lgin_1"
+                <a href="https://www.imdb.com/registration/signin?u=/title/tt5637536/plotsummary&ref_=nv_usr_lgin_1"
 rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in options</a>
                 </p>
         </li>
@@ -590,24 +588,23 @@ rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in option
 
 <div id="content-2-wide" class="redesign">
 <div id="main">
-    <div class="article listo">
-    <span class=rightcornerlink >
-            <a href="/register/login?why=edit&ref_=ttrel_rel_edt"
-rel="login">Edit</a>
-    </span>
+    <section class="article listo">
+        <span class="rightcornerlink">
+            <a href="https://contribute.imdb.com/updates?edit=tt5637536/plotsummary&ref_=ttpl_pl_edt">Edit</a>
+        </span>
 <div class="subpage_title_block">
-<a href="/title/tt0095016/?ref_=ttrel_rel_tt"
+<a href="/title/tt5637536/?ref_=ttpl_pl_tt"
 > <img itemprop="image"
 class="poster"
 height="98"
 width="67"
-alt="Die Hard (1988) Poster"
-src="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg" />
+alt="Avatar 5 (2025) - Plot Summary Poster"
+src="https://ia.media-imdb.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_UY98_CR15,0,67,98_AL_.jpg" />
 </a>  <div class="parent">   
     <h3 itemprop="name">
-<a href="/title/tt0095016/?ref_=ttrel_rel_tt"
-itemprop='url'>Die Hard</a>         <span class="nobr">
-             (1988)
+<a href="/title/tt5637536/?ref_=ttpl_pl_tt"
+itemprop='url'>Avatar 5</a>         <span class="nobr">
+             (2025)
          </span>
     </h3>
   </div>
@@ -616,493 +613,40 @@ itemprop='url'>Die Hard</a>         <span class="nobr">
       csm.measure('csm_body_delivery_started');
     }
   </script>
-  <h1 class="header">Release Info</h1>
+  <h1 class="header">Plot</h1>
 </div>
-        <div id="releaseinfo_content" class="header">
-<div class="header"><div class="nav"><div class="desc">Showing all 83 items</div></div>
-  <div class="jumpto">
-Jump to:
-<a href="#releases">Release Dates</a>&nbsp;(43)&nbsp;<span class="ghost">|</span>
-<a href="#akas">Also Known As (AKA)</a>&nbsp;(40)  </div>
-</div>
-  <a id="releases" name="releases"></a>
-  <h4 class="li_group">Release Dates&nbsp;</h4>
-    <table id="release_dates" class="subpage_data spFirst">
-        <tr class="odd">
-            <td><a href="/calendar/?region=us&ref_=ttrel_rel_1"
->USA</a></td>
-            <td class="release_date">12 July 1988</td>
-            <td> (Westwood, California)
- (premiere)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=us&ref_=ttrel_rel_2"
->USA</a></td>
-            <td class="release_date">15 July 1988</td>
-            <td> (limited)</td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=us&ref_=ttrel_rel_3"
->USA</a></td>
-            <td class="release_date">20 July 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=fr&ref_=ttrel_rel_4"
->France</a></td>
-            <td class="release_date">21 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=kr&ref_=ttrel_rel_5"
->South Korea</a></td>
-            <td class="release_date">24 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=tw&ref_=ttrel_rel_6"
->Taiwan</a></td>
-            <td class="release_date">24 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=ph&ref_=ttrel_rel_7"
->Philippines</a></td>
-            <td class="release_date">27 September 1988</td>
-            <td> (Davao)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=it&ref_=ttrel_rel_8"
->Italy</a></td>
-            <td class="release_date">29 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=es&ref_=ttrel_rel_9"
->Spain</a></td>
-            <td class="release_date">30 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=se&ref_=ttrel_rel_10"
->Sweden</a></td>
-            <td class="release_date">30 September 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=au&ref_=ttrel_rel_11"
->Australia</a></td>
-            <td class="release_date">6 October 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=fi&ref_=ttrel_rel_12"
->Finland</a></td>
-            <td class="release_date">7 October 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=hk&ref_=ttrel_rel_13"
->Hong Kong</a></td>
-            <td class="release_date">19 October 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=br&ref_=ttrel_rel_14"
->Brazil</a></td>
-            <td class="release_date">27 October 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=nl&ref_=ttrel_rel_15"
->Netherlands</a></td>
-            <td class="release_date">3 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=gr&ref_=ttrel_rel_16"
->Greece</a></td>
-            <td class="release_date">10 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=xwg&ref_=ttrel_rel_17"
->West Germany</a></td>
-            <td class="release_date">10 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=at&ref_=ttrel_rel_18"
->Austria</a></td>
-            <td class="release_date">11 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=no&ref_=ttrel_rel_19"
->Norway</a></td>
-            <td class="release_date">18 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=is&ref_=ttrel_rel_20"
->Iceland</a></td>
-            <td class="release_date">23 November 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=gb&ref_=ttrel_rel_21"
->UK</a></td>
-            <td class="release_date">27 November 1988</td>
-            <td> (London Film Festival)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=ar&ref_=ttrel_rel_22"
->Argentina</a></td>
-            <td class="release_date">15 December 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=pt&ref_=ttrel_rel_23"
->Portugal</a></td>
-            <td class="release_date">16 December 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=sv&ref_=ttrel_rel_24"
->El Salvador</a></td>
-            <td class="release_date">25 December 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=uy&ref_=ttrel_rel_25"
->Uruguay</a></td>
-            <td class="release_date">25 December 1988</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=dk&ref_=ttrel_rel_26"
->Denmark</a></td>
-            <td class="release_date">26 December 1988</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=pe&ref_=ttrel_rel_27"
->Peru</a></td>
-            <td class="release_date">2 February 1989</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=gb&ref_=ttrel_rel_28"
->UK</a></td>
-            <td class="release_date">3 February 1989</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=jp&ref_=ttrel_rel_29"
->Japan</a></td>
-            <td class="release_date">4 February 1989</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=ie&ref_=ttrel_rel_30"
->Ireland</a></td>
-            <td class="release_date">17 February 1989</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=co&ref_=ttrel_rel_31"
->Colombia</a></td>
-            <td class="release_date">20 April 1989</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=pl&ref_=ttrel_rel_32"
->Poland</a></td>
-            <td class="release_date">October 1989</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=hu&ref_=ttrel_rel_33"
->Hungary</a></td>
-            <td class="release_date">14 December 1989</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=tr&ref_=ttrel_rel_34"
->Turkey</a></td>
-            <td class="release_date">26 January 1990</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=cshh&ref_=ttrel_rel_35"
->Czechoslovakia</a></td>
-            <td class="release_date">20 June 1991</td>
-            <td></td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=ro&ref_=ttrel_rel_36"
->Romania</a></td>
-            <td class="release_date">4 June 1993</td>
-            <td></td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=fr&ref_=ttrel_rel_37"
->France</a></td>
-            <td class="release_date">28 January 2010</td>
-            <td> (Gerardmer International Fantasy Film Festival)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=ca&ref_=ttrel_rel_38"
->Canada</a></td>
-            <td class="release_date">9 February 2010</td>
-            <td> (Digital Film Festival)</td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=gb&ref_=ttrel_rel_39"
->UK</a></td>
-            <td class="release_date">25 January 2013</td>
-            <td> (re-release)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=fr&ref_=ttrel_rel_40"
->France</a></td>
-            <td class="release_date">3 September 2014</td>
-            <td> (re-release) (restored version)</td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=hu&ref_=ttrel_rel_41"
->Hungary</a></td>
-            <td class="release_date">9 April 2015</td>
-            <td> (re-release)</td>
-        </tr>
-        <tr class="even">
-            <td><a href="/calendar/?region=ar&ref_=ttrel_rel_42"
->Argentina</a></td>
-            <td class="release_date">2 September 2017</td>
-            <td> (re-release)</td>
-        </tr>
-        <tr class="odd">
-            <td><a href="/calendar/?region=cl&ref_=ttrel_rel_43"
->Chile</a></td>
-            <td class="release_date">5 September 2017</td>
-            <td> (re-release) (limited)</td>
-        </tr>
-    </table>
-  <a id="akas" name="akas"></a>
-  <h4 class="li_group">Also Known As (AKA)&nbsp;</h4>
-    <table id="akas" class="subpage_data spEven2Col">
-        
-                    <tr class="odd">
-                        <td>Argentina</td>
-                        <td>Duro de matar</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Austria</td>
-                        <td>Stirb langsam</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Bulgaria (Bulgarian title)</td>
-                        <td>Умирай трудно</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Brazil</td>
-                        <td>Duro de Matar</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Canada (English title)</td>
-                        <td>Die Hard</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Canada (French title)</td>
-                        <td>Piège de cristal</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Chile</td>
-                        <td>Duro de matar</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Colombia (alternative title)</td>
-                        <td>Duro de Matar</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Czechoslovakia (Slovak title)</td>
-                        <td>Smrtonosná pasca</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Czechoslovakia</td>
-                        <td>Smrtonosná past</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Czechoslovakia (Czech title)</td>
-                        <td>Smrtonosná past</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Czech Republic</td>
-                        <td>Smrtonosná past</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Germany</td>
-                        <td>Stirb langsam</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Denmark</td>
-                        <td>Die Hard</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Estonia</td>
-                        <td>Visa hing</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Spain</td>
-                        <td>Jungla de cristal</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Finland (alternative title)</td>
-                        <td>Die hard - vain kuolleen ruumiini yli</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Finland (Swedish title)</td>
-                        <td>Med dödlig påföljd</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Finland</td>
-                        <td>Vain kuolleen ruumiini yli</td>
-                    </tr>
-                    <tr class="even">
-                        <td>France</td>
-                        <td>Piège de cristal</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Greece (transliterated ISO-LATIN-1 title)</td>
-                        <td>Poly skliros gia na pethanei</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Greece</td>
-                        <td>Πολύ σκληρός για να πεθάνει</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Croatia</td>
-                        <td>Umri muški</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Hungary</td>
-                        <td>Drágán add az életed!</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Iran (Persian title)</td>
-                        <td>Jaan sakht</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Iceland</td>
-                        <td>Á tæpasta vaði</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Italy (pre-release title)</td>
-                        <td>A un passo dall'inferno - Trappola di cristallo</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Italy (DVD title)</td>
-                        <td>Die Hard - Trappola di cristallo</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Italy</td>
-                        <td>Trappola di cristallo</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Japan (English title)</td>
-                        <td>Die Hard</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Lithuania</td>
-                        <td>Kietas riesutelis</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Republic of Macedonia</td>
-                        <td>Умри Машки</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Mexico</td>
-                        <td>Duro de matar</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Norway</td>
-                        <td>Aksjon skyskraper</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Peru</td>
-                        <td>Duro de matar</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Poland (video title)</td>
-                        <td>Brutalna smierc</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Poland</td>
-                        <td>Szklana pułapka</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Portugal</td>
-                        <td>Assalto ao Arranha-Céus</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Romania</td>
-                        <td>Greu de Ucis</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Romania</td>
-                        <td>Greu de ucis</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Serbia</td>
-                        <td>Umri muški</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Russia</td>
-                        <td>Крепкий орешек</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Slovenia</td>
-                        <td>Umri pokončno</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Slovakia</td>
-                        <td>Smrtonosná pasca</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Turkey (Turkish title)</td>
-                        <td>Zor Ölüm</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Ukraine</td>
-                        <td>Мiцний горiшок</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Uruguay</td>
-                        <td>Duro de matar</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Venezuela</td>
-                        <td>Duro de Matar</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>West Germany</td>
-                        <td>Stirb langsam</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Yugoslavia (Serbian title)</td>
-                        <td>Umri muški</td>
-                    </tr>
-                    <tr class="odd">
-                        <td>Yugoslavia (Croatian title)</td>
-                        <td>Umri muški</td>
-                    </tr>
-                    <tr class="even">
-                        <td>Yugoslavia (Slovenian title)</td>
-                        <td>Umri pokončno</td>
-                    </tr>
-    </table>
-        </div>
+
+    <div class="ipl-itemcount-header">
+        Showing all 1 items
     </div>
+
+    <div class="ipl-jumpto-container">
+        <span class="ipl-jumpto-container__label">Jump to:</span>
+        <ul class="ipl-inline-list">
+    <li class="ipl-inline-list__item">
+            <a href="#summaries">Summaries</a>
+         (1)
+    </li>
+        </ul>
+    </div>
+
+    <h4 id="summaries" class="ipl-list-title">Summaries</h4>
+    <ul class="ipl-zebra-list" id="plot-summaries-content">
+                <li class="ipl-zebra-list__item" id="summary-po2832088">
+                    <p>Sequel of <a href="/title/tt3095356/">Avatar 4 (2024)</a> and last movie of the &quot;Avatar&quot; saga. The plot is unknown.</p>
+                        <div class="author-container">
+                            <em>&mdash;<a href="/search/title?plot_author=Lorenz-pictures&view=simple&sort=alpha&ref_=ttpl_pl_0">Lorenz-pictures</a></em>
+                        </div>
+                </li>
+    </ul>
+    <br />
+    <h4 id="synopsis" class="ipl-list-title">Synopsis</h4>
+    <ul class="ipl-zebra-list" id="plot-synopsis-content">
+            <li class="ipl-zebra-list__item" id="no-synopsis-content">
+                <p>It looks like we don't have a Synopsis for this title yet. <br/>Be the first to contribute! Just click the "Edit page" button at the bottom of the page or learn more in the <a href="https://contribute.imdb.com/updates/guide/plot?ref_=ttpl_emt">Synopsis submission guide</a>.</p>
+            </li>
+    </ul>
+    </section>
 
 
 
@@ -1110,20 +654,14 @@ Jump to:
         <h2>See also</h2>
         <p>
                         <span class="nobr">
-<a href="/title/tt0095016/fullcredits?ref_=ttrel_sa_1"
-class="link" >Full Cast and Crew</a>
+<a href="/title/tt5637536/taglines?ref_=ttpl_sa_1"
+class="link ghost" >Taglines</a>
 <span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/officialsites?ref_=ttrel_sa_2"
-class="link" >Official Sites</a>
+<a href="/title/tt5637536/synopsis?ref_=ttpl_sa_2"
+class="link ghost" >Synopsis</a>
 <span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/companycredits?ref_=ttrel_sa_3"
-class="link" >Company Credits</a>
-<span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/locations?ref_=ttrel_sa_4"
-class="link" >Filming & Production</a>
-<span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/technical?ref_=ttrel_sa_5"
-class="link" >Technical Specs</a>
+<a href="/title/tt5637536/keywords?ref_=ttpl_sa_3"
+class="link" >Plot Keywords</a>
 </span>        </p>
     </div>
 
@@ -1134,17 +672,17 @@ class="link" >Technical Specs</a>
   </script>
     <div class="article contribute">
         <div class="rightcornerlink">
-<a href="https://help.imdb.com/article/contribution/contribution-information/adding-data/G6BXD2JFDCCETUF4?ref_=cons_tt_rel_cn_gs_hlp"
+<a href="https://help.imdb.com/article/contribution/contribution-information/adding-data/G6BXD2JFDCCETUF4?ref_=cons_tt_pl_cn_gs_hlp"
 >Getting Started</a>
             <span>|</span>
-<a href="/czone/?ref_=ttrel_cn_cz"
+<a href="/czone/?ref_=ttpl_cn_cz"
 >Contributor Zone</a>&nbsp;&raquo;</div>
         <h2>Contribute to This Page</h2>
 
                 <div class="button-box">
                     <form method="get" action="https://contribute.imdb.com/updates">
-                        <input type="hidden" name="ref_" value="ttrel_cn_edt" />
-                        <input type="hidden" name="edit" value="legacy/title/tt0095016/releaseinfo" />
+                        <input type="hidden" name="ref_" value="ttpl_cn_edt" />
+                        <input type="hidden" name="edit" value="legacy/title/tt5637536/plotsummary" />
                             <button class="btn primary large" rel="login" type="submit">Edit page</button>
                     </form>
                 </div>
@@ -1174,37 +712,29 @@ class="link" >Technical Specs</a>
     
     <div class="aux-content-widget-2 links subnav" div="quicklinks">
 
-<a href="/title/tt0095016/?ref_=ttrel_ql"
-class="subnav_heading" >Die Hard</a>                <hr/>
+<a href="/title/tt5637536/?ref_=ttpl_ql"
+class="subnav_heading" >Avatar 5</a>                <hr/>
 
 
 
-        <h4>Details</h4>
+        <h4>Storyline</h4>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/fullcredits?ref_=ttrel_ql_1"
-class="link" >Full Cast and Crew</a>
+<a href="/title/tt5637536/taglines?ref_=ttpl_ql_1"
+class="link ghost" >Taglines</a>
                 </li>
                 <li class="subnav_item_main subnav_selected">
-<a href="/title/tt0095016/releaseinfo?ref_=ttrel_ql_2"
-class="link" >Release Dates</a>
+<a href="/title/tt5637536/plotsummary?ref_=ttpl_ql_2"
+class="link" >Plot Summary</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/officialsites?ref_=ttrel_ql_3"
-class="link" >Official Sites</a>
+<a href="/title/tt5637536/synopsis?ref_=ttpl_ql_3"
+class="link ghost" >Synopsis</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/companycredits?ref_=ttrel_ql_4"
-class="link" >Company Credits</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/locations?ref_=ttrel_ql_5"
-class="link" >Filming & Production</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/technical?ref_=ttrel_ql_6"
-class="link" >Technical Specs</a>
+<a href="/title/tt5637536/keywords?ref_=ttpl_ql_4"
+class="link" >Plot Keywords</a>
                 </li>
     </ul>
 
@@ -1215,32 +745,36 @@ class="link" >Technical Specs</a>
 
 
 
-
-
-        <h4>Storyline</h4>
+        <h4>Details</h4>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/taglines?ref_=ttrel_ql_stry_1"
-class="link" >Taglines</a>
+<a href="/title/tt5637536/fullcredits?ref_=ttpl_ql_dt_1"
+class="link" >Full Cast and Crew</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/plotsummary?ref_=ttrel_ql_stry_2"
-class="link" >Plot Summary</a>
+<a href="/title/tt5637536/releaseinfo?ref_=ttpl_ql_dt_2"
+class="link" >Release Dates</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/synopsis?ref_=ttrel_ql_stry_3"
-class="link" >Synopsis</a>
+<a href="/title/tt5637536/officialsites?ref_=ttpl_ql_dt_3"
+class="link ghost" >Official Sites</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/keywords?ref_=ttrel_ql_stry_4"
-class="link" >Plot Keywords</a>
+<a href="/title/tt5637536/companycredits?ref_=ttpl_ql_dt_4"
+class="link" >Company Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/parentalguide?ref_=ttrel_ql_stry_5"
-class="link" >Parents Guide</a>
+<a href="/title/tt5637536/locations?ref_=ttpl_ql_dt_5"
+class="link ghost" >Filming & Production</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt5637536/technical?ref_=ttpl_ql_dt_6"
+class="link" >Technical Specs</a>
                 </li>
     </ul>
+
+
 
 
 
@@ -1248,32 +782,32 @@ class="link" >Parents Guide</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/trivia?ref_=ttrel_ql_trv_1"
-class="link" >Trivia</a>
+<a href="/title/tt5637536/trivia?ref_=ttpl_ql_trv_1"
+class="link ghost" >Trivia</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/goofs?ref_=ttrel_ql_trv_2"
-class="link" >Goofs</a>
+<a href="/title/tt5637536/goofs?ref_=ttpl_ql_trv_2"
+class="link ghost" >Goofs</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/crazycredits?ref_=ttrel_ql_trv_3"
-class="link" >Crazy Credits</a>
+<a href="/title/tt5637536/crazycredits?ref_=ttpl_ql_trv_3"
+class="link ghost" >Crazy Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/quotes?ref_=ttrel_ql_trv_4"
-class="link" >Quotes</a>
+<a href="/title/tt5637536/quotes?ref_=ttpl_ql_trv_4"
+class="link ghost" >Quotes</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/alternateversions?ref_=ttrel_ql_trv_5"
-class="link" >Alternate Versions</a>
+<a href="/title/tt5637536/alternateversions?ref_=ttpl_ql_trv_5"
+class="link ghost" >Alternate Versions</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/movieconnections?ref_=ttrel_ql_trv_6"
+<a href="/title/tt5637536/movieconnections?ref_=ttpl_ql_trv_6"
 class="link" >Connections</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/soundtrack?ref_=ttrel_ql_trv_7"
-class="link" >Soundtracks</a>
+<a href="/title/tt5637536/soundtrack?ref_=ttpl_ql_trv_7"
+class="link ghost" >Soundtracks</a>
                 </li>
     </ul>
 
@@ -1283,11 +817,11 @@ class="link" >Soundtracks</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/mediaindex?ref_=ttrel_ql_pv_1"
+<a href="/title/tt5637536/mediaindex?ref_=ttpl_ql_pv_1"
 class="link" >Photo Gallery</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/videogallery?ref_=ttrel_ql_pv_2"
+<a href="/title/tt5637536/videogallery?ref_=ttpl_ql_pv_2"
 class="link" >Trailers and Videos</a>
                 </li>
     </ul>
@@ -1298,28 +832,28 @@ class="link" >Trailers and Videos</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/awards?ref_=ttrel_ql_op_1"
-class="link" >Awards</a>
+<a href="/title/tt5637536/awards?ref_=ttpl_ql_op_1"
+class="link ghost" >Awards</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/faq?ref_=ttrel_ql_op_2"
-class="link" >FAQ</a>
+<a href="/title/tt5637536/faq?ref_=ttpl_ql_op_2"
+class="link ghost" >FAQ</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/reviews?ref_=ttrel_ql_op_3"
-class="link" >User Reviews</a>
+<a href="/title/tt5637536/reviews?ref_=ttpl_ql_op_3"
+class="link ghost" >User Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/ratings?ref_=ttrel_ql_op_4"
-class="link" >User Ratings</a>
+<a href="/title/tt5637536/ratings?ref_=ttpl_ql_op_4"
+class="link ghost" >User Ratings</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/externalreviews?ref_=ttrel_ql_op_5"
-class="link" >External Reviews</a>
+<a href="/title/tt5637536/externalreviews?ref_=ttpl_ql_op_5"
+class="link ghost" >External Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/criticreviews?ref_=ttrel_ql_op_6"
-class="link" >Metacritic Reviews</a>
+<a href="/title/tt5637536/criticreviews?ref_=ttpl_ql_op_6"
+class="link ghost" >Metacritic Reviews</a>
                 </li>
     </ul>
 
@@ -1329,7 +863,7 @@ class="link" >Metacritic Reviews</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/tvschedule?ref_=ttrel_ql_tv_1"
+<a href="/title/tt5637536/tvschedule?ref_=ttpl_ql_tv_1"
 class="link ghost" >TV Schedule</a>
                 </li>
     </ul>
@@ -1340,15 +874,11 @@ class="link ghost" >TV Schedule</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/news?ref_=ttrel_ql_rel_1"
+<a href="/title/tt5637536/news?ref_=ttpl_ql_rel_1"
 class="link" >News</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/showtimes/title/tt0095016?ref_=ttrel_ql_rel_2"
-class="link ghost" >Showtimes</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/externalsites?ref_=ttrel_ql_rel_3"
+<a href="/title/tt5637536/externalsites?ref_=ttpl_ql_rel_2"
 class="link" >External Sites</a>
                 </li>
     </ul>
@@ -1363,11 +893,11 @@ class="link" >External Sites</a>
     <div class="social">
       <div class="social_networking">
        <span><strong>Share</strong> this page:</span>
-  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
-  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt0095016/"></a>
+  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Avatar%205%20(2025)%20-%20Plot%20Summary%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Avatar%205%20(2025)%20-%20Plot%20Summary%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt5637536/"></a>
       </div>
-      <input type="text" name="share-link" value="https://www.imdb.com/title/tt0095016/" readonly>
+      <input type="text" name="share-link" value="https://www.imdb.com/title/tt5637536/" readonly>
     </div>
     <div class="social_networking_like">
         <script type="text/javascript">
@@ -1383,100 +913,10 @@ class="link" >External Sites</a>
             seamless
             frameborder="0"
             allowTransparency="allowTransparency"
-            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F"
+            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F"
         ></iframe>
     </div>
   </div>
-<script>
-    if (typeof uet == 'function') {
-      uet("bb", "RelatedEditorialListsWidget", {wb: 1});
-    }
-</script>
-        <div class="aux-content-widget-2">
-            <div id="relatedEditorialListsWidget">
-                <h3>Editorial Lists</h3>
-                <p>Related lists from IMDb editors</p>
-
-    <div class="list-preview even">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls062522582?ref_=rels_1"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTczMjgyOTExMV5BMl5BanBnXkFtZTcwODkyNTIwNA@@._V1_UY86_CR55,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls062522582?ref_=rels_1"
->
-On Location: Los Angeles
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 60 images
-            
-            <br />updated 16&nbsp;Jan&nbsp;2017
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview odd">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls066664782?ref_=rels_2"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls066664782?ref_=rels_2"
->
-Holiday Classics on Amazon Video
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 17 titles
-            
-            <br />updated 30&nbsp;Nov&nbsp;2016
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview even">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls031316684?ref_=rels_3"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTg0NzE3ODk4MF5BMl5BanBnXkFtZTcwOTY4MDIyNw@@._V1_UY86_CR20,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls031316684?ref_=rels_3"
->
-Holiday Streaming Picks: Classics to Enjoy
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 10 images
-            
-            <br />updated 17&nbsp;Dec&nbsp;2015
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview odd">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls013338091?ref_=rels_4"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls013338091?ref_=rels_4"
->
-Movie Characters With Anti-Holiday Spirit
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 14 images
-            
-            <br />updated 17&nbsp;Dec&nbsp;2015
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-            </div>
-        </div>
-<script>
-    if (typeof uet == 'function') {
-      uet("be", "RelatedEditorialListsWidget", {wb: 1});
-    }
-</script>
-<script>
-    if (typeof uex == 'function') {
-      uex("ld", "RelatedEditorialListsWidget", {wb: 1});
-    }
-</script>
 <script>
     if (typeof uet == 'function') {
       uet("bb", "RelatedListsWidget", {wb: 1});
@@ -1485,7 +925,7 @@ Movie Characters With Anti-Holiday Spirit
         <div class="aux-content-widget-2">
             <div id="relatedListsWidget">
                 <div class="rightcornerlink">
-                    <a href="/list/create?ref_=tt_rls"
+                    <a href="/list/create?ref_=ttpl_rls"
 >Create a list</a>&nbsp;&raquo;
                 </div>
                 <h3>User Lists</h3>
@@ -1493,91 +933,91 @@ Movie Characters With Anti-Holiday Spirit
 
     <div class="list-preview even">
         <div class="list-preview-item-narrow">
-<a href="/list/ls025302025?ref_=rls_1"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+<a href="/list/ls032631829?ref_=rls_1"
+><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="" /></a>        </div>
         <div class="list_name">
-            <strong><a href="/list/ls025302025?ref_=rls_1"
+            <strong><a href="/list/ls032631829?ref_=rls_1"
 >
-Best Movie Of Every Year
+Upcoming Movies
 </a></strong>
         </div>
         <div class="list_meta">
             a list of 44 titles
-            <br />created 6&nbsp;months&nbsp;ago
+            <br />created 23&nbsp;Mar&nbsp;2016
             
         </div>
         <div class="clear">&nbsp;</div>
     </div>
     <div class="list-preview odd">
         <div class="list-preview-item-narrow">
-<a href="/list/ls066998830?ref_=rls_2"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+<a href="/list/ls023812670?ref_=rls_2"
+><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
         <div class="list_name">
-            <strong><a href="/list/ls066998830?ref_=rls_2"
+            <strong><a href="/list/ls023812670?ref_=rls_2"
 >
-The 25 Best Movies of The 1980's
+Movie to Watch at Big Screen
 </a></strong>
         </div>
         <div class="list_meta">
-            a list of 25 titles
-            <br />created 28&nbsp;Dec&nbsp;2016
+            a list of 36 titles
+            <br />created 2&nbsp;weeks&nbsp;ago
             
         </div>
         <div class="clear">&nbsp;</div>
     </div>
     <div class="list-preview even">
         <div class="list-preview-item-narrow">
-<a href="/list/ls026763747?ref_=rls_3"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+<a href="/list/ls063725105?ref_=rls_3"
+><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
         <div class="list_name">
-            <strong><a href="/list/ls026763747?ref_=rls_3"
+            <strong><a href="/list/ls063725105?ref_=rls_3"
 >
-NEW
+To see
 </a></strong>
         </div>
         <div class="list_meta">
-            a list of 30 titles
-            <br />created 1&nbsp;day&nbsp;ago
+            a list of 22 titles
+            <br />created 29&nbsp;Jun&nbsp;2016
             
         </div>
         <div class="clear">&nbsp;</div>
     </div>
     <div class="list-preview odd">
         <div class="list-preview-item-narrow">
-<a href="/list/ls023363173?ref_=rls_4"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+<a href="/list/ls066811652?ref_=rls_4"
+><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="" /></a>        </div>
         <div class="list_name">
-            <strong><a href="/list/ls023363173?ref_=rls_4"
+            <strong><a href="/list/ls066811652?ref_=rls_4"
 >
-Movies I've Watched
+2024
 </a></strong>
         </div>
         <div class="list_meta">
-            a list of 47 titles
-            <br />created 1&nbsp;month&nbsp;ago
+            a list of 24 titles
+            <br />created 30&nbsp;Dec&nbsp;2016
             
         </div>
         <div class="clear">&nbsp;</div>
     </div>
     <div class="list-preview even">
         <div class="list-preview-item-narrow">
-<a href="/list/ls020394118?ref_=rls_5"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BYTY2MTlhMTItZGFiOS00ZGM5LTlhYjUtZWU4NmZmOWJmNzc0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+<a href="/list/ls023907895?ref_=rls_5"
+><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
         <div class="list_name">
-            <strong><a href="/list/ls020394118?ref_=rls_5"
+            <strong><a href="/list/ls023907895?ref_=rls_5"
 >
-TOP 50
+Nog te zien...
 </a></strong>
         </div>
         <div class="list_meta">
-            a list of 46 titles
-            <br />created 8&nbsp;months&nbsp;ago
+            a list of 26 titles
+            <br />created 3&nbsp;weeks&nbsp;ago
             
         </div>
         <div class="clear">&nbsp;</div>
     </div>
                 <div class="see-more">
-                    <a href="/lists/tt0095016?ref_=rls_sm"
+                    <a href="/lists/tt5637536?ref_=rls_sm"
 >See all related lists</a>&nbsp;&raquo;
                 </div>
             </div>
@@ -1655,13 +1095,13 @@ TOP 50
                 <div class="col outside">
     <h3>IMDb Everywhere</h3>
     <div class="app-links">
-    <a href="/offsite/?page-action=ft_app_apple&token=BCYidKJRQngG87CUsGMxKPLOY7_amdbt-Br_xhcwFootT7JoKE5cr9wmezSnPBrzDg5i8taSLYoG%0D%0A6-k2ga9I6kHCLKQixD1Nw0p0ZJ1fEHQNpmkcQOw8RaxQGU8dXBVy53jXyozqKQj27vfQXrSdJq7-%0D%0Aml957nuTG1CYGNA825p69jVjsmXpYkLhTMnMZenchjZdh90yjNACOqJFa_gSZMZ9dPywQ62KXhtR%0D%0A4hD9BNkG-aY%0D%0A&ref_=ft_app_apple"
+    <a href="/offsite/?page-action=ft_app_apple&token=BCYozZlIe3Rz47ydI7mONffmqIlRDkEbqedMxvEvW0YFBR-iQhOrAipF-XZcFgZrpY3Co80nd3QX%0D%0AHAqdtUlxXupALLrX0uT0yTJATPA3g5fwIeNoN98SS71CW34bwww2brxl-ziB8OWk6JdRXEZ8YQ6W%0D%0AXNbclQ0yFCKWzIzLp5oX3K3x6jab9bEtCbP760caLk-_WptShQqAzvMFxnyJwDMietogKnJbSslZ%0D%0A7WLJguXcAtk%0D%0A&ref_=ft_app_apple"
 title="Get the IMDb App on the Apple App Store" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-apple" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_google&token=BCYnTtWFyRQ-wqAtxEwFe4MeRAOQrmFEJM3CCGqf304YTK9Ja-4Tlc479IpAxBlv0ybE8sn_A2JK%0D%0Ak31NCKOzY0Kt44ewj-y7fthEpp74MwYOGgk_pdanmDKvMEjhBb6IVfzz4R17Fg0cz-V5yqjEZOnp%0D%0AIel6MS9hV1KBsY84lwqoVGi8BEV-ct4yImmCP4S-0ej3aOUvturrOW8yOYZgzl91ICW7ZXf9c3_C%0D%0AwTYGr63rbcY%0D%0A&ref_=ft_app_google"
+    <a href="/offsite/?page-action=ft_app_google&token=BCYkTEoFuW4oAEyQ2Wqr74Ha53YvxAR_trb6qDuEHm_Apwro7I6st7jUXAWTvDmZzYS6VSIW4GP4%0D%0ADMXgLziSBrlBK5hI39nfhumHj5pL76NppEzimJWkJMvUjTYGF6UNCot02r4FEXkySjf3NHgJ6TuJ%0D%0ALjzUr63gyfWMPPeMU3q3ZRtPpdAYWzJcXUCJgSYstTKwLPfxjQoF5A6toiL937bOA6IQnpunrJvd%0D%0AH3sHgMbDRvw%0D%0A&ref_=ft_app_google"
 title="Get the IMDb app on Google Play" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-google" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_amazon&token=BCYr0JvDGCcxTilid1xlu7s-FdLqGvCb6TMCv7eMRubS0USG0dH4LH8w0UgC5uSJ8LF8GS8MNWa0%0D%0ANr3d_rNSmkkGYNS_pvLOcwrcL_zuX36_4wGhsK8-49f9ZSW-mcdADqcKwvR8Twl0DK8z5mHKSahI%0D%0Ac0ks0eE_BxWUQltfbT87jxywJG5QB9if6tpfyo6hNzl_3U4xHh9cwuzOCJznyzBVB8C4_fOoCWuy%0D%0A7h3U4DdydXPoUAh4Vxpejj3UzUXKWF9m2uMMbu8QsKKutEH3wJ0zw9iqvyiASC6Dc41H4NhTmao0%0D%0AxiUybKs8m90Gq9Tf7MTuoOpldc_B7CZrUcmepEMy_4YUH7c8BmzORKf9S_Yayf8LM_m8LT2BkDhX%0D%0A_NJZhN-wZ8WNqNIyudox7C6Hvii5qe1GCySOagFj7A--hQMXpYE%0D%0A&ref_=ft_app_amazon"
+    <a href="/offsite/?page-action=ft_app_amazon&token=BCYgxycEcq9iTwxG-6Vd-VvBMBkhVEKdHOwJREhDp9y5VoQDXk4TTZ_ETI9cKuchEb1pbCyDG2Lt%0D%0Ah7zWLhhfYOmxig3-DDxpnT2O8An9WhtaeeCY1UB35ozst3_hRcScIbmUCDyyeAgpq37aG2g84LW5%0D%0AvnxXy2z43109B2BysYKT4wBnRnWASR371xhvenRwL7CKVu5KBjhqxO-OlnEY_HTIBn5c0DsKR02I%0D%0AycQGneRrwFq_ybJqvDuC_AwcZcyDTlMY3t-2XPHnQKjcVpnaLZzjMM9PpLAB2F66Sl-ymB73QIGm%0D%0AeT5odY0DpSTnU2lV721i1WK3JZZ088l_Cvt53meCx4OaR4fvTNA2BEdgIKhd-zvYVU2knKmKo7mD%0D%0ANB_od9q3GynrBbLEd6uVP16OktNJiqabXMBOIWHPz86f4BqjquY%0D%0A&ref_=ft_app_amazon"
 title="Get the IMDb app on Amazon Appstore for Android" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-amazon" ></span>
 </a>
     </div>
@@ -1677,13 +1117,13 @@ class="touchlink" >IMDb Mobile site</a>
       Follow IMDb on
       <div>
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYkI92RpJm-5VkNMOSi-rqjJyjCTJyhTjd0Rk7H1_gsDot8tRrf_txo8WsOqOYFbBkiHBtRjVg3%0D%0Ak0pdjBxMhFSZ1uLxHA6neTOVcQj2t96g0nKeezKlI2bJKVGaM0F4UT0B4EvLt-OeY74_QAoF9GHI%0D%0AfQlLVMBsYiS2UYILPnJsSU2NS9tIq3A6zcPPfdvqtHxK0bUWWFKY7fa4Zcwdm5sPXQ%0D%0A&ref_=ft_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYhIBq-dcvOd5EdLYSxxjZ31Tl6skiSzX4-ymaOemb9Bb2DccBbIxdAEdcodS86-c_WfzAezztE%0D%0A4jVrx3Og-cz6v11KtOEytGvqltFSnekU7TtkljAXqFi0CFDIq_FIWRUIsNYk1mE_A_imORtjOL14%0D%0AEhUpkWe3b1XAeuAg_5r66SkCRXnlZgupXpwFNIvqhHYlLEC_Yomfr0rM46QzZCGJ9w%0D%0A&ref_=ft_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYjQoTzRciYOBUyrfGUYa_w5fKy6onYT6cXg6Xcl_IdjQAEMNo6rOYKLtweDORjFuSE7UPW1py5%0D%0AJkIVdRVgEb5LuEInE1Ve1kRZPEg_MB13iUjgtbAcAL_6WiR3uefMhFOmw-9BT5GpObI0Anic-wNK%0D%0ASYFjEWOkisKGXMDIp_bD1fPeujESRgW2fTRgnWxqsbLe%0D%0A&ref_=ft_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYo_HS2GX9v9brjFzyD6cswu98T-laMfRjx5gefIJ8NQBQpADtqM9HDDokSAwu4NuwGa5a2nls_%0D%0AnejztNSv3bGAq0DJJZTeUjpjdODN3F5UihRlVNZgBo7jNSjDDH5pb3XABY4G139zcGfe-P3EVWpT%0D%0AD26Zj8kjx612fCHwpPtGFV6rbTro5kFoyYYq5zK0ZSPEwdeoP38WSi6awG0IiS8ehA%0D%0A&ref_=ft_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYj_elj5DH2-Vsls1codU6WvljkIuZrG_DyT17RXlm34Z0V9r9fMd43MbXnoGs0jzmvQfwrosFa%0D%0AcrkVj2wgf8S193BDFgR4MN3Z83H90xDknP-7e55uFBkNEdcdztwtv91xs3GSIEFRuTlLuMIFO6l6%0D%0AOHKdkgNdzl-wI4vGKmK9aO9_24aBClij08zRj9VnMlXg%0D%0A&ref_=ft_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYoVZUYw2yU_IqFmRWVCc8LStDmuYLeSPGfVZJEMvZ2b4gYHqtYfbG7X-ax9VLl3UPNfhszqzVX%0D%0Aop7_HFusb8ld-ZjBD8g5LZN4p7FsytsuESFyP0q_8kelbB9usoe0W2niIQOmFm_yEcefZz7sOks_%0D%0An5OEUGnN7NPTbljWP2PX_KESBSeAjt9ur256i88pVF1u4fYCPsMVm7gc7ru85lrtCQ%0D%0A&ref_=ft_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
       </div>
@@ -1734,10 +1174,10 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
             <ul class="unstyled">
                 <li><a href="https://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
 >IMDbPro</a></li>
-                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYkJ4mot2Il56xjbV5cXgU_Oiejkgpy7tNhO3bjS66FsYbfIQg6FRpiq7V3SvbaGCPdPwWxTny4%0D%0A93Jf1P3juupnPgfcFyybUOmqIkPUhb2_xhP8Lme8niw_rb2Olj_h3RZM3BqOdUFfFYmxDt6KdJxX%0D%0AHsWwoSrnMGmXPiWFQ7S4DhEGriy2QNxmPQHr-fasq1aZQhT8ffEyXbTiJLJMeFmx4A%0D%0A&ref_=ft_bom"
+                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYqh0wa1EfeYm_hBoipWpDI-p4cJcYhIvom_AnVlM1dtcD9H9W1YnCBbA_jv2XgjKkwn6IeXl_H%0D%0AQi47jihg2u8S8g7FaUIk4VAoW0t6cL164FZSRyEPtJ-yHhdscrIJ6wgVjJPg-vmtydZCAEDRS7mk%0D%0A-w2fhK59KvUUCI2eZjdjZzP_h5gcJf11kRcj8VSRIxU7P08KCp2ZFmAKpqfdXDoalA%0D%0A&ref_=ft_bom"
 itemprop='url'>Box Office Mojo</a>
 </li>
-                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYnW7OWAtSNLHyJ9C8ban9Clac1DOXkX2lBrUiZIajjqVIXquCHTYutyPmptOJ73SSN-SbDmWBC%0D%0A-sANEBbRO5-JyrCqEoQkP0Q79LESS2ThDRlPhXld_EHatD-eGJ-SLAdlIALnxL-A6uxOuBBNAShZ%0D%0AS9tw-fw8ntT0PXaeI-nmFURpXPLFz3HLg72CofalZdWC%0D%0A&ref_=ft_wab"
+                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYut5w5og13ETQ3p-quNlqzXN8fwiQxNU3bMV5AX0GvvQZ8KEPOnb_iJlPbs_K2LkzJJdLUtMb9%0D%0ACMI-sGnZmPHWTTdTHqoxcZHNAouWubawe2D658UcsrQMdEhKUhYpXVyM6Pee4zSRjC4nPIjfAB8f%0D%0AZ5_hMM3-Y3-7HLNlyRYrWmcfX1iJ_MyQeLBmd_js2BnbqoZNFNsw4t654XXdMRRpyw%0D%0A&ref_=ft_wab"
 itemprop='url'>Withoutabox</a>
 </li>
                 <li class="spacer"></li>
@@ -1745,7 +1185,7 @@ itemprop='url'>Withoutabox</a>
 >Conditions of Use</a></li>
                 <li><a href="/privacy?ref_=ft_pvc"
 >Privacy Policy</a></li>
-                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYo1BNd-3vus99ntTab9RlsvU53LHTTcWclmo5utntxBuqULqUcRyf3d8OopCquq-6kkQA5XDZn%0D%0AOaZOUXVZBLIP_s9pEX8Zo-02tS0H224jsTOsPzT8z4E2EUX0Jzr0-V-I0DOKluqkfjeR_VHuvUHI%0D%0AeL-tN4POqfSRBH6JxYR1q3SaJz3DfT8khuZ08sDNdDmEigOdIbTgKeBwPozoy-39VN_q7lk7hknD%0D%0AjoeNNQEIUnnTLe4f8XBxB3s_42CXh4ET%0D%0A&ref_=ft_iba"
+                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYo_wjGFdE_Wy42tMUDnehgklyca4kj0Reygg6uNHlP0633l5uHOFMy1GZqX3bdyMKtML8wyEQB%0D%0AR6F7nyc1zY7uL1XY85cT_Buft0vXbUdxtVU2YPqVRjltwhQi2bzJplayiWOH7rcEex8vk21K0Y_4%0D%0AZ0Maleu12gUq7h1YhNnkFi1NrGqXsOz82B8Rsi6obaLtwXjDbjJnZtGiXS8pp1CbDGNXhESd-9-V%0D%0AwM7b_G5fTbnuvpRxxbj1wSEXzgpx-lnP%0D%0A&ref_=ft_iba"
 itemprop='url'>Interest-Based Ads</a>
 </li>
                 <li class="spacer"></li>
@@ -1780,7 +1220,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-aiv&token=BCYpHCxuMMAs5RDYWknF_JFyMBAGRf6Kpno4z_bR8EhEBKGt4YmNxBM4wtIqlbUFbzJC6T5Mrnnw%0D%0AZdXVSjq363qY8BtM8iRyICAQOmHhO3_WzcxK72djJRZ2QsLygZnzZ9_2CuNyBs5_KgQhX5EJ0gK4%0D%0A6l9D0uuULi5iZiffvl26g30eBmuuDohjgL2nOit-QpYxCIuH6izVqYPdWHys3EgjWf8cvlKLSeCM%0D%0A7CSje4-QDjI%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-aiv&token=BCYo2AEWJLm9tjiY9yfIKtd8pJpmkWeRI4R1ZsvxY9T2dCkRsU_WWOPf5pBu8oq2VSHCsTZVZudz%0D%0ApTiDFHm7KFcppA3-W8g4_IWEzR-chD-idynBnCoGuKZEeUJ9FlrA25tQo1j5XpGtl4Avs4gIKRXv%0D%0Ao4TDoFNSsxYdBGaCLKQPNdwg9FmopTYCaWwls-2WxTSpFSMmsi9ZePA6_u2hQE_B8fUHFUSuncgA%0D%0AonXf0NmuGmU%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Video</span><br>
                 <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
             </a>
@@ -1789,7 +1229,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-piv&token=BCYgaUOk-xmJfE4ftbMPRkkgORCihX23Jj1xx4RLMmQbmsAIG8zLQrIP4g2fFg-dmP5RWFP78HIY%0D%0ABDo5xSdT2-WlMAAiUdvuHKGGEbYSEsMVXyMMYLV2zlJrkaRw5dSEPWY8S8gmjFifcdZaJZ5fK8VF%0D%0ARM6E4gmoOHj8CDO9jXnA2TtNBw9-ewRuVULa6tc9zr1Sy9gJZn2RI_Jqh8n9VwYabRfz1Vu6HNsS%0D%0AqStgolelnIw%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-piv&token=BCYrmgdEk-oxmV3OFMMoVDG5NmATf9UztIcaB8uKgmtvczLa4kNrXZXBa3Ba27XCYc-0kpr2zVSK%0D%0AXu4WjW46jJkfSeURdZxY2eECO__J7S52ivem-7V_2-Ksy6ScMhDfgVru_Nt3VAlP4bPWV_53ROfc%0D%0A-F_XZE4Uzwa43JsHMB9fJAYrfL-RzC5Do-NfHDotKZIm1BbfyKygcdks3aYqU3Ry5fjPl4Bg9oNF%0D%0AzDaPDbTteTk%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Prime Video</span><br>
                 <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
             </a>
@@ -1798,7 +1238,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-de&token=BCYtK2OipJLSB7uXC8YL0dWtPGZQv9wbWY0QD5A48nCLcuaL7IgBePBVVSdo5HCci9V_CJnY1ws1%0D%0AAV7UMBzzvxpboQE891krFLN3sSfAgohnF4AATiZzdoKe9NmVRUfHA26xh9sJk3aqkj6zQmqvKD0_%0D%0A1ZzFAJKJlbbHYcDkV2Aw--fMiIE9idLfVNyzRAE5ItQsJ-t6DQHLALMt8fbsa_rJjCG7U4Aegbeu%0D%0AEkr_YBtx2kE%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-de&token=BCYntyWu_WKUnNGdgNlg14YZMYIFCAovwy42eoZ5u01u61vROY2Q31d0JeuctBA2M-7nkRAGBSir%0D%0AoiMsdAG9hMpT9P6yoRo2xdawcM9f9nqEe9p_cPB5rBfmsZEM6TODbkHwmC8EZmh9ok4w6x62MfYb%0D%0Ak8qKS9_vCMdbhVJVYBMl8Rx6VARQLtfzEBFLMWqzhZ_AkjMFpFz5mDdf9dGv0DKQRJUCJ5oR-8uI%0D%0AO1zEgfW-w98%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1807,7 +1247,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-it&token=BCYvJCEl8modep4dHVFHKkVLUYCGZS_pR7FStgIIulVxpncogKg4QfD6Z3iGBhH1U-aC2kCkniPi%0D%0A6OviwuE-VWEbmVO4GiypOxQju-mD5Gj8YBRcu-kEpg3p_Wh-M4rfA-rKHmwt5QjGkzDJnPS_kuzk%0D%0AXp8aWYtGvjP9sfxobHuvCWS99l7Niukn8a6Ghg-1Ujg8hq0WGqaA7oN54MHRcawMHmuT7oak6DoE%0D%0AcZoN6FaKNz0%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-it&token=BCYiLEK3ZzErCVz81dSrGB7vVOVtWdttfoKWvMlhaLPtHS8V9WluzfXRUDPZ-R5wdk9IJbdvlP8b%0D%0Ac_7R6iXZ0g124JX6D1TeBhQ8Exc3Pd0lqSYOalm1poX3-62gobCgKVQAc4d_a5RI664vG259TEn1%0D%0AV1AsP4wifxe-S9kd2zmdy5Rez2oQ4EWlnMI84ym8HX6HUixx7SZnIfC8tMOQKYuve62Z_J8CiCbg%0D%0ABz2q7qbRR5k%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1816,7 +1256,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYgpCBpiqoOdOMjmUa3f4226WdoelE42WOFx7YhbjqI5W6wlBADU0ibMLZJmeSKmBAv5dcM_dPR%0D%0AJ-kFVhNoNpWOzwKUf5acfP9zrsKSF06lKocnDZoFWM1anQoTtrTfxGDwvX1-k5VrCC5k9xh3pi5-%0D%0AZPDTavIJT0HOh3vaQRQJeNdVqW8S250baCeCFGQpy9-w11_I3EB3frvrFPaDNL_5y3sHOrKqYdex%0D%0AkO3UJlq2LdM%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYiPvClJysmQwSKHdUGixhVPA4_BBiDCKUl5WXrog0BmLqGDJ6kqTMsb520wdTmPVXFG3hRj8rl%0D%0AqcW64o6q1IhfQTJX1vT0SsF1n9roG-Fxb525WDqwA8pSLHDr-E1XxC4id3aPcz6L4RS-vv_FKP_2%0D%0ATqiFQNH902z60_Bn6rXfhA8Nk5JxSL60evrffsjMB-fi5SsXgWqxNGzv7-XsobbNHm5cvLZ_2NR2%0D%0AeDKKR1gvxwQ%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon France</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1825,7 +1265,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-in&token=BCYsczv8q00tzVN-_MHSEE_AuhAQBr-po_3U9vuYySQDIqcC0ykEjJ0sdnkQtW7wQimzknb7rBdA%0D%0ApOLoOLG7akFCYBLJAvtPqAtJFqi6sdS_jZ08texCRbFTFEnymWAIKblmm7Rq2gq0vc_D4ehnLYNv%0D%0AbSz1gLFfvpkRPdaRxJExcmuhk1WLcmfUDZKXxkf1y2O5hvpx95zBErxMwS3Db2AcPzeOQ3riB7-F%0D%0AFVsTTk76XWih_tCZzLZpm7J2cS8FuTM8%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-in&token=BCYiy9cdxOvPQSe_GX21b5E3sWo_5TyYcpUmm_cF5zKWwJRKFh2CCTKxwcucw9l3YLRIvoMPoDoK%0D%0A9PXgDPO7XXthI5cHMsyjoiygaJhtHuu-tgqUDrg-YQVIReE-D1RsJTfvkvURe_s3w7EdJWzlDSlm%0D%0A1uMY8sjjZFaKyP3XJSEzip32PGeCy8FDu7ERQAsrJSX-N-3XnUThKnv0pOX4nSN3sAYqVEJM7CU6%0D%0AiG8UHMVhjxAEu8fU6wwLLbiw73DBfi93%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon India</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
             </a>
@@ -1834,7 +1274,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYlr605W9OQgPCmJV7uj5HhEMiQKn4bSzlhfdMrp1m-cEA2YqUEeJyjj8WiImmOdOPPyZ0i5Xtz%0D%0AeNboavtzu6L9zR9coihyZTswywg_do1zdEnc6Dr6UAGhbA5BMdi9TKvyJ5J8IRBAQkueaTdPCIT5%0D%0ACoeCsKmKR7XZ1xCjzPcNZVw%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYsZEiOX3bRaJV6cLkj59yI2movtyZVwdsFXP1jQ30qKCALI3Mxzxdc8NMxHKvuNj41cuDk6AWG%0D%0AgNc_-29aiF3lzTdeL3OF0CZkqUZbM-7QJ9pqGPUQ0AfOKP_G8tDTEd6FGmChtgfDRSmRF5yAKiCC%0D%0A2n7-tvlY8gHzr-mV3I1Y2pc%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">DPReview</span><br>
                 <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
             </a>
@@ -1843,7 +1283,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYpzWHGG5Jjju6PCnoi0J2yUlQS6W4VIhF2H0w6eRoY_3cuoTOpKmAlnSNbnbZG_GfVmeHv33AD%0D%0AKkljkKMbCOSAZAq-4koqsIrwlvhpMwz3JChTIwhJnUgabQU9laFwVzYNdJ2tW1SkODLFY8WhMuSO%0D%0ALc-fXVlFqnq8-YzSbiJa45s%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYjd-lOS0rh4YF2OuncKoCarpiBJPdszqhxydTooLlv_OFp0sAKGW1yjjYiPTvlYdyqqBTjBjIh%0D%0AaHbn9ESvx4HzzOQsIxyExHxf55331Oo6Qu6wIeDhih_rgHrUOKVfJBrvvdmJWPUzj3wsEp6_p2FX%0D%0AohOe_NtxWWc8zFdD9V04EA4%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Audible</span><br>
                 <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
             </a>
@@ -1878,7 +1318,7 @@ itemprop='url'>Interest-Based Ads</a>
                 jQuery(
                              function() {
            var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
-               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&colorscheme=light",
+               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5637536%2F&colorscheme=light",
                like = document.getElementById('iframe_like');
 
            if (!isAdvertisingThemed && like) {
@@ -1900,7 +1340,7 @@ itemprop='url'>Interest-Based Ads</a>
         </script>
 
 
-<div id="servertime" time="63"/>
+<div id="servertime" time="64"/>
 
 
 
@@ -1912,4 +1352,3 @@ itemprop='url'>Interest-Based Ads</a>
         
     </body>
 </html>
-

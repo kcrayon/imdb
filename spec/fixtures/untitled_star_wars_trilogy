@@ -1,17 +1,16 @@
 HTTP/1.1 200 OK
 Server: Server
-Date: Sun, 22 Apr 2018 20:48:47 GMT
+Date: Sun, 22 Apr 2018 20:53:57 GMT
 Content-Type: text/html;charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 X-Frame-Options: SAMEORIGIN
 Content-Security-Policy: frame-ancestors 'self' imdb.com *.imdb.com *.media-imdb.com withoutabox.com *.withoutabox.com amazon.com *.amazon.com amazon.co.uk *.amazon.co.uk amazon.de *.amazon.de translate.google.com images.google.com www.google.com www.google.co.uk search.aol.com bing.com www.bing.com
 Content-Language: en
-Set-Cookie: uu=BCYrB_yFeha9ybSr_c49QQXZOXNTfatjUEiKkAOPpNx7SqIGbNBag8_VFvb0gzUsWYVhGpZ-f73A%0D%0ALZZmd0ytOK2vfikcBUX6lEPwAHakcp1fITLuuOmXZblmwBxej8sVYg-GulW8rQ7KL0M8pbfGLo3a%0D%0AkWvXQ2jq4_J2jwEHYJPme4h10RFSgDmKhPPXwxfDP7yxA9XJZhoGHk-ItXGi7zh5gnD0rXrlDrDw%0D%0ADJu9bOvSdlRXjofaYYbyGp_jXw3ByAbk3KCHJutx8KVMdkAam5bmFw%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:02:54 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:02:54 GMT; Path=/
-Set-Cookie: session-id-time=2155150127; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:02:54 GMT; Path=/
+Set-Cookie: uu=BCYszsO8YuytoL65iCedzg5RCd8Yr7Bbcq9U3UB1wiLTrCA_cNvnAMvJQDnK6-IwylQcOmXiDQt1%0D%0AV5LJzO2sjwyyJkZo4fpV3uiPttD352pdO9fvRXnqhYC64iLikhkBWxmPuGVjjMw26vRs_xELrnY9%0D%0AqIs4gYe7Yup78j-PCP5C-tP3_L9XAUR5V4kaVnVtvQHG75Uu-3CFOGLj6H0NAxH41AdAfLVM8OX1%0D%0A8flaxHd5s7BZMUpEVQF8MFxALoZOV0owXU5H-oJcK2Rn15Rg2Z99mQ%0D%0A; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:08:04 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:08:04 GMT; Path=/
+Set-Cookie: session-id-time=2155150436; Domain=.imdb.com; Expires=Sat, 11-May-2086 00:08:04 GMT; Path=/
 Vary: Accept-Encoding,User-Agent
-
 
 
 
@@ -31,7 +30,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt0095016?src=mdot">
+    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt7617048?src=mdot">
 
 
 
@@ -43,7 +42,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
-        <title>Die Hard (1988) - Plot Summary - IMDb</title>
+        <title>Untitled Star Wars Trilogy: Episode I - Reference View - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
     if (typeof uet == 'function') {
@@ -56,8 +55,8 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
 
-        <link rel="canonical" href="https://www.imdb.com/title/tt0095016/plotsummary" />
-        <meta property="og:url" content="http://www.imdb.com/title/tt0095016/plotsummary" />
+        <link rel="canonical" href="https://www.imdb.com/title/tt7617048/reference" />
+        <meta property="og:url" content="http://www.imdb.com/title/tt7617048/reference" />
 
 <script>
     if (typeof uet == 'function') {
@@ -86,24 +85,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
         
-        <meta property="pageId" content="tt0095016" />
+        <meta property="pageId" content="tt7617048" />
         <meta property="pageType" content="title" />
-        <meta property="subpageType" content="plotsummary" />
+        <meta property="subpageType" content="reference" />
 
 
-        <link rel='image_src' href="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg">
-        <meta property='og:image' content="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" />
+        <link rel='image_src' href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB499606982_.png">
+        <meta property='og:image' content="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB499606982_.png" />
 
         <meta property='og:type' content="video.movie" />
     <meta property='fb:app_id' content='115109575169727' />
 
-    <meta property='og:title' content="Die Hard (1988)" />
+    <meta property='og:title' content="Untitled Star Wars Trilogy: Episode I" />
     <meta property='og:site_name' content='IMDb' />
-    <meta name="title" content="Die Hard (1988) - Plot Summary - IMDb" />
-        <meta name="description" content="Die Hard (1988) on IMDb: Plot summary, synopsis, and more..." />
-        <meta property="og:description" content="Die Hard (1988) on IMDb: Plot summary, synopsis, and more..." />
-        <meta name="keywords" content="Movie Plot, Plot Summary, Plot Synopsis" />
-        <meta name="request_id" content="KXD5KH7VJG630XXHXN7Y" />
+    <meta name="title" content="Untitled Star Wars Trilogy: Episode I - IMDb" />
+        <meta name="description" content="Untitled Star Wars Trilogy: Episode I Reference View" />
+        <meta property="og:description" content="Untitled Star Wars Trilogy: Episode I Reference View" />
+        <meta name="keywords" content="Title, Reference" />
+        <meta name="request_id" content="165W23S13CRD0H3NR2TE" />
 
 <script>
     if (typeof uet == 'function') {
@@ -111,7 +110,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-c42xl-1-1d-28ce45b2.us-east-1 -->
+<!-- h=ics-c42xl-3-1a-c678dcae.us-east-1 -->
 
             <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/title-flat-1709933768._CB497336322_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/imdb/css/collections/ie-3579153447._CB498724035_.css" /><![endif]-->
@@ -541,13 +540,13 @@ https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/navbar/imdbpro_m
         </li>
         <li class="social">
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYjvYqjvzdJHqGkTZm9i-sGcLXzVcRVNY8Oq9n2SdDTCCMxON5K5b_bj-5LTI8GpNu_aliMnEdv%0D%0AtR6mZkuHGGxk4TNSTHAXzfuBmDBrzrU6cyu2ZIhSCncxXhdtSpMuQUDs2YmofIEcvPPXxjXwEV8y%0D%0Ac3DE5DAtX4D3Xc-lNY4egbsvdAF2apqrx_sQsmlCsrfKnPpmsjY3qy4DcRm60I_CiQ%0D%0A&ref_=nv_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYq5-9LUBnAOwCUp77j8OMcJkJtJH5Fsx4aIZ_hEhPcY327S8JZ8AFLzndJzp49OB9DVZqUZfC6%0D%0ANGoihYKKok1CflD0dYWm5cBg4Y4_KhlVFLVSe4cbeHixlH_LZn-RY2m-bUp2_pPkn_6LRi1ZbYuY%0D%0AJc3wM3gc0YkvBhy9Kn6nOqucCUGcjLncDIuWReLXoffk3-7Cix5QO0GqpDpy4Ugc5w%0D%0A&ref_=tr_nv_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYj7z6qa0Lwkfo-72qINqXLNwUbMVtiO9iR5q74bNtcN1lQ8BowoN_-kznUMJD8y3bN8n6cEeTW%0D%0Agpv9KWDhC-u8dnWKIEmPl_VjPobQE3HDuwVEQqzDln3xnOtMto4FfmHgyH5yjUAgt9rxt_S4j2Hn%0D%0A7RIxdOq3dlHHqKVr4R4Su9qP3Kp6Hpj5kq_B4s-zC73BtMBuFegXC3YESsuRaXITbA%0D%0A&ref_=nv_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYkF8CXs_agjF5D9X-azCE8vEAaEKvKhNuyKo_LkND-dInkycp3-4NfBPqHflTQ0zl2Gt48hbAa%0D%0A05rgCM4qzZNpn3OGZ6-iqQS41IiNXTrHyv_apzXtcErcxpGsF0vXMpujBibJ2erN24nh1NXDvIMa%0D%0Apgda9W6an2AyVYshcI60G3AOQSB-oq1dy_5O5J-GtZZYbFHVew3_UrNPIzN5Ha7kPw%0D%0A&ref_=tr_nv_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYqpzXYLW5K5KFSd_mvIBhKoOZqnPaTlVFNMk2bfk366Wy733oeXnFjYYp-iaMiTb7yM3QEQS-9%0D%0ArYMZb0l69yIVEFPgHh4v65ssh02sMwDrbhuRp9XiSBsUey6d8Ps69hXoTTCHUUwcV9T0ZWUwTnx6%0D%0ARmWugVDCzbH_oBTPyKY8MUbHDuFXu_zjJ95Zxtkb7IzxJGw65uk7tFtTpl2nbpAN3g%0D%0A&ref_=nv_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYoBLVe8-Wx51dJIOY6CVllji0Bf2i0tS_TuQmPSDH2bG2b2KAdjnBqaSKGUUCgXUYq0XfNv0nN%0D%0AW5bZIVx9VHfkvwIuRP1bOi-YLmGgd8Gh1epA9KSgRijZ9pTzbBIlxpqrUrUQA4AD7yiOj4avNy3j%0D%0AqbASMnQfCkc_vAXecT2sMcfVghtd4_r75VhcTsHjoe9sfdv_DFQPh12rw4NZHPBErA%0D%0A&ref_=tr_nv_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
         </li>
@@ -560,7 +559,7 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
                 <a id="facebook-signin-link" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyI0OWU2YyI6ImRhMjkiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bnZfZmJfbGdpbiIsIm1hbnVhbExpbmsiOiJmYWxzZSJ9&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F" class="signin-button">
                 <span class="facebook-logo"></span>
                 <span class="signin-facebook-text">Sign in with Facebook</span></a>
-                <a href="https://www.imdb.com/registration/signin?u=/title/tt0095016/plotsummary&ref_=nv_usr_lgin_1"
+                <a href="https://www.imdb.com/registration/signin?u=/title/tt7617048/reference&ref_=nv_usr_lgin_1"
 rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in options</a>
                 </p>
         </li>
@@ -588,125 +587,340 @@ rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in option
 
 <div id="content-2-wide" class="redesign">
 <div id="main">
-    <section class="article listo">
-        <span class="rightcornerlink">
-            <a href="https://contribute.imdb.com/updates?edit=tt0095016/plotsummary&ref_=ttpl_pl_edt">Edit</a>
-        </span>
-<div class="subpage_title_block">
-<a href="/title/tt0095016/?ref_=ttpl_pl_tt"
-> <img itemprop="image"
-class="poster"
-height="98"
-width="67"
-alt="Die Hard (1988) - Plot Summary Poster"
-src="https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg" />
-</a>  <div class="parent">   
+    <section class="article listo content-advisories-index">
+    <div class="titlereference-header">
+<div>
+    <div class="ribbonize titlereference-watch-ribbon" data-tconst="tt7617048" data-caller-name="title"></div>
     <h3 itemprop="name">
-<a href="/title/tt0095016/?ref_=ttpl_pl_tt"
-itemprop='url'>Die Hard</a>         <span class="nobr">
-             (1988)
-         </span>
-    </h3>
-  </div>
+Untitled Star Wars Trilogy: Episode I    </h3>
+    <hr>
   <script>
     if ('csm' in window) {
       csm.measure('csm_body_delivery_started');
     }
   </script>
-  <h1 class="header">Plot</h1>
+    Reference View
+    <span class="titlereference-change-view-link">
+        <span class="titlereference-change-view-pipe">|</span>
+    <a href="/preferences/general" class=>Change View</a>
+    </span>
+    <hr>
+    <ul class="ipl-inline-list">
+            <li class="ipl-inline-list__item">
+<a href="/genre/fantasy">Fantasy</a>, 
+<a href="/genre/sci_fi">Sci-Fi</a>
+            </li>
+        <li class="ipl-inline-list__item">
+            Movie
+        </li>
+    </ul>
+    <hr>
+    <ul class="ipl-inline-list">
+    </ul>
 </div>
-
-    <div class="ipl-itemcount-header">
-        Showing all 7 items
     </div>
-
-    <div class="ipl-jumpto-container">
-        <span class="ipl-jumpto-container__label">Jump to:</span>
+    <section class="titlereference-section-overview">
+    <div>
+        
+            The plot is unknown at this time.
+    </div>
+        <hr>
+    <div class="titlereference-overview-section">
+        Director: 
         <ul class="ipl-inline-list">
-    <li class="ipl-inline-list__item">
-            <a href="#summaries">Summaries</a>
-         (6)
-    </li>
-    <li class="ipl-inline-list__item">
-            <a href="#synopsis">Synopsis</a>
-         (1)
-    </li>
+            <li class="ipl-inline-list__item">
+<a href="/name/nm0426059">Rian Johnson</a>
+            </li>
         </ul>
     </div>
-
-    <h4 id="summaries" class="ipl-list-title">Summaries</h4>
-    <ul class="ipl-zebra-list" id="plot-summaries-content">
-                <li class="ipl-zebra-list__item" id="summary-ps2334684">
-                    <p>NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of bank robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=Sam&view=simple&sort=alpha&ref_=ttpl_pl_0">Sam</a></em>
-                        </div>
-                </li>
-                <li class="ipl-zebra-list__item" id="summary-ps0026669">
-                    <p>Tough New York cop John McClane finds himself in a tight situation when an office building in Los Angeles is taken over by terrorists. Apart from himself, everyone else in the building - including his wife - is held at gunpoint while their captors spell out their demands. The F.B.I. are called in to survey the situation, but John McClane has other plans for the terrorists...</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=Graeme Roy <gsr@cbmamiga.demon.co.uk>&view=simple&sort=alpha&ref_=ttpl_pl_1">Graeme Roy <gsr@cbmamiga.demon.co.uk></a></em>
-                        </div>
-                </li>
-                <li class="ipl-zebra-list__item" id="summary-ps0171665">
-                    <p>New York cop John McClane flies to Los Angeles on Christmas eve to spend the holidays with his family. He arrives at the Nakatomi corp. building for his wife&#39;s office party. International terrorists take over the building and hold every one as hostage to steal $600 million of bonds from the vaults of the building. Now its up to McCLane to face the terrorists and save his wife and the other hostages.</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=Sami Al-Taher <staher2000@yahoo.com>&view=simple&sort=alpha&ref_=ttpl_pl_2">Sami Al-Taher <staher2000@yahoo.com></a></em>
-                        </div>
-                </li>
-                <li class="ipl-zebra-list__item" id="summary-ps0058222">
-                    <p>In the city of Los Angeles, a Christmas party is held on the 30th floor of the Nakatomi Plaza Hotel. While the party is going on, downstairs, a band of German terrorists arrive and take the entire building hostage including its employees and attempt a huge robbery. But the only one who eludes capture is New York City Cop John McClane who launches a one man war in an attempt to stop the terrorists and save all hostages including his wife Holly.</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=Shaun Ouimette {xtreemshaun589@hotmail.com}&view=simple&sort=alpha&ref_=ttpl_pl_3">Shaun Ouimette {xtreemshaun589@hotmail.com}</a></em>
-                        </div>
-                </li>
-                <li class="ipl-zebra-list__item" id="summary-ps0116629">
-                    <p>John McClane is a cop from New York City who is on his way to Los Angeles to see his kids and his wife Holly, who moved to LA because of a job at the Nakatomi Corporation. When he arrives at Nakatomi Plaza, he meets Holly&#39;s boss Joe Takagi and her co-worker Harry Ellis. He and Holly go into a private bathroom and get into an argument. When Holly leaves to give a speech, thirteen armed terrorists lead by Hans Gruber seize control of the building and take the occupants of the 30th floor, who are the only ones left in the building, hostage. Luckily, they missed John and he has to figure out how to save the hostages before the terrorists get their way.</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=Ridley Lavine&view=simple&sort=alpha&ref_=ttpl_pl_4">Ridley Lavine</a></em>
-                        </div>
-                </li>
-                <li class="ipl-zebra-list__item" id="summary-po1572295">
-                    <p>John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.</p>
-                        <div class="author-container">
-                            <em>&mdash;<a href="/search/title?plot_author=rball4042&view=simple&sort=alpha&ref_=ttpl_pl_5">rball4042</a></em>
-                        </div>
-                </li>
-    </ul>
-    <br />
-        <h3>Spoilers</h3>
-    <div class="ipl-message-box ipl-message-box--alert ">
-            <svg class="ipl-alert-icon" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                <path d="M0 0h24v24H0z" fill="none"/>
-                <path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/>
-            </svg>
-            The synopsis below may give away important plot points.
+    <div class="titlereference-overview-section">
+        Writers: 
+        <ul class="ipl-inline-list">
+            <li class="ipl-inline-list__item">
+<a href="/name/nm0426059">Rian Johnson</a>, 
+<a href="/name/nm0000184">George Lucas</a>
+            </li>
+        </ul>
     </div>
-    <h4 id="synopsis" class="ipl-list-title">Synopsis</h4>
-    <ul class="ipl-zebra-list" id="plot-synopsis-content">
-            <li class="ipl-zebra-list__item" id="synopsis-py3206203">John McClane, a detective with the New York City Police Department, arrives in Los Angeles to attempt a Christmas reunion and reconciliation with his estranged wife Holly (<a href="/name/nm0000889/">Bonnie Bedelia</a>), who is attending a party thrown by her employer, the Nakatomi Corporation, at its still-unfinished American branch office headquarters, the high-rise Nakatomi Plaza. McClane is met at the airport by Argyle, a limo driver charged with taking John to Holly&#39;s office. As he enters the lobby, he finds that the building&#39;s staff directory is an automated computer program listing Holly under her maiden name, Gennaro. When he gets off the elevator on the 30th floor, he sees a lavish holiday party is underway. John is met by Holly&#39;s boss, Takagi, a genial Japanese businessman. After McClane refreshes himself from the flight in Holly&#39;s corporate room, they have an argument over the use of her maiden name but Holly is called away.<br/><br/>As the party continues, a large moving van from &quot;Pacific Courier&quot; makes its way to the building. Two men, Karl (<a href="/name/nm0324231/">Alexander Godunov</a>) and Theo (<a href="/name/nm0319739/">Clarence Gilyard Jr.</a>), arrive in a car at the front entrance to the building. At the security desk they divert the security guards&#39; attention away from the trucks. Karl guns down the guards while Theo commandeers the closed circuit security field. Terrorists led by the slick and well-mannered German anarchist Hans Gruber (<a href="/name/nm0000614/">Alan Rickman</a>) emerge from the trucks and hold the partygoers as hostages in exchange for terrorist operatives in prison. In the confusion, McClane is able to disappear unnoticed into the building&#39;s maintenance areas. Takagi is taken from the party and learns that Gruber is actually using the hostage situation as a cover to steal $640 million in bearer bonds stored in the building&#39;s vault. McClane is unable to stop Gruber from executing Takagi when he refuses to hand over the vault&#39;s combination.<br/><br/>McClane attempts to alert the local police by setting off a fire alarm -- his attempt fails and he is promptly discovered by Karl&#39;s brother, Tony. McClane kills Tony, taking his gun and radio, which he uses to contact the LAPD from the roof of the building. Karl demands vengeance for his dead brother. While McClane argues with the LAPD over his distress call -- they believe it to be a prank -- Karl and two of Hans&#39; men attack, forcing McClane to retreat into the tower&#39;s ventilation system. When he emerges, he tries to get the attention of Sgt Al Powell (<a href="/name/nm0001817/">Reginald VelJohnson</a>), sent by the dispatcher McClane had contacted before. When Marco and Heinrich find him, McClane kills them both. Initially finding nothing amiss, Powell is ready to drive off but McClane, in one last desperate move before his last hope for outside help leaves, gets his attention by throwing Marco&#39;s corpse onto Powell&#39;s patrol vehicle. Another detachment of Gruber&#39;s men opens fire on Powell&#39;s car as he reverses out of the front circle and crashes, calling for backup in his panicky state.<br/><br/>While searching Heinrich&#39;s pockets and bag, McClane finds the henchman was carrying a significant quantity of C4 explosive and detonators. McClane taunts Gruber using Heinrich&#39;s walkie-talkie and tells him he killed a few of his men, giving Hans their names. Karl reports to Hans that McClane wasn&#39;t bluffing and that their adversary took Heinrich&#39;s bag, which presumably held all the detonators.<br/><br/>With Powell now fully convinced that the emergency call was real, the situation rapidly escalates as the LAPD comes in force and surrounds the Nakatomi Building with a large SWAT force. However, Gruber is not too concerned: although the police responded somewhat sooner than he planned thanks to McClane&#39;s interference, the police are a necessary and unwitting part of Gruber&#39;s plan in the first place. As part of that plan, Gruber contacts the police with a list of difficult demands such as the release of various real terrorists he has no connection with and has only read about in the news to stall them.<br/><br/>Meanwhile, the SWAT team, led by Deputy Chief Dwayne Robinson (<a href="/name/nm0322339/">Paul Gleason</a>) arrives to storm the building. However, Theo notices their movements on the security feed and alerts Gruber. Talking furiously to Powell, McClane attempts Robinson to stop the SWAT team from walking into a trap, but Powell cannot convince his superiors. The SWAT team is repelled, the SWAT armoured vehicle is disabled by a rocket launcher, and the police are out-gunned by the firepower of the terrorists and their strategic spots in the building. To stop two of Gruber&#39;s men from continuing to fire upon the disabled SWAT armored car, McClane drops C4 down the elevator shaft and blows out the entire floor where the terrorists are firing from, giving the cops a chance to retreat. By this time the news media are on the scene, led by sleazy reporter Richard Thornberg (<a href="/name/nm0040472/">William Atherton</a>), and the FBI, led by Special Agent Johnson (<a href="/name/nm0001108/">Robert Davi</a>) and his partner, Special Agent Johnson (<a href="/name/nm0005598/">Grand L. Bush</a>) arrive to commandeer the situation.<br/><br/>As the remainder of Gruber&#39;s men attempt to find McClane and the detonators, one of the hostages, Harry Ellis (<a href="/name/nm0000952/">Hart Bochner</a>), betrays McClane&#39;s identity to Gruber. Gruber uses the radio to contact McClane, and demands that McClane return the detonators or else he would shoot one of the hostages. McClane refuses, and Gruber kills Ellis, to the horror of the police force who heard everything on radio. McClane continues to keep moving through the building to learn more about Gruber&#39;s plans. McClane and Gruber accidentally meet but Gruber gains McClane&#39;s trust by passing himself off as an escaped hostage. But then Gruber&#39;s identity is discovered as he threatens to shoot McClane. When Gruber&#39;s men arrive, McClane flees, dropping the detonators.<br/><br/>The FBI play their final card by shutting off the building&#39;s power while they plan a helicopter raid onto the roof. However, Gruber had planned for the FBI&#39;s predictability - disconnecting the power opened the final electromagnetic lock on the vault and gave him access to the bonds. McClane, suspicious of Gruber&#39;s presence near the roof, finds out Gruber has used the recovered detonators to rig the helipad on the building&#39;s roof with explosives. Gruber plans to demand helicopters to carry himself, his men and the hostages to a waiting plane at an airport. After the FBI informs Gruber that his demands have been met, Gruber&#39;s men force the hostages to the roof to be killed by the explosions, so they could escape in the confusion. McClane, after fighting off Karl and failing to warn the police of the Gruber&#39;s doublecross, is able to get the hostages back inside safely, but the FBI helicopter shoots at him, believing he&#39;s one of the terrorists. The helipad explodes, the helicopter is destroyed both Johnsons are killed in the explosion.<br/><br/>Gruber has discovered from Thornberg&#39;s investigative newscast that Holly Gennaro is McClane&#39;s wife. He holds her hostage to prevent McClane from interfering in his getaway. McClane, down to his last two bullets, is able to lull Gruber into a trap, killing the last remaining terrorist and wounding Gruber, who falls backwards and out of the building through a window. Gruber manages to hang onto Holly&#39;s wristwatch, his weight dragging her out the window as well. McClane is able to unstrap the watch and lets Gruber fall to his death. Meanwhile, Theo is knocked unconscious by McClane&#39;s limo driver, Argyle, after collecting the bonds. McClane and Holly leave the building together, and meet Powell face to face for the first time. Karl comes out behind McClane and Holly with an assault rifle, but Powell, who had previously confessed to McClane that he had not fired a gun since he accidentally shot a child years ago, draws and shoots him before he can harm McClane and Holly. Thornberg attempts to interview them as they are leaving the scene, Holly punches him in the face. McClane and Holly take off in Argyle&#39;s limo as the building is secured by the police.</li>
-    </ul>
+    </section>
+            <section>
+                <h4 class="ipl-header__content ipl-list-title">Production Notes from IMDbPro</h4>
+                <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Status: </td>
+            <td>
+                    announced
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Status Updated: </td>
+            <td>
+                    10 Nov 2017
+            </td>
+        </tr>
+                </table>
+            </section>
+        <section class="titlereference-section-credits">
+    <header class="ipl-header">
+        <div class="ipl-header__content">        <h4 name="directors" id="directors" class="ipl-header__content ipl-list-title">
+            Directed by
+        </h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:directors">Edit</a>
+    </header>
+
+    <table class="simpleTable spFirst crew_list">
+        <tbody>
+                    <tr>
+                        <td class="name">
+                            <a href="/name/nm0426059/?ref_=tt_rv"
+>Rian Johnson</a>
+                        </td>
+                            <td colspan=2></td>
+                    </tr>
+        </tbody>
+    </table>
+    <header class="ipl-header">
+        <div class="ipl-header__content">        <h4 name="writers" id="writers" class="ipl-header__content ipl-list-title">
+            Written by
+        </h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:writers">Edit</a>
+    </header>
+    <table class="simpleTable spFirst writers_list">
+        <tbody>
+                        <tr>
+                            <td class="name">
+                                <a href="/name/nm0426059/?ref_=tt_rv"
+>Rian Johnson</a>
+                            </td>
+                            <td>...</td>
+                            <td>
+                                ()
+                                
+                            </td>
+                        </tr>
+                <tr><td colspan="3">&nbsp;</td></tr>
+                        <tr>
+                            <td class="name">
+                                <a href="/name/nm0000184/?ref_=tt_rv"
+>George Lucas</a>
+                            </td>
+                            <td>...</td>
+                            <td>
+                                (based on characters created by)
+                                
+                            </td>
+                        </tr>
+                
+        </tbody>
+    </table>
+    <header class="ipl-header">
+        <div class="ipl-header__content">        <h4 name="producers" id="producers" class="ipl-header__content ipl-list-title">
+            Produced by
+        </h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:producers">Edit</a>
+    </header>
+
+    <table class="simpleTable spFirst crew_list">
+        <tbody>
+                    <tr>
+                        <td class="name">
+                            <a href="/name/nm0074851/?ref_=tt_rv"
+>Ram Bergman</a>
+                        </td>
+                            <td>...</td>
+                            <td>producer</td>
+                    </tr>
+                    <tr>
+                        <td class="name">
+                            <a href="/name/nm0005086/?ref_=tt_rv"
+>Kathleen Kennedy</a>
+                        </td>
+                            <td>...</td>
+                            <td>producer</td>
+                    </tr>
+        </tbody>
+    </table>
+                    
+        </section>
+        <section>
+    <header class="ipl-header">
+        <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Production Companies</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:production_companies">Edit</a>
+    </header>
+        <ul class="simpleList">
+                <li>
+                        <a href="/company/co0071326/">Lucasfilm</a>
+                </li>
+        </ul>
+    <header class="ipl-header">
+        <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Distributors</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:distributors">Edit</a>
+    </header>
+        <ul class="simpleList">
+                <li>
+                        <a href="/company/co0226183/">Walt Disney Studios Motion Pictures</a>
+                         (United States) (theatrical)
+                </li>
+        </ul>
+    <header class="ipl-header">
+        <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Special Effects</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:special_effects_companies">Edit</a>
+    </header>
+        <ul class="simpleList">
+        </ul>
+    <header class="ipl-header">
+        <div class="ipl-header__content">            <h4 class="ipl-header__content ipl-list-title">Other Companies</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:miscellaneous_companies">Edit</a>
+    </header>
+        <ul class="simpleList">
+        </ul>
+        </section>
+        <section class="titlereference-section-storyline">
+    <header class="ipl-header">
+        <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Storyline</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:plot/keywords/taglines/certificates/genres">Edit</a>
+    </header>
+            <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Plot Keywords</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            <a href="/keyword/space-opera">space-opera</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/keyword/star-wars">star-wars</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/keyword/first-part">first-part</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/keyword/part-of-trilogy">part-of-trilogy</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/keyword/spin-off">spin-off</a>
+                        </li>
+                    <li class="ipl-inline-list__item">
+                        <a href="/title/tt7617048/keywords">See All (7) &raquo;</a>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Genres</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            <a href="/genre/Fantasy">Fantasy</a>
+                        </li>
+                        <li class="ipl-inline-list__item">
+                            <a href="/genre/Sci-Fi">Sci-Fi</a>
+                        </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Parents Guide</td>
+            <td>
+                <a href="/title/tt7617048/parentalguide">Add content advisory for parents &raquo;</a>
+            </td>
+        </tr>
+            </table>
+        </section>
+        <section class="titlereference-section-additional-details">
+    <header class="ipl-header">
+        <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Additional Details</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:akas/running_times/countries/language/color_info/technical_rat/sound_mix/locations">Edit</a>
+    </header>
+            <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Also Known As</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            Untitled Star Wars Film
+                        </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Official Sites</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+    <a href="/offsite/?page-action=offsite-title-reference&token=BCYoI_CMaJczK5NkgdW9bVD9lpGKDhBWsFA4YJ9t9xVacwVa-CmxQJWr-tnnNnpeizS-38AizRyq%0D%0A7mnDcgNNaG-DSkUsMRgHxsXXeHQ_Dfrk8GJQZRhjWf_VEeifv3PZD2zR3Dct_RCzf-LhxEloht-X%0D%0AWFftc77sGKb4P4GYwdb6tFk9Csa1U0akoICHmMQgJvJ6JFMrXtElEgzg4bkha5guBesZVNvDs3tf%0D%0AefDubllCDnh8htTNfzNvomFjJ66IKQe6OxmOxKT4209xBbkcaEBfRg%0D%0A"
+rel="nofollow" itemprop='url'>Official announce</a>
+                        </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Country</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            <a href="/country/US">United States</a>
+                        </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Language</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            <a href="/language/en">English</a>
+                        </li>
+                </ul>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Color</td>
+            <td>
+                <ul class="ipl-inline-list">
+                        <li class="ipl-inline-list__item">
+                            <a href="/search/title?colors=Color">Color</a>
+                        </li>
+                </ul>
+            </td>
+        </tr>
+            </table>
+        </section>
+        <section class="titlereference-section-did-you-know">
+    <header class="ipl-header">
+        <div class="ipl-header__content">                <h4 class="ipl-header__content ipl-list-title">Did You Know?</h4>
+</div>
+        <a class="ipl-header__edit-link" href="https://contribute.imdb.com/updates?update=tt7617048:trivia/goofs/soundtracks/crazy_credits/quotes/movie_links">Edit</a>
+    </header>
+            <table class="titlereference-list ipl-zebra-list">
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Trivia</td>
+            <td>
+                Producer Ram Bergman has previously worked with writer/director Rian Johnson on Brick (2005), Looper (2012), and Star Wars: The Last Jedi (2017).
+                    <a href="/title/tt7617048/trivia">See more &raquo;</a>
+            </td>
+        </tr>
+        <tr class="ipl-zebra-list__item">
+            <td class="ipl-zebra-list__label">Movie Connections</td>
+            <td>
+                Followed by
+<a href="/title/tt7618096/">Untitled Star Wars Trilogy: Episode II</a>.                
+                    <a href="/title/tt7617048/movieconnections">See more &raquo;</a>
+            </td>
+        </tr>
+            </table>
+        </section>
     </section>
 
-
-
-    <div class="article" id="see_also">
-        <h2>See also</h2>
-        <p>
-                        <span class="nobr">
-<a href="/title/tt0095016/taglines?ref_=ttpl_sa_1"
-class="link" >Taglines</a>
-<span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/synopsis?ref_=ttpl_sa_2"
-class="link" >Synopsis</a>
-<span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/keywords?ref_=ttpl_sa_3"
-class="link" >Plot Keywords</a>
-<span class="ghost">|</span></span>                        <span class="nobr">
-<a href="/title/tt0095016/parentalguide?ref_=ttpl_sa_4"
-class="link" >Parents Guide</a>
-</span>        </p>
-    </div>
 
   <script>
     if ('csm' in window) {
@@ -715,17 +929,17 @@ class="link" >Parents Guide</a>
   </script>
     <div class="article contribute">
         <div class="rightcornerlink">
-<a href="https://help.imdb.com/article/contribution/contribution-information/adding-data/G6BXD2JFDCCETUF4?ref_=cons_tt_pl_cn_gs_hlp"
+<a href="https://help.imdb.com/article/contribution/contribution-information/adding-data/G6BXD2JFDCCETUF4?ref_=cons_tt_cn_gs_hlp"
 >Getting Started</a>
             <span>|</span>
-<a href="/czone/?ref_=ttpl_cn_cz"
+<a href="/czone/?ref_=tt_cn_cz"
 >Contributor Zone</a>&nbsp;&raquo;</div>
         <h2>Contribute to This Page</h2>
 
                 <div class="button-box">
                     <form method="get" action="https://contribute.imdb.com/updates">
-                        <input type="hidden" name="ref_" value="ttpl_cn_edt" />
-                        <input type="hidden" name="edit" value="legacy/title/tt0095016/plotsummary" />
+                        <input type="hidden" name="ref_" value="tt_cn_edt" />
+                        <input type="hidden" name="edit" value="legacy/title/tt7617048/" />
                             <button class="btn primary large" rel="login" type="submit">Edit page</button>
                     </form>
                 </div>
@@ -755,39 +969,6 @@ class="link" >Parents Guide</a>
     
     <div class="aux-content-widget-2 links subnav" div="quicklinks">
 
-<a href="/title/tt0095016/?ref_=ttpl_ql"
-class="subnav_heading" >Die Hard</a>                <hr/>
-
-
-
-        <h4>Storyline</h4>
-
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/taglines?ref_=ttpl_ql_1"
-class="link" >Taglines</a>
-                </li>
-                <li class="subnav_item_main subnav_selected">
-<a href="/title/tt0095016/plotsummary?ref_=ttpl_ql_2"
-class="link" >Plot Summary</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/synopsis?ref_=ttpl_ql_3"
-class="link" >Synopsis</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/keywords?ref_=ttpl_ql_4"
-class="link" >Plot Keywords</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/parentalguide?ref_=ttpl_ql_5"
-class="link" >Parents Guide</a>
-                </li>
-    </ul>
-
-        <hr/>
-
-        <div id="full_subnav">
 
 
 
@@ -796,32 +977,53 @@ class="link" >Parents Guide</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/fullcredits?ref_=ttpl_ql_dt_1"
+<a href="/title/tt7617048/fullcredits?ref_=tt_ql_dt_1"
 class="link" >Full Cast and Crew</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/releaseinfo?ref_=ttpl_ql_dt_2"
+<a href="/title/tt7617048/releaseinfo?ref_=tt_ql_dt_2"
 class="link" >Release Dates</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/officialsites?ref_=ttpl_ql_dt_3"
+<a href="/title/tt7617048/officialsites?ref_=tt_ql_dt_3"
 class="link" >Official Sites</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/companycredits?ref_=ttpl_ql_dt_4"
+<a href="/title/tt7617048/companycredits?ref_=tt_ql_dt_4"
 class="link" >Company Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/locations?ref_=ttpl_ql_dt_5"
-class="link" >Filming & Production</a>
+<a href="/title/tt7617048/locations?ref_=tt_ql_dt_5"
+class="link ghost" >Filming & Production</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/technical?ref_=ttpl_ql_dt_6"
+<a href="/title/tt7617048/technical?ref_=tt_ql_dt_6"
 class="link" >Technical Specs</a>
                 </li>
     </ul>
 
 
+
+        <h4>Storyline</h4>
+
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+<a href="/title/tt7617048/taglines?ref_=tt_ql_stry_1"
+class="link ghost" >Taglines</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt7617048/plotsummary?ref_=tt_ql_stry_2"
+class="link" >Plot Summary</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt7617048/synopsis?ref_=tt_ql_stry_3"
+class="link ghost" >Synopsis</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt7617048/keywords?ref_=tt_ql_stry_4"
+class="link" >Plot Keywords</a>
+                </li>
+    </ul>
 
 
 
@@ -829,32 +1031,32 @@ class="link" >Technical Specs</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/trivia?ref_=ttpl_ql_trv_1"
+<a href="/title/tt7617048/trivia?ref_=tt_ql_trv_1"
 class="link" >Trivia</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/goofs?ref_=ttpl_ql_trv_2"
-class="link" >Goofs</a>
+<a href="/title/tt7617048/goofs?ref_=tt_ql_trv_2"
+class="link ghost" >Goofs</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/crazycredits?ref_=ttpl_ql_trv_3"
-class="link" >Crazy Credits</a>
+<a href="/title/tt7617048/crazycredits?ref_=tt_ql_trv_3"
+class="link ghost" >Crazy Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/quotes?ref_=ttpl_ql_trv_4"
-class="link" >Quotes</a>
+<a href="/title/tt7617048/quotes?ref_=tt_ql_trv_4"
+class="link ghost" >Quotes</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/alternateversions?ref_=ttpl_ql_trv_5"
-class="link" >Alternate Versions</a>
+<a href="/title/tt7617048/alternateversions?ref_=tt_ql_trv_5"
+class="link ghost" >Alternate Versions</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/movieconnections?ref_=ttpl_ql_trv_6"
+<a href="/title/tt7617048/movieconnections?ref_=tt_ql_trv_6"
 class="link" >Connections</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/soundtrack?ref_=ttpl_ql_trv_7"
-class="link" >Soundtracks</a>
+<a href="/title/tt7617048/soundtrack?ref_=tt_ql_trv_7"
+class="link ghost" >Soundtracks</a>
                 </li>
     </ul>
 
@@ -864,12 +1066,12 @@ class="link" >Soundtracks</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/mediaindex?ref_=ttpl_ql_pv_1"
-class="link" >Photo Gallery</a>
+<a href="/title/tt7617048/mediaindex?ref_=tt_ql_pv_1"
+class="link ghost" >Photo Gallery</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/videogallery?ref_=ttpl_ql_pv_2"
-class="link" >Trailers and Videos</a>
+<a href="/title/tt7617048/videogallery?ref_=tt_ql_pv_2"
+class="link ghost" >Trailers and Videos</a>
                 </li>
     </ul>
 
@@ -879,28 +1081,28 @@ class="link" >Trailers and Videos</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/awards?ref_=ttpl_ql_op_1"
-class="link" >Awards</a>
+<a href="/title/tt7617048/awards?ref_=tt_ql_op_1"
+class="link ghost" >Awards</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/faq?ref_=ttpl_ql_op_2"
-class="link" >FAQ</a>
+<a href="/title/tt7617048/faq?ref_=tt_ql_op_2"
+class="link ghost" >FAQ</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/reviews?ref_=ttpl_ql_op_3"
-class="link" >User Reviews</a>
+<a href="/title/tt7617048/reviews?ref_=tt_ql_op_3"
+class="link ghost" >User Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/ratings?ref_=ttpl_ql_op_4"
-class="link" >User Ratings</a>
+<a href="/title/tt7617048/ratings?ref_=tt_ql_op_4"
+class="link ghost" >User Ratings</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/externalreviews?ref_=ttpl_ql_op_5"
-class="link" >External Reviews</a>
+<a href="/title/tt7617048/externalreviews?ref_=tt_ql_op_5"
+class="link ghost" >External Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/criticreviews?ref_=ttpl_ql_op_6"
-class="link" >Metacritic Reviews</a>
+<a href="/title/tt7617048/criticreviews?ref_=tt_ql_op_6"
+class="link ghost" >Metacritic Reviews</a>
                 </li>
     </ul>
 
@@ -910,7 +1112,7 @@ class="link" >Metacritic Reviews</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/tvschedule?ref_=ttpl_ql_tv_1"
+<a href="/title/tt7617048/tvschedule?ref_=tt_ql_tv_1"
 class="link ghost" >TV Schedule</a>
                 </li>
     </ul>
@@ -921,34 +1123,30 @@ class="link ghost" >TV Schedule</a>
 
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/news?ref_=ttpl_ql_rel_1"
-class="link" >News</a>
+<a href="/title/tt7617048/news?ref_=tt_ql_rel_1"
+class="link ghost" >News</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/showtimes/title/tt0095016?ref_=ttpl_ql_rel_2"
-class="link ghost" >Showtimes</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/externalsites?ref_=ttpl_ql_rel_3"
+<a href="/title/tt7617048/externalsites?ref_=tt_ql_rel_2"
 class="link" >External Sites</a>
                 </li>
     </ul>
     <hr/>
-        </div>
 
-        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
-        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+
+        <hr/>
+
     </div>
   <div class="aux-content-widget-2" id="social-share-widget">
     
     <div class="social">
       <div class="social_networking">
        <span><strong>Share</strong> this page:</span>
-  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
-  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt0095016/"></a>
+  <a onclick="window.open(&quot;https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;https://twitter.com/intent/tweet?text=Untitled%20Star%20Wars%20Trilogy%3A%20Episode%20I%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="https://twitter.com/intent/tweet?text=Untitled%20Star%20Wars%20Trilogy%3A%20Episode%20I%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt7617048/"></a>
       </div>
-      <input type="text" name="share-link" value="https://www.imdb.com/title/tt0095016/" readonly>
+      <input type="text" name="share-link" value="https://www.imdb.com/title/tt7617048/" readonly>
     </div>
     <div class="social_networking_like">
         <script type="text/javascript">
@@ -964,125 +1162,10 @@ class="link" >External Sites</a>
             seamless
             frameborder="0"
             allowTransparency="allowTransparency"
-            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F"
+            data-src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/IMDbConsumerSiteSocialPluginViews/html/facebook-like-2606740705._CB499558675_.html?http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F"
         ></iframe>
     </div>
   </div>
-<script>
-    if (typeof uet == 'function') {
-      uet("bb", "RelatedListsWidget", {wb: 1});
-    }
-</script>
-        <div class="aux-content-widget-2">
-            <div id="relatedListsWidget">
-                <div class="rightcornerlink">
-                    <a href="/list/create?ref_=ttpl_rls"
->Create a list</a>&nbsp;&raquo;
-                </div>
-                <h3>User Lists</h3>
-                <p>Related lists from IMDb users</p>
-
-    <div class="list-preview even">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls025302025?ref_=rls_1"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls025302025?ref_=rls_1"
->
-Best Movie Of Every Year
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 44 titles
-            <br />created 6&nbsp;months&nbsp;ago
-            
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview odd">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls066998830?ref_=rls_2"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls066998830?ref_=rls_2"
->
-The 25 Best Movies of The 1980's
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 25 titles
-            <br />created 28&nbsp;Dec&nbsp;2016
-            
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview even">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls026763747?ref_=rls_3"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls026763747?ref_=rls_3"
->
-NEW
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 30 titles
-            <br />created 1&nbsp;day&nbsp;ago
-            
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview odd">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls023363173?ref_=rls_4"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls023363173?ref_=rls_4"
->
-Movies I've Watched
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 47 titles
-            <br />created 1&nbsp;month&nbsp;ago
-            
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-    <div class="list-preview even">
-        <div class="list-preview-item-narrow">
-<a href="/list/ls020394118?ref_=rls_5"
-><img height="86" width="86" alt="list image" title="list image" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/nopicture/medium/film-3385785534._CB499606919_.png" class="loadlate hidden " loadlate="https://ia.media-imdb.com/images/M/MV5BYTY2MTlhMTItZGFiOS00ZGM5LTlhYjUtZWU4NmZmOWJmNzc0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
-        <div class="list_name">
-            <strong><a href="/list/ls020394118?ref_=rls_5"
->
-TOP 50
-</a></strong>
-        </div>
-        <div class="list_meta">
-            a list of 46 titles
-            <br />created 8&nbsp;months&nbsp;ago
-            
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-                <div class="see-more">
-                    <a href="/lists/tt0095016?ref_=rls_sm"
->See all related lists</a>&nbsp;&raquo;
-                </div>
-            </div>
-        </div>
-<script>
-    if (typeof uet == 'function') {
-      uet("be", "RelatedListsWidget", {wb: 1});
-    }
-</script>
-<script>
-    if (typeof uex == 'function') {
-      uex("ld", "RelatedListsWidget", {wb: 1});
-    }
-</script>
 	
 	<!-- no content received for slot: bottom_rhs -->
 	
@@ -1146,13 +1229,13 @@ TOP 50
                 <div class="col outside">
     <h3>IMDb Everywhere</h3>
     <div class="app-links">
-    <a href="/offsite/?page-action=ft_app_apple&token=BCYuj2S85J0wd_7rTNRfPb8WiHieTC2ON0WKtS0i53u719w-pNk9UTWHLorCGqg0fXqAwij9trXd%0D%0ALAVcz6FkLAgpIw3xlgnIzitTH6voSiQDAGPkQObLXqvomZ6c6emHu_8S8hBzDhOFSWgM6B24wnqM%0D%0AK7-iR1bTx4hyQv2g4CUKZB1ZEU3t1Ej-guB6dzDKuPsGTG1duPm0hQHBvX8-Cc1jZdpR-JRQjUAD%0D%0Aj2u7ZFRNJz8%0D%0A&ref_=ft_app_apple"
+    <a href="/offsite/?page-action=ft_app_apple&token=BCYsDKw5xoaWU8-X1EckYCn-DoyUKLMTSPOenSj2WLR_dnwpJMHfOtpBY-nv8x9gOi7K1DLorSaz%0D%0At_tnvNMlw2ff2EdxDT6Dflnec-7X9yOuP03tYh7PYG5azMJds87apPKsx2M-yN02m8riXXpGLS9A%0D%0A_6W21aevL3WG6UFmb5j5CK7Q0mUFBwwyywWSZ6cPQMpMCGHURILdkjU-hDgQ-QIF5nmMC1tj5LxE%0D%0AuhW68f56OVM%0D%0A&ref_=ft_app_apple"
 title="Get the IMDb App on the Apple App Store" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-apple" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_google&token=BCYginWbtb_I24lwc99xjSet3Gp6aLXFFi9bF7ms2Eajadw1MOsictoXyMyemiyWgCQnOZy9bAB8%0D%0ApkEltaQqP53pLmXFVq2UJPT9vl5B4CCSGOawWUAg-FL16FXji1vb_oTttjpVBB31Lc99J3mqMhQO%0D%0A9gECnEs1iI2dSyojaXq657taUrYbLipJC9_hrKx5neOqxlpQX1Ds69J0flVqkWOT2h2HFQSontcM%0D%0Aq-5Jzgi7KVw%0D%0A&ref_=ft_app_google"
+    <a href="/offsite/?page-action=ft_app_google&token=BCYmUu5kQ56-TdQR7kZ--BwCG8o1Zi9BjWCmw9Fj-4bHZAW0Aa0XWdHFQYegXiMI_-_9yEA8wuNJ%0D%0A_yQkevZibX0jsRyulnlDgONOrc9LlLPs6psvKcUswQFLRfzp1hi1nWSR1oUruz9JH26w-iXfLb5X%0D%0Afdji1i0w6lRuFnB3rAACxylstHDp8eOl_BJe45s23WHUqWZ5AL0BO3yRu2w9w7xmdMcXJBkUvuTY%0D%0A_hVKZszit_U%0D%0A&ref_=ft_app_google"
 title="Get the IMDb app on Google Play" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-google" ></span>
 </a>
-    <a href="/offsite/?page-action=ft_app_amazon&token=BCYkryntecv725JKCfP9SjYwBre6nK9ZeOTp1IBRk0nn1MjQBUzTi8w9uS3tY1V6j3YjqF5taS0m%0D%0A_9g9C4mOuxbilmde1obpcBwXMc-kAQs4QVYj25kDErx8l2nC6FSQJW8cco-pYeqiVstaGp5S3Ya5%0D%0AIt7H8BymRWw9AEUvm7Zs3uEpZQYFkhGdkOtgrgeKnGvRBcY3A3yAitDSLlMmdhimqCNhJLitHkIO%0D%0AyfHJocJTOU2qt279jW-CIPjTePf6q4PNBT4Gk6JCVf_ESziw89D8dCUda_J7ITG9AfxZfJLPzV6b%0D%0ALKrWOUrCqE63wXdf9jFdeJWCXx5hXC51BUI5fh5YRyL8yqKhUjL5t_dXBbrMYjbjWRn_V3zwBfI7%0D%0AQwxUVpTSk5glzKg-WN9uJePBXYF8UgEA2WSxGG1lpk_t_QnVEe4%0D%0A&ref_=ft_app_amazon"
+    <a href="/offsite/?page-action=ft_app_amazon&token=BCYqksUbjsovQ6S_j40odwyq0yghNAJz7qOG3g_dPodIJANufaekeq1VrAYssy2fAYDfauT4Ndb0%0D%0Ad2qBMKbd4qE7BABdWd_enUKAUJ0HDjE4zfixLzZAHrKslL-znzdm2IbxsfZ7HlEcLLssxhMPmUcZ%0D%0Aq2kbtYN83IKWVnskQV95ZYLwxSSPtwnbULOxXurKRdbGAVmZxLDGfPTKKaXCbxb-SwvRbROFtbNJ%0D%0ATw5NJyEA_C0lbpZ33dSP5XjqbmP1txNBV3dOBdjAZeRkX88Kh5d8P25kvx29LWHxIs94Ixt-4EIz%0D%0AOvcUsuNlVi569CZf5NSbCWMjoXWdqOZUru_2GVDAkw2cc8VKuvBxQyZv9J3FjMzJIcrjmU-ihkI3%0D%0AgdKKaAW9OpVHhXzHz4puh9sSXye2QD4r8M79yjIvc-WAc2UUk-g%0D%0A&ref_=ft_app_amazon"
 title="Get the IMDb app on Amazon Appstore for Android" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-amazon" ></span>
 </a>
     </div>
@@ -1168,13 +1251,13 @@ class="touchlink" >IMDb Mobile site</a>
       Follow IMDb on
       <div>
 
-    <a href="/offsite/?page-action=fol_fb&token=BCYg6j6VMx0eznhabK-pE9F48xZWxnubU_5YWjsPQw1QrgTYpXxv8U5BM4S0X8CWp9xeNEQkyNy3%0D%0Ah0D15yWytZTCrXrdQp_cV2YIZ2yq6xgQPkz3SXv8PuSsYwIv4Tvrl9ZqTOq9iJbQEb3otmI7__ub%0D%0ATpxsSDyblg0SP6gWiRe40-ReMeJSkx12CcFXFs35Msflrk4YqNAtTRlNQO1kXUkf9g%0D%0A&ref_=ft_fol_fb"
+    <a href="/offsite/?page-action=fol_fb&token=BCYgjBovW8MhSgUJOLLlolPuLcTFjQSm1BOSXWT5ku0j3ud8IxbkHLG1N4eDbrYRDbvq6g8t2AyN%0D%0AvmxfwD9ekZmNj9flp7IhT3UELWWg9Tq5uOSHZc0Ng8g1mqvmIx4S0stlX7LZ9TgaanADAAZwC6ct%0D%0A7U9bZUbFQtc_kg6xFYQgQkhSgM3qenrSrcT0luneYoMZaoaZ9OCDh1CzyP-Kfbymuw%0D%0A&ref_=tr_ft_fol_fb"
 title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_tw&token=BCYtfkFx7ct5Yb7e6ziNdcCG0_OzfnQrJCZCjcNSKa63uRfmsTr3v7Vfl42-yLlA7BLFw5ABJlkr%0D%0A6j9zLXmjYJKMAZY9psaDea4Qto_na2gStSATEBhqiLSEtPUk9ou38YbP4UUp16lLC6P4CBD-yC0V%0D%0AzQtGQ5tuQj2u40fkI4WRf1d7XU-n_xaH30R1EOyYp4hl3IAEfA0fSLt2l7JfhR1pUw%0D%0A&ref_=ft_fol_tw"
+    <a href="/offsite/?page-action=fol_tw&token=BCYldUXgyuhJM2G0qxDgo8T1yVo9svA5NzQ8YfL-q5SCRXWEZHbsy8GVIzbl8gIB-DkQdcwxIIU7%0D%0AdTkfFuhFkaLvQMuDLk3osiilrFvlG9n78n4UCW_uXC3BKJct8faTXQ8Jnah_rNhoHL07UgKHLsLc%0D%0A-wEeeqndv3ZEkUMAYEC_0wToMx719N2oywpQDjWURFMU-VovX2S3Z4bbfWmMbfmF_w%0D%0A&ref_=tr_ft_fol_tw"
 title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
 </a>
-    <a href="/offsite/?page-action=fol_inst&token=BCYjJ9eC9mZB6ey1eqxN1IlXLExW-QE_ExCrN1b53X3esAcYgaPpiNS0jqjPHVMztfGT-_rupymx%0D%0A6pRqtz6PrATQorBoe66CROEOOPQDURMAUj1PFQcRhPY6qcvBtSvUsz94J-U9gxN-3Fq-x4M6sFrh%0D%0AGwDCSmEWFu5nlMew4Gpy1yhP1TvofDrvRaddTb2jXuSYDnDsdP35aWjIny3Kx8ocHg%0D%0A&ref_=ft_fol_inst"
+    <a href="/offsite/?page-action=fol_inst&token=BCYkSjHZQmGW-s-RJPye9kUa9HHUala6L8uequFjGl0nUt_JqFqEBaH8ZeSC9fjHS3ShYOM67uB4%0D%0AIcJz_-K2xMoehNooFWZX4_tnmm5k3r2gjDts2TXIgJ9aLlaNUz-vREFEWPgWNNUer3LZrFE0oukc%0D%0Aee3ekpWlnKB9Fc9-IGuLybGU6pzyaoh_EpjEk5WAhN9_bt6Vj5-FQJK38zBxNTIVOQ%0D%0A&ref_=tr_ft_fol_inst"
 title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
 </a>
       </div>
@@ -1225,10 +1308,10 @@ title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="de
             <ul class="unstyled">
                 <li><a href="https://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
 >IMDbPro</a></li>
-                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYqXwYgaaHJFCWlIR4L4e4kJtWEwRMy4uQYRua_HF5VxS-k3sYRxe_q_aBXQBpKCAivnAvQmKtS%0D%0Al3Aw03wBiBXRp02cwCFuFRW6n0GHc9t758mUWDV4eP1IAslDAFLUWn8jzQMgS-p5R8vWVWUAjbK7%0D%0AYvNY7w5SQ4qq2L0moVnIg9bGugm-apYj-GVceij9UdShqIXF4N195YRZK945X9u7eA%0D%0A&ref_=ft_bom"
+                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYqzfSIeAQ1ClEo5JvGQ7RlDuXvIhYWtBC0v1WULe2Y6t_b_VYXPY5Lpu0o8sFOXed53m4UUtCz%0D%0ACnmudvkreWdDfnmnyQk8kZ8jYDBD4pEptV1RUXAZoD1nK6LbMdawhfwa54A9obu8S7sOAFCe9y6D%0D%0AMWpnuVgsJDhKIsuhB9v15M9FxuQwClqTW02coielFIiqQ4MtaN9x0t3AWJ5aMrTh3g%0D%0A&ref_=ft_bom"
 itemprop='url'>Box Office Mojo</a>
 </li>
-                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYtVsxqPLzQZgpsfi8qiscZMWtDPF_8AKcDVijc84-4CbYGk3EVjl1dl2oS9kG9xCl7jfRL7DQQ%0D%0A4fIqMVwNlfGLwSwEAzT3CLwyyxJcSsfBfm_HPIOjwLcLM7HIHehUmuLQPh3JM6s7aGQH_FVWGg_x%0D%0AqFlRO65uDA-5U0MvVrsKUMLCcVeHNbdS_sk8bR7F4PoUvw8t0GdBqlrn8eVazfBL8g%0D%0A&ref_=ft_wab"
+                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYq3g1sIeInl9JI7Ug_Wanag4wBpR4jy77Td2vasq-n5tOc6da17DNYKpEvydnR9sCAMnDYOamb%0D%0AoYewKrszTUSyrkltAypPPPUB4yDvJgrXbXxbYVBu00Zyp20YKmsjNZ5-YNPQ1c-kuZi9LtbH5X96%0D%0A5s0Nx92WUSwNpvSeZWzHDtEsrp7VhORY-ATwab20ir_Shlnj7TTGvyFhDPiUajgkVg%0D%0A&ref_=ft_wab"
 itemprop='url'>Withoutabox</a>
 </li>
                 <li class="spacer"></li>
@@ -1236,7 +1319,7 @@ itemprop='url'>Withoutabox</a>
 >Conditions of Use</a></li>
                 <li><a href="/privacy?ref_=ft_pvc"
 >Privacy Policy</a></li>
-                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYnju6UNE22ps2Utvwt2c3E8ogfN4oSHR2aLFqZqpYcOcEVOoKd2VTRe7jn_2kLGj7F27qwySFp%0D%0AyPzSU6WKAtfwOPOlCRec9kddmeH_HyrqqiLfgPZkVDVczA5HiWg7CYEAGI6b5Norrlpbsqsh3_H0%0D%0A2zN7s1i2ED3a9PLjneeVEVn_SgFvLZ-1sKroiNf7gHcNP5t6UbBCmEkOFmsm6IMy-hNMFWonj04w%0D%0AGiUb1EVEIpUjpt8CBlCHGsg-Xu86EcO7%0D%0A&ref_=ft_iba"
+                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYs3wWOpT4Yxb5uth8dxNMYNH8lowsTz68s6OzBCTs9kcZUC-yECt5Jbc8G5jwNr_HYjPQ0a_sZ%0D%0A4_NQuhS03etok2-fqcSZ7Ad6I3LCI8-YZo1sJjebrsbp_s3wfRJz59yNdz8iINfD4wBYDpmTLZGZ%0D%0AmraEYRCbrc0gu6mgvJyBRh5ZOmZdIuHLIrSOWgwN0NivDxV-a7ou403EMHXpofLI97z9S3M4zRGL%0D%0AoiybjBNZNkQz14REykRTQu6r_txw8c0z%0D%0A&ref_=ft_iba"
 itemprop='url'>Interest-Based Ads</a>
 </li>
                 <li class="spacer"></li>
@@ -1271,7 +1354,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-aiv&token=BCYvsnmL-cpXEGcxw-7NvN0etd-vB73kwTIsacrMc3KD45dDE2GDiUm34te9gWuJFS7nFQLmLQoH%0D%0AXYNTHyXWKqqM1dDlyi2bZago4-O0b0jVxY_0wgsfpJgJgu9KBsGMt_C6J5SUiyK-RzMXv2_hQggk%0D%0AieF_QZchQ93FJ9HCXo3WNuxoKE2ATJERmoj7e3QWkaCq5HvyunZo6L-p75VjfOZPWg3x1k4Jtpey%0D%0AisPx2bg7T9k%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-aiv&token=BCYooNlGGQk6Ys0drS-225qsxovL2akD8AubMkqkKLbs4dKC5OyT51nTWPwr3_Mk0ulIvbOJUa8L%0D%0ARFfYM1SwTHvbkKqCEBQ05eEtDRFseFcuqSv1qcXcOOFrd8jwxnhhRe2ud3sxbfqqPBUNSCQHKPf0%0D%0Az5fz4gnd3b0QbTgnZAF3xffu8y_BDHRCTQXCHLJ0Tvc4rsYC5Fot97sZXldquF1O8kRbszWA9tbV%0D%0AcR_l3lUQ2aU%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Video</span><br>
                 <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
             </a>
@@ -1280,7 +1363,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-piv&token=BCYh4O2GK27vs-1spC_j9AOLSR8akyjogdcnwZxjtxa6jpAP2lfTX6zb_TptKvI2UdUUWORrrRJT%0D%0ABxuW5l3j5GoAqqcvxjtSd7Px0Ybr3rHQJSyP56lRpmrLeektQxCe_Z3JSr51eMARi5DTsl80KErV%0D%0AKqyhQKFM6K4sBP0_ZI0T8N74hZmG4qN0cgxkjDBhpk3g4TBEqeQa0odIgrqrNH9HFxitRNSmJvzO%0D%0A7SZ8ZCVbPIc%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-piv&token=BCYkwpLfdBCo0ndTKBtkBfalckJ3czxRmBdD7KghMD-uOCyuaw48oQ5OqkO0M5i2EeaN2ax251B0%0D%0APE8wEQoKLMsUmYpB_ra9PnpOp-lq4o4HrgRpPVxQfoaCA3KXAL-ict4bVa4AgOoOsAszKym8Nbdt%0D%0A8O25UUAb009SylEeUHHWmIvyv9XpJk19lS_i8Sg6EcWkbGtIlp0AQ-yibw0Q80bW9EdbWrIC3tIS%0D%0Azh_vC4Yf1HM%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Prime Video</span><br>
                 <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
             </a>
@@ -1289,7 +1372,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-de&token=BCYvRw0TUxTuiZi7PN4ZMSAjYAEMTlP49kWNVQpJtiewr8YnxOYA_saz_8Zexgs8SQL0lS1u9217%0D%0AXpMpZro8sy7znHGFqr2o8eeKHDeinnPHZZfAwJCNZj1LDjdjIKFxl7vcaXT-kkBHxVEjSZrbtqWz%0D%0Arci81KQXYKHfXIy4NuNhhJ55YE31ypQboxs0QtitqCEZ78P_jgjD9jHY2_uvqCcnTtfECg71X9wx%0D%0AHwfVPRSxEDs%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-de&token=BCYhQpxF34iGWNF1qSe-UtvoogYWy2gISsvnASaz6xe2Xl_0z1vSaY8Zdhnv3cEObLKf5p7zcTOR%0D%0AYnaeIc3XOhyM-NRGmCIsfHRdHW0id54xHWCQL8ZDarkfEHoX9anB04Meqf6XnnLWyPJxsw1l6Jyn%0D%0AsjvUv7LHZ-JwpY2PlA1k1JsjaqRspGi8LwlIlBNbgaKnbNI4uFhaC2GMVpKVhCcf-K21YzTtoNrP%0D%0AgBsZhZJX69g%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1298,7 +1381,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-it&token=BCYrqFcTGpfXUcVxKo_g-LiyVvBlEAQfg_iHAdOQrEpoUcAUMpDXM1vJXZmbUME-f2lpoe02ZwYX%0D%0AZAiPGq4VOg68n2NV8dPM8PQH1WbthliBNMOdyrnjUY0bgh3vOIqnzTpVUq65SRamq-QJAQX_624H%0D%0AWaBwjas28T-qGNLwOily2MgBPybMFG5T5MPHBwfH32bay0qm09dkSNYjVlJzUdmLr8HoYLh6QAfX%0D%0AW_iyC1UjEgs%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-it&token=BCYkZJ2fQ5u7OtJF98NNSI6ktzIBjP0VwhDds67vPmq7y2KlbmHEk-701_MxQ2nl58JEvh3c7VIX%0D%0AZS5ilboqkP8wysxwnIzXRAEnjIV0cVzjwFIznEjtJaIU_owgUDW81x6slHOA5Lata5BMaFcuTtFC%0D%0AXdXzRMRRWXUJTcnhkA_zLBHk9cM3KJ-Rekkmdtnma-PbglGxuIiMbUPB1QvYGDf4PLcy2pt0_yFl%0D%0AWxgV2tF_M2g%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1307,7 +1390,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYufpfZ6qJpwqCHdrnCnpnpmv4XCQKdq7vzX4bu6k63SnIP6mCI8UhFw5vrzu7Aqs-B32NjM9QC%0D%0AJKcnGaLCTgaJRkhTiNEg3hyP03HWlh7-pAOZ4Nhn7GKdCK_wz0dSveYsVRCJoyWEZdz1d5LMS-eA%0D%0Ags5GZb4Hig8TLw6tZg1G9BIvLYsD2cYAoR6hwQGgys3wrNWCTHrROxlyTTvm-sl90ZJUdhalEpSn%0D%0AxsTtkRguabw%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYhr9KGbYu59hYAtxOYi2mr5_rVMEeHQD1JStstOb-dAFmZU452G7s8REUWRLIHJ5b-dCpWANfn%0D%0AX96MpsADhWDmNxolQt7t3MyKjzmMjW81OGhujfbLZM2ie0WHnumSsQizyKQUYYW0QaPz26HwCDAr%0D%0AGJ56hUelnfJ4LwLiG97DknFhzFjAyFWcEzIvIt-FriiLC1w1vnlCOTn6UUndNDxmcmV5fFDyTPCP%0D%0A4DCZJxrwnIY%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon France</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
             </a>
@@ -1316,7 +1399,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-in&token=BCYt09i-lySL4b_5vFox-cuwelhUZiJSeqRWPkbp56kTXoh-pSv6cSWlcqwVLnwitfydAWfiLNTu%0D%0AArf6sm0ZubUZUqRdZMDtTWfO_E48fL63rjEX7wkLZeONPJ6Xd27hpzTjHa29KQQolJRssrURiBpf%0D%0AGn3FVmpjd1M5KWVBVd1dW1bKN_yu6AJ_OH8Yt2ntU_zRW7BrbG-zE8YTmwDmhK5KL9XzLJrthtUQ%0D%0AO41nik5l2McE6UbeVoF5MG0gqcjNpRHa%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-in&token=BCYuYfT9A6Q8q6bc8RVRO5lsA5NgeOmPlFjQTSAL2hCEs4FAbVw51RQpZtEO-jVwdqVhSodkw14y%0D%0ASljmday9y1vvhTwwBgYtofCIsuRqgoA_n4q4svYlT4wpKB2nAt0e87_rfWTbSeIX9z0k1tc57VTX%0D%0A7OjJChpDQat7_PdQH731qYVVOiCHGuqSfGmLY-ykC3_zrT7me7q6yz6jpeiiNZa9F62A7S6HrRKW%0D%0AZvFTjH_oUzzwAuVysgMDlq4yGXuQpmh9%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Amazon India</span><br>
                 <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
             </a>
@@ -1325,7 +1408,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYm9Ap8FoBM3cGkDvvL_sez5s__rnAg2_s8s0daDHzUiR2v9CJPUpsIU_sonatmenWaTQaKo_mz%0D%0AwaU3ei63LZ4mS94hHmVO_J3dGfoKsMq_JWqJDbuerb08DOaB3hx7UGu58CYV2nk_z66CnfnenIG2%0D%0AGa2L-_sdgpmng-QDnuUM5R4%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYqf8txj4iETMIl7L6-lgrIWgqkhIYcNtwM9jm03vAoaESk56O2iGyiwwgVwnK1tgQBdWwzEXSK%0D%0Ah7BTqE9zy6h5ZAIyVLUral57TJthNZgkM0KIx9oSU5UP2E7is6ALxBxt3plIuODw5qWVgGSYoII4%0D%0AxUB3LpWAstf2Ys5EDAUWrY4%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">DPReview</span><br>
                 <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
             </a>
@@ -1334,7 +1417,7 @@ itemprop='url'>Interest-Based Ads</a>
 
     <td>
         <div>
-            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYqsU5ShDedcrVd9ksHxsvE-bX8FjyT1eRFqKHCQCNnyNY09H0Sq5A7ITyTJ_XRBHX-Dsn0HI0G%0D%0A4m7zGvlTIKjLxcs1yh-aomidQMFjpAXubYCkkd0XVd3Zd8bgMigEeaUTtPKgWMsQ8JNKBbQF2vUg%0D%0AHp46gzbrip2BR5te8o003so%0D%0A" class="amazon-affiliate-site-link">
+            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYth7Poz9myAU4Z752LcYGUnc34tjWpTbPdde1yg62tBst4NJkn_WM6kIDZCqT4eSREOIi6dPTz%0D%0AYxDaCovCDBi9VF6YxweRdy9PJ6UG8qCQo57VnXHPerl1_ulFCY2Iv776Egz-2evrLgqLy1AxM6IM%0D%0A6Z7vki9tFBg4Jy6n9SuijQs%0D%0A" class="amazon-affiliate-site-link">
                 <span class="amazon-affiliate-site-name">Audible</span><br>
                 <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
             </a>
@@ -1369,7 +1452,7 @@ itemprop='url'>Interest-Based Ads</a>
                 jQuery(
                              function() {
            var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
-               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&colorscheme=light",
+               url = "https://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7617048%2F&colorscheme=light",
                like = document.getElementById('iframe_like');
 
            if (!isAdvertisingThemed && like) {
@@ -1391,7 +1474,7 @@ itemprop='url'>Interest-Based Ads</a>
         </script>
 
 
-<div id="servertime" time="75"/>
+<div id="servertime" time="374"/>
 
 
 
