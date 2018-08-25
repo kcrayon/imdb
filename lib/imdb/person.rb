@@ -11,21 +11,21 @@ module Imdb
 
     # NOTE: Can a Person not have a name on IMDB?
     def name
-      get_node("//span[@itemprop='name']")
+      get_node("//h1[@class='header']/span")
     end
 
     def roles
-      get_nodes("//span[@itemprop='jobTitle']")
+      get_nodes("//div[@id='name-job-categories']/a/span")
     end
 
     def birth_date
-      get_node("//time[@itemprop='birthDate']") do |node|
+      get_node("//div[@id='name-born-info']/time") do |node|
         Date.parse(node['datetime'])
       end
     end
 
     def death_date
-      get_node("//time[@itemprop='deathDate']") do |node|
+      get_node("//div[@id='name-death-info']/time") do |node|
         Date.parse(node['datetime'])
       end
     end
@@ -41,7 +41,7 @@ module Imdb
 
     # NOTE: Can a Person not have a bio on IMDB?
     def bio
-      get_node("//div[@itemprop='description']/text()")
+      get_node("//div[@class='name-trivia-bio-text']/div[@class='inline']/text()")
     end
 
     # Returns an array of Imdb::Movie objects with some data pre-populated
@@ -67,7 +67,7 @@ module Imdb
     end
 
     def award_highlight
-      get_node("//span[@itemprop='awards']/b") do |node|
+      get_node("//span[@class='awards-blurb']/b") do |node|
         node.content.gsub(/[[:space:]]+/, ' ').strip
       end
     end
@@ -78,7 +78,7 @@ module Imdb
 
     def personal_quote
       get_node("//div[h4[text()='Personal Quote:']]") do |node|
-        node.content.delete("\r\n").strip.gsub(/^Personal Quote:/, '').gsub(/\s\s+See more.*/, '')
+        node.content.delete("\r\n").strip.gsub(/^Personal Quote:\s+/, '').gsub(/\s\s+See more.*/, '')
       end
     end
 

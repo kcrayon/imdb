@@ -24,24 +24,12 @@ describe 'Imdb::Person' do
       known_for = subject.known_for
       expect(known_for).to be_an(Array)
       known_for.each { |movie| expect(movie).to be_an_instance_of(Imdb::Movie) }
-
-      expect(known_for.last.id).to eq('0053779')
-      expect(known_for.last.title).to eq('La Dolce Vita')
-      expect(known_for.last.year).to eq(1960)
-      expect(known_for.last.poster_thumbnail).to match(/\Ahttp.*jpg\Z/)
-      expect(known_for.last.related_person).to eq(subject)
-      expect(known_for.last.related_person_role).to eq('Writer')
-
-      expect(known_for[1].id).to eq('0050783')
-      expect(known_for[1].title).to eq('The Nights of Cabiria')
-      expect(known_for[1].year).to eq(1957)
-      expect(known_for[1].poster_thumbnail).to match(/\Ahttp.*jpg\Z/)
-      expect(known_for[1].related_person).to eq(subject)
-      expect(known_for[1].related_person_role).to eq('Writer')
+      known_for_titles = known_for.map(&:title)
+      expect(known_for_titles).to include("Amarcord", "La Dolce Vita")
     end
 
     it 'finds their picture thumbnail' do
-      expect(subject.picture_thumbnail).to eq('https://ia.media-imdb.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1_UY317_CR8,0,214,317_AL_.jpg')
+      expect(subject.picture_thumbnail).to eq('https://m.media-amazon.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1_UY317_CR8,0,214,317_AL_.jpg')
     end
 
     it 'finds their roles' do
@@ -160,7 +148,13 @@ describe 'Imdb::Person' do
     end
 
     it 'finds the personal quote even if there is a hyperlink in it' do
-      expect(subject.personal_quote).to eq("What would happen if you melted? You know, you never really hear this talked about much, but spontaneous combustion? It exists!...[people] burn from within...sometimes they'll be in a wooden chair and the chair won't burn, but there'll be nothing left of the person. Except sometimes his teeth. Or the heart. No one speaks about this, but its for real.")
+      expect(subject.personal_quote).to eq(
+        "[on his biggest challenge] Settling down. I am pretty nomadic. Staying in one place is hard for me. " +
+        "I've rented homes before and I've stayed in hotels - I was in a hotel for almost four years in the " +
+        "early Nineties - but the road has also been my home. I was in Australia for 16 months doing " +
+        "The Matrix Revolutions (2003) and The Matrix Reloaded (2003). I've made more than 40 films, so if " +
+        "you think ..."
+      )
     end
   end
 

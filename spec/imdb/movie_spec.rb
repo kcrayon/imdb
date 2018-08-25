@@ -72,7 +72,7 @@ describe 'Imdb::Movie' do
       end
 
       reviews_with_ratings = first_reviews.select { |r| r[:rating] }
-      expect(reviews_with_ratings.size).to eq(34)
+      expect(reviews_with_ratings.size).to be_between(20, 40)
       reviews_with_ratings.each do |review|
         expect(review[:rating]).to be_an(Integer)
         expect(review[:rating]).to be_between(0, 10)
@@ -94,7 +94,16 @@ describe 'Imdb::Movie' do
       end
 
       it 'returns the imdb actor number for each cast member' do
-        expect(subject.cast_member_ids).to match_array(%w(nm0000246 nm0000614 nm0000889 nm0000952 nm0001108 nm0001817 nm0005598 nm0033749 nm0040472 nm0048326 nm0072054 nm0094770 nm0101088 nm0112505 nm0112779 nm0119594 nm0127960 nm0142420 nm0160690 nm0162041 nm0234426 nm0236525 nm0239958 nm0278010 nm0296791 nm0319739 nm0322339 nm0324231 nm0326276 nm0338808 nm0356114 nm0370729 nm0383487 nm0416429 nm0421114 nm0441665 nm0484360 nm0484650 nm0493493 nm0502959 nm0503610 nm0504342 nm0539639 nm0546076 nm0546747 nm0662568 nm0669625 nm0681604 nm0687270 nm0688235 nm0718021 nm0731114 nm0776208 nm0793363 nm0852311 nm0870729 nm0882139 nm0902455 nm0907234 nm0924636 nm0936591 nm0958105 nm2143912 nm2476262 nm2565888 nm0403767 nm0727004 nm1170673 nm0443038))
+        expect(subject.cast_member_ids).to match_array(%w(
+          nm0000246 nm0000614 nm0000889 nm0000952 nm0001108 nm0001817 nm0005598 nm0033749 nm0040472 
+          nm0048326 nm0072054 nm0094770 nm0101088 nm0112505 nm0112779 nm0119594 nm0127960 nm0142420 
+          nm0160690 nm0162041 nm0234426 nm0236525 nm0239958 nm0278010 nm0296791 nm0319739 nm0322339 
+          nm0324231 nm0326276 nm0338808 nm0356114 nm0370729 nm0383487 nm0416429 nm0421114 nm0441665 
+          nm0484360 nm0484650 nm0493493 nm0502959 nm0503610 nm0504342 nm0539639 nm0546076 nm0546747 
+          nm0662568 nm0669625 nm0681604 nm0687270 nm0688235 nm0718021 nm0731114 nm0776208 nm0793363 
+          nm0852311 nm0870729 nm0882139 nm0902455 nm0907234 nm0924636 nm0936591 nm0958105 nm2143912 
+          nm2476262 nm2565888 nm0403767 nm0727004 nm1170673 nm0443038 nm2379889
+        ))
       end
     end
 
@@ -120,7 +129,7 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds the languages' do
-      expect(subject.languages).to match_array(%w(English German Italian))
+      expect(subject.languages).to match_array(%w(English German Italian Japanese))
     end
 
     context 'the Dark Knight' do
@@ -145,15 +154,20 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds plot summary' do
-      expect(subject.plot_summary).to eq('NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of bank robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.')
+      expect(subject.plot_summary).to eq(
+        "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. " +
+        "While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building " +
+        "and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no " +
+        "immediate police response, John is forced to take matters into his own hands."
+      )
     end
 
     it 'finds the poster thumbnail' do
-      expect(subject.poster_thumbnail).to eq('https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SY150_CR0,0,101,150_.jpg')
+      expect(subject.poster_thumbnail).to eq('https://m.media-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_SY150_CR0,0,101,150_.jpg')
     end
 
     it 'finds the poster' do
-      expect(subject.poster).to eq('https://ia.media-imdb.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@.jpg')
+      expect(subject.poster).to eq('https://m.media-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@.jpg')
     end
 
     it 'finds the rating' do
@@ -306,7 +320,7 @@ describe 'Imdb::Movie' do
       # Pulp Fiction (1994)
       subject { Imdb::Movie.new('0110912') }
       it 'has a poster' do
-        expect(subject.poster).to eq('https://ia.media-imdb.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@.jpg')
+        expect(subject.poster).to eq('https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg')
       end
     end
   end

@@ -164,7 +164,7 @@ module Imdb
           review_divs = reviews_doc.search('div.review-container')
           break if review_divs.empty?
           review_divs.each do |review_div|
-            title = review_div.at('div.title').text
+            title = review_div.at('a.title').text
             text = review_div.at('div.content div.text').text
             rating_html = review_div.at_xpath(".//span[@class='point-scale']/preceding-sibling::span")
             rating = rating_html.text.to_i if rating_html
@@ -203,7 +203,8 @@ module Imdb
 
     # Returns a string containing the mpaa rating and reason for rating
     def mpaa_rating
-      get_node("span[@itemprop='contentRating']", apex_document)
+      get_node("//div[h4[text()='Certificate:']]/span", apex_document) ||
+        get_node("//div[h4[a[text()='MPAA']]]/span", apex_document)
     end
 
     # Returns a string containing the MPAA letter rating.
