@@ -12,8 +12,6 @@ Gem::Specification.new do |s|
   s.summary     = 'Easily access the publicly available information on IMDB.'
   s.description = 'Easily use Ruby or the command line to find information on IMDB.com.'
 
-  s.rubyforge_project = 'imdb'
-
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.executables   = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
